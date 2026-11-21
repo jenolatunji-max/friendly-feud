@@ -8,3 +8,8 @@ dist/friendly-feud/
 
 # macOS
 .DS_Store
+
+# Vercel local link
+.vercel/
+.vercel
+.env*
