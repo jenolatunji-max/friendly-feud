@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; font-src data:; img-src data:">
+<title>{{BRAND}} Quick-Start Guide</title>
+<link rel="icon" href="{{FAVICON}}">
+<style>
+/*@FONT*/
+@page { size: letter; margin: 0.4in; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; background: #E9ECF5; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #0A1238; }
+.sheet { width: 8.5in; min-height: 11in; margin: 24px auto; background: #FFF6E0; box-shadow: 0 10px 40px rgba(0,0,0,.2); display: flex; flex-direction: column; }
+@media print { body { background: #fff; } .sheet { margin: 0; box-shadow: none; width: auto; min-height: 0; height: 10.2in; } }
+header { background: #0A1238; background-image: radial-gradient(ellipse 70% 90% at 50% -10%, rgba(47,107,255,.55), transparent 70%); color: #FFF6E0; padding: 18px 32px 16px; display: flex; align-items: center; gap: 22px; }
+header .logo { width: 220px; flex: none; }
+header .logo svg { width: 100%; height: auto; display: block; }
+header h1 { font-family: Anton, Impact, 'Arial Narrow Bold', sans-serif; font-weight: 400; font-size: 40px; margin: 0; letter-spacing: .03em; text-transform: uppercase; color: #F6B93B; line-height: 1; }
+header p { margin: 6px 0 0; font-size: 15px; }
+main { padding: 18px 32px 12px; flex: 1; }
+h2 { font-family: Anton, Impact, 'Arial Narrow Bold', sans-serif; font-weight: 400; font-size: 22px; text-transform: uppercase; letter-spacing: .04em; color: #1C3FAA; margin: 10px 0 8px; }
+ol.steps { list-style: none; counter-reset: s; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 8px 16px; }
+ol.steps li { counter-increment: s; display: flex; gap: 10px; align-items: flex-start; background: #fff; border: 2px solid #1C3FAA; border-radius: 12px; padding: 8px 10px; font-size: 13.5px; line-height: 1.35; }
+ol.steps li::before { content: counter(s); flex: none; display: grid; place-items: center; width: 30px; height: 30px; border-radius: 50%; background: #F6B93B; color: #0A1238; font-family: Anton, Impact, sans-serif; font-size: 18px; }
+ol.steps b { display: block; font-size: 14.5px; }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.box { background: #fff; border-radius: 12px; padding: 10px 14px; border: 1px solid #D9D2BF; font-size: 13px; line-height: 1.4; }
+.box ul { margin: 0; padding-left: 1.1em; }
+.box li { margin-bottom: 3px; }
+dl { margin: 0; font-size: 12.5px; line-height: 1.35; }
+dt { font-weight: 800; margin-top: 6px; }
+dd { margin: 1px 0 0; }
+kbd { border: 1px solid #0A1238; border-bottom-width: 2px; border-radius: 4px; padding: 0 5px; font: 700 12px system-ui, sans-serif; background: #fff; }
+footer { padding: 10px 32px 16px; font-size: 11.5px; color: #3A4470; display: flex; justify-content: space-between; border-top: 2px dashed #D9C79A; }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <header>
+    <div class="logo">{{LOGO}}</div>
+    <div><h1>Quick-Start Guide</h1><p>The survey game show for your living room. No PowerPoint. No macros. No sign up. No internet needed.</p></div>
+  </header>
+  <main>
+    <h2>Game night, step by step</h2>
+    <ol class="steps">
+      <li><div><b>Download</b>Download the zip file from your Etsy purchase page (Purchases and reviews) on a laptop or desktop computer.</div></li>
+      <li><div><b>Unzip</b>Windows: right-click the zip and choose Extract All. Mac: double-click the zip. Chromebook: open it in Files and copy the files out.</div></li>
+      <li><div><b>Double-click index.html</b>It opens in your web browser (Chrome, Edge, Firefox or Safari). Nothing to install, enable or unblock.</div></li>
+      <li><div><b>Open the TV board</b>Plug your laptop into your TV with an HDMI cable, or cast/AirPlay the screen. Set the display to Extend. Click Quick Play, drag the TV board window onto the TV, click it and press <kbd>F</kbd>.</div></li>
+      <li><div><b>Play!</b>Your laptop shows the answers. The TV shows the board. Click an answer to flip it, press <kbd>X</kbd> for a strike and <kbd>U</kbd> to undo.</div></li>
+      <li><div><b>Before guests arrive</b>Run Setup Check on the home screen. It tests your TV, sound and buzzers in about a minute.</div></li>
+    </ol>
+    <div class="cols">
+      <div>
+        <h2>Good to know</h2>
+        <div class="box"><ul>
+          <li><b>Your Crowd:</b> text your questions to guests, paste their replies back in, and the board fills with their real answers.</li>
+          <li><b>One screen?</b> Choose One screen in Custom Game. Hold <kbd>H</kbd> for the host panel, and print host cards.</li>
+          <li><b>Sounds:</b> Settings, Sound. Turn off any sound, or mute all.</li>
+          <li><b>Buzzers:</b> USB buzzers that type a key work. Set them in Settings.</li>
+          <li><b>Keys:</b> <kbd>1</kbd>-<kbd>8</kbd> reveal, <kbd>X</kbd> strike, <kbd>U</kbd> undo, <kbd>N</kbd> next round, <kbd>F</kbd> full screen.</li>
+          <li><b>Needs:</b> a laptop or desktop (Windows, Mac or Chromebook). Not for iPad or phone.</li>
+        </ul></div>
+      </div>
+      <div>
+        <h2>Troubleshooting</h2>
+        <div class="box"><dl>
+          <dt>The TV window didn't open.</dt><dd>Allow pop-ups: click the blocked pop-up icon in the address bar, choose Always allow.</dd>
+          <dt>The TV shows the same thing as my laptop.</dt><dd>Switch the display to Extend (Windows: <kbd>Win</kbd>+<kbd>P</kbd>. Mac: Displays, turn off mirroring).</dd>
+          <dt>No sound from the TV.</dt><dd>Pick the TV as your sound output, and check Settings, Sound is not muted.</dd>
+          <dt>The page refreshed mid-game.</dt><dd>Open it again and choose Pick up where you left off.</dd>
+          <dt>It opened in the wrong app.</dt><dd>Right-click index.html, choose Open with, and pick your browser.</dd>
+          <dt>Can I edit the questions?</dt><dd>Yes. Home, Edit Questions. Duplicate any pack to change it.</dd>
+        </dl></div>
+      </div>
+    </div>
+  </main>
+  <footer><span>{{BRAND}} is an independent party game. Not affiliated with any TV show.</span><span>Works offline. No accounts. No tracking.</span></footer>
+</div>
+</body>
+</html>

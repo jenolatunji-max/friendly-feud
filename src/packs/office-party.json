@@ -1,0 +1,1642 @@
+{
+  "id": "office-party",
+  "name": "Office Party",
+  "audience": "Coworkers; work-safe",
+  "region": "US",
+  "source": "estimate",
+  "rounds": [
+    {
+      "q": "Name something you'd find in the office break room",
+      "answers": [
+        {
+          "text": "Coffee maker",
+          "points": 36,
+          "accept": [
+            "coffee",
+            "coffee machine",
+            "keurig",
+            "coffee pot"
+          ]
+        },
+        {
+          "text": "Microwave",
+          "points": 22,
+          "accept": [
+            "microwaves",
+            "microwave oven"
+          ]
+        },
+        {
+          "text": "Refrigerator",
+          "points": 16,
+          "accept": [
+            "fridge",
+            "mini fridge"
+          ]
+        },
+        {
+          "text": "Vending machine",
+          "points": 9,
+          "accept": [
+            "snack machine",
+            "vending"
+          ]
+        },
+        {
+          "text": "Water cooler",
+          "points": 7,
+          "accept": [
+            "water",
+            "water dispenser",
+            "water fountain"
+          ]
+        },
+        {
+          "text": "Donuts",
+          "points": 5,
+          "accept": [
+            "doughnuts",
+            "snacks",
+            "pastries"
+          ]
+        },
+        {
+          "text": "Table",
+          "points": 4,
+          "accept": [
+            "tables",
+            "chairs"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name an excuse for being late to work",
+      "answers": [
+        {
+          "text": "Traffic",
+          "points": 42,
+          "accept": [
+            "bad traffic",
+            "stuck in traffic",
+            "road work"
+          ]
+        },
+        {
+          "text": "Overslept",
+          "points": 18,
+          "accept": [
+            "alarm didn't go off",
+            "alarm",
+            "slept in"
+          ]
+        },
+        {
+          "text": "Car trouble",
+          "points": 13,
+          "accept": [
+            "flat tire",
+            "car broke down",
+            "car wouldn't start"
+          ]
+        },
+        {
+          "text": "Kids",
+          "points": 10,
+          "accept": [
+            "children",
+            "school drop off",
+            "daycare"
+          ]
+        },
+        {
+          "text": "Weather",
+          "points": 7,
+          "accept": [
+            "snow",
+            "rain",
+            "storm"
+          ]
+        },
+        {
+          "text": "Doctor's appointment",
+          "points": 6,
+          "accept": [
+            "doctor",
+            "appointment",
+            "dentist"
+          ]
+        },
+        {
+          "text": "Train delay",
+          "points": 4,
+          "accept": [
+            "bus",
+            "subway",
+            "train",
+            "public transit"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do in meetings instead of paying attention",
+      "answers": [
+        {
+          "text": "Check their phone",
+          "points": 30,
+          "accept": [
+            "phone",
+            "texting",
+            "scroll phone",
+            "on phone"
+          ]
+        },
+        {
+          "text": "Doodle",
+          "points": 20,
+          "accept": [
+            "drawing",
+            "draw",
+            "sketch"
+          ]
+        },
+        {
+          "text": "Daydream",
+          "points": 15,
+          "accept": [
+            "zone out",
+            "space out",
+            "stare"
+          ]
+        },
+        {
+          "text": "Answer emails",
+          "points": 13,
+          "accept": [
+            "email",
+            "check email",
+            "emailing"
+          ]
+        },
+        {
+          "text": "Fall asleep",
+          "points": 10,
+          "accept": [
+            "sleep",
+            "nap",
+            "doze"
+          ]
+        },
+        {
+          "text": "Snack",
+          "points": 7,
+          "accept": [
+            "eat",
+            "eating",
+            "snacking"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name an office supply that always goes missing",
+      "answers": [
+        {
+          "text": "Pens",
+          "points": 42,
+          "accept": [
+            "pen",
+            "ballpoint pen",
+            "black pen"
+          ]
+        },
+        {
+          "text": "Stapler",
+          "points": 18,
+          "accept": [
+            "staples",
+            "staple remover"
+          ]
+        },
+        {
+          "text": "Scissors",
+          "points": 11,
+          "accept": [
+            "scissor",
+            "pair of scissors"
+          ]
+        },
+        {
+          "text": "Tape",
+          "points": 9,
+          "accept": [
+            "scotch tape",
+            "tape dispenser"
+          ]
+        },
+        {
+          "text": "Sticky notes",
+          "points": 8,
+          "accept": [
+            "post-its",
+            "post it notes",
+            "post-it"
+          ]
+        },
+        {
+          "text": "Paper clips",
+          "points": 5,
+          "accept": [
+            "paperclips",
+            "binder clips",
+            "clips"
+          ]
+        },
+        {
+          "text": "Highlighters",
+          "points": 4,
+          "accept": [
+            "highlighter",
+            "markers"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people bring to an office potluck",
+      "answers": [
+        {
+          "text": "Mac and cheese",
+          "points": 20,
+          "accept": [
+            "macaroni",
+            "macaroni and cheese",
+            "mac n cheese"
+          ]
+        },
+        {
+          "text": "Casserole",
+          "points": 18,
+          "accept": [
+            "hot dish",
+            "lasagna",
+            "baked ziti"
+          ]
+        },
+        {
+          "text": "Chips and dip",
+          "points": 16,
+          "accept": [
+            "chips",
+            "dip",
+            "salsa",
+            "guacamole"
+          ]
+        },
+        {
+          "text": "Desserts",
+          "points": 14,
+          "accept": [
+            "cookies",
+            "brownies",
+            "cake",
+            "cupcakes"
+          ]
+        },
+        {
+          "text": "Salad",
+          "points": 10,
+          "accept": [
+            "pasta salad",
+            "potato salad",
+            "green salad"
+          ]
+        },
+        {
+          "text": "Meatballs",
+          "points": 8,
+          "accept": [
+            "crockpot meatballs",
+            "slow cooker meatballs"
+          ]
+        },
+        {
+          "text": "Veggie tray",
+          "points": 6,
+          "accept": [
+            "vegetables",
+            "veggies",
+            "crudites"
+          ]
+        },
+        {
+          "text": "Deviled eggs",
+          "points": 4,
+          "accept": [
+            "eggs",
+            "stuffed eggs"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that makes a coworker annoying",
+      "answers": [
+        {
+          "text": "Talks too much",
+          "points": 28,
+          "accept": [
+            "chatty",
+            "talking",
+            "won't stop talking",
+            "talker"
+          ]
+        },
+        {
+          "text": "Loud phone calls",
+          "points": 16,
+          "accept": [
+            "loud",
+            "speakerphone",
+            "loud talker"
+          ]
+        },
+        {
+          "text": "Smelly lunch",
+          "points": 14,
+          "accept": [
+            "microwave fish",
+            "fish",
+            "smelly food"
+          ]
+        },
+        {
+          "text": "Gossiping",
+          "points": 12,
+          "accept": [
+            "gossip",
+            "drama",
+            "rumors"
+          ]
+        },
+        {
+          "text": "Lazy",
+          "points": 10,
+          "accept": [
+            "doesn't work",
+            "slacker",
+            "lazy coworker"
+          ]
+        },
+        {
+          "text": "Takes credit",
+          "points": 8,
+          "accept": [
+            "steals credit",
+            "stealing credit",
+            "takes credit for work"
+          ]
+        },
+        {
+          "text": "Always late",
+          "points": 6,
+          "accept": [
+            "late",
+            "tardy",
+            "never on time"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do on their lunch break",
+      "answers": [
+        {
+          "text": "Eat",
+          "points": 38,
+          "accept": [
+            "lunch",
+            "eat lunch",
+            "food"
+          ]
+        },
+        {
+          "text": "Run errands",
+          "points": 16,
+          "accept": [
+            "errands",
+            "shopping",
+            "bank"
+          ]
+        },
+        {
+          "text": "Nap",
+          "points": 12,
+          "accept": [
+            "sleep",
+            "nap in car"
+          ]
+        },
+        {
+          "text": "Scroll their phone",
+          "points": 11,
+          "accept": [
+            "phone",
+            "social media",
+            "texting"
+          ]
+        },
+        {
+          "text": "Go for a walk",
+          "points": 10,
+          "accept": [
+            "walk",
+            "exercise",
+            "gym"
+          ]
+        },
+        {
+          "text": "Call family",
+          "points": 5,
+          "accept": [
+            "phone call",
+            "call home",
+            "call mom"
+          ]
+        },
+        {
+          "text": "Read",
+          "points": 4,
+          "accept": [
+            "book",
+            "reading"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something employees look forward to on Friday",
+      "answers": [
+        {
+          "text": "Leaving early",
+          "points": 30,
+          "accept": [
+            "leave early",
+            "getting off early",
+            "going home early"
+          ]
+        },
+        {
+          "text": "The weekend",
+          "points": 24,
+          "accept": [
+            "weekend",
+            "saturday",
+            "days off"
+          ]
+        },
+        {
+          "text": "Payday",
+          "points": 18,
+          "accept": [
+            "paycheck",
+            "getting paid",
+            "money"
+          ]
+        },
+        {
+          "text": "Happy hour",
+          "points": 12,
+          "accept": [
+            "drinks",
+            "beer",
+            "bar"
+          ]
+        },
+        {
+          "text": "Casual dress",
+          "points": 9,
+          "accept": [
+            "jeans",
+            "dress down day",
+            "casual friday"
+          ]
+        },
+        {
+          "text": "Free lunch",
+          "points": 5,
+          "accept": [
+            "pizza",
+            "team lunch",
+            "bagels"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason someone might call in sick when they aren't",
+      "answers": [
+        {
+          "text": "Hangover",
+          "points": 28,
+          "accept": [
+            "hungover",
+            "drank too much",
+            "partying"
+          ]
+        },
+        {
+          "text": "Mental health day",
+          "points": 22,
+          "accept": [
+            "need a break",
+            "burnout",
+            "stress",
+            "tired"
+          ]
+        },
+        {
+          "text": "Sleep in",
+          "points": 13,
+          "accept": [
+            "oversleep",
+            "sleeping in",
+            "rest"
+          ]
+        },
+        {
+          "text": "Job interview",
+          "points": 12,
+          "accept": [
+            "interview",
+            "new job",
+            "another job"
+          ]
+        },
+        {
+          "text": "Kids",
+          "points": 9,
+          "accept": [
+            "sick kid",
+            "child care",
+            "children"
+          ]
+        },
+        {
+          "text": "Game or concert",
+          "points": 8,
+          "accept": [
+            "concert",
+            "ball game",
+            "sports",
+            "football game"
+          ]
+        },
+        {
+          "text": "Nice weather",
+          "points": 6,
+          "accept": [
+            "beach",
+            "beautiful day",
+            "sunny day"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people keep on their desk",
+      "answers": [
+        {
+          "text": "Family photo",
+          "points": 30,
+          "accept": [
+            "photos",
+            "pictures",
+            "picture frame",
+            "photo"
+          ]
+        },
+        {
+          "text": "Plant",
+          "points": 18,
+          "accept": [
+            "plants",
+            "succulent",
+            "flower"
+          ]
+        },
+        {
+          "text": "Coffee mug",
+          "points": 15,
+          "accept": [
+            "mug",
+            "cup",
+            "coffee cup"
+          ]
+        },
+        {
+          "text": "Computer",
+          "points": 14,
+          "accept": [
+            "laptop",
+            "monitor",
+            "pc"
+          ]
+        },
+        {
+          "text": "Snacks",
+          "points": 10,
+          "accept": [
+            "candy",
+            "candy jar",
+            "food"
+          ]
+        },
+        {
+          "text": "Calendar",
+          "points": 7,
+          "accept": [
+            "planner",
+            "desk calendar"
+          ]
+        },
+        {
+          "text": "Water bottle",
+          "points": 5,
+          "accept": [
+            "water",
+            "tumbler",
+            "stanley"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you'd hear at an office holiday party",
+      "answers": [
+        {
+          "text": "Laughter",
+          "points": 28,
+          "accept": [
+            "laughing",
+            "laughs"
+          ]
+        },
+        {
+          "text": "Music",
+          "points": 22,
+          "accept": [
+            "holiday music",
+            "songs",
+            "dj"
+          ]
+        },
+        {
+          "text": "Speeches",
+          "points": 15,
+          "accept": [
+            "toasts",
+            "boss's speech",
+            "toast",
+            "thank yous"
+          ]
+        },
+        {
+          "text": "Gossip",
+          "points": 12,
+          "accept": [
+            "rumors",
+            "whispering",
+            "office gossip"
+          ]
+        },
+        {
+          "text": "Karaoke",
+          "points": 9,
+          "accept": [
+            "singing",
+            "bad singing"
+          ]
+        },
+        {
+          "text": "Shop talk",
+          "points": 8,
+          "accept": [
+            "work talk",
+            "talking about work",
+            "business"
+          ]
+        },
+        {
+          "text": "Raffle winners",
+          "points": 5,
+          "accept": [
+            "raffle",
+            "door prizes",
+            "prize drawing"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason you might get called into your boss's office",
+      "answers": [
+        {
+          "text": "Raise",
+          "points": 26,
+          "accept": [
+            "pay raise",
+            "more money",
+            "salary"
+          ]
+        },
+        {
+          "text": "In trouble",
+          "points": 22,
+          "accept": [
+            "scolded",
+            "reprimand",
+            "something wrong",
+            "mistake"
+          ]
+        },
+        {
+          "text": "Promotion",
+          "points": 18,
+          "accept": [
+            "promoted",
+            "new title"
+          ]
+        },
+        {
+          "text": "Getting fired",
+          "points": 12,
+          "accept": [
+            "fired",
+            "let go",
+            "laid off"
+          ]
+        },
+        {
+          "text": "Performance review",
+          "points": 10,
+          "accept": [
+            "review",
+            "evaluation",
+            "annual review"
+          ]
+        },
+        {
+          "text": "New project",
+          "points": 7,
+          "accept": [
+            "assignment",
+            "task",
+            "project"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people complain about at work",
+      "answers": [
+        {
+          "text": "Pay",
+          "points": 30,
+          "accept": [
+            "salary",
+            "money",
+            "low pay",
+            "wages"
+          ]
+        },
+        {
+          "text": "The boss",
+          "points": 20,
+          "accept": [
+            "boss",
+            "manager",
+            "management"
+          ]
+        },
+        {
+          "text": "Coworkers",
+          "points": 14,
+          "accept": [
+            "colleagues",
+            "coworker",
+            "team"
+          ]
+        },
+        {
+          "text": "Workload",
+          "points": 12,
+          "accept": [
+            "too much work",
+            "hours",
+            "overtime",
+            "long hours"
+          ]
+        },
+        {
+          "text": "Meetings",
+          "points": 9,
+          "accept": [
+            "too many meetings",
+            "pointless meetings"
+          ]
+        },
+        {
+          "text": "Temperature",
+          "points": 8,
+          "accept": [
+            "too cold",
+            "too hot",
+            "thermostat",
+            "ac"
+          ]
+        },
+        {
+          "text": "Coffee",
+          "points": 4,
+          "accept": [
+            "bad coffee",
+            "no coffee"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that's always broken in the office",
+      "answers": [
+        {
+          "text": "Printer",
+          "points": 45,
+          "accept": [
+            "printers",
+            "copier",
+            "printer jammed",
+            "copy machine"
+          ]
+        },
+        {
+          "text": "Coffee machine",
+          "points": 18,
+          "accept": [
+            "coffee maker",
+            "keurig",
+            "coffee pot"
+          ]
+        },
+        {
+          "text": "Air conditioning",
+          "points": 12,
+          "accept": [
+            "ac",
+            "heat",
+            "thermostat",
+            "hvac"
+          ]
+        },
+        {
+          "text": "Wi-Fi",
+          "points": 10,
+          "accept": [
+            "wifi",
+            "internet",
+            "network"
+          ]
+        },
+        {
+          "text": "Chair",
+          "points": 7,
+          "accept": [
+            "office chair",
+            "chairs",
+            "desk chair"
+          ]
+        },
+        {
+          "text": "Elevator",
+          "points": 4,
+          "accept": [
+            "elevators",
+            "lift"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do when the boss is out of the office",
+      "answers": [
+        {
+          "text": "Leave early",
+          "points": 28,
+          "accept": [
+            "go home early",
+            "sneak out early",
+            "skip out"
+          ]
+        },
+        {
+          "text": "Long lunch",
+          "points": 20,
+          "accept": [
+            "take a long lunch",
+            "extended lunch",
+            "longer lunch"
+          ]
+        },
+        {
+          "text": "Slack off",
+          "points": 16,
+          "accept": [
+            "nothing",
+            "goof off",
+            "relax",
+            "chill"
+          ]
+        },
+        {
+          "text": "Online shopping",
+          "points": 12,
+          "accept": [
+            "shop",
+            "shopping",
+            "amazon"
+          ]
+        },
+        {
+          "text": "Social media",
+          "points": 10,
+          "accept": [
+            "scroll phone",
+            "phone",
+            "tiktok",
+            "instagram"
+          ]
+        },
+        {
+          "text": "Chat with coworkers",
+          "points": 8,
+          "accept": [
+            "socialize",
+            "talk",
+            "gossip",
+            "chat"
+          ]
+        },
+        {
+          "text": "Nap",
+          "points": 4,
+          "accept": [
+            "sleep",
+            "snooze"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name an app or tool people use at work",
+      "answers": [
+        {
+          "text": "Email",
+          "points": 26,
+          "accept": [
+            "outlook",
+            "gmail"
+          ]
+        },
+        {
+          "text": "Zoom",
+          "points": 22,
+          "accept": [
+            "zoom call",
+            "video calls"
+          ]
+        },
+        {
+          "text": "Microsoft Teams",
+          "points": 16,
+          "accept": [
+            "teams",
+            "ms teams"
+          ]
+        },
+        {
+          "text": "Slack",
+          "points": 14,
+          "accept": [
+            "slack messages",
+            "slack app"
+          ]
+        },
+        {
+          "text": "Excel",
+          "points": 10,
+          "accept": [
+            "spreadsheets",
+            "google sheets"
+          ]
+        },
+        {
+          "text": "Google Docs",
+          "points": 7,
+          "accept": [
+            "google drive",
+            "docs"
+          ]
+        },
+        {
+          "text": "Calendar",
+          "points": 4,
+          "accept": [
+            "google calendar",
+            "calendar invite",
+            "schedule"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you'd find in a coworker's desk drawer",
+      "answers": [
+        {
+          "text": "Snacks",
+          "points": 34,
+          "accept": [
+            "candy",
+            "chips",
+            "granola bar",
+            "food"
+          ]
+        },
+        {
+          "text": "Pens",
+          "points": 16,
+          "accept": [
+            "pen",
+            "pencils",
+            "highlighters"
+          ]
+        },
+        {
+          "text": "Medicine",
+          "points": 12,
+          "accept": [
+            "advil",
+            "tylenol",
+            "pain reliever",
+            "aspirin"
+          ]
+        },
+        {
+          "text": "Gum",
+          "points": 10,
+          "accept": [
+            "mints",
+            "breath mints"
+          ]
+        },
+        {
+          "text": "Phone charger",
+          "points": 9,
+          "accept": [
+            "charger",
+            "cords",
+            "chargers"
+          ]
+        },
+        {
+          "text": "Hand lotion",
+          "points": 7,
+          "accept": [
+            "lotion",
+            "makeup",
+            "lipstick"
+          ]
+        },
+        {
+          "text": "Napkins",
+          "points": 5,
+          "accept": [
+            "paper towels",
+            "utensils",
+            "plastic forks"
+          ]
+        },
+        {
+          "text": "Old papers",
+          "points": 4,
+          "accept": [
+            "files",
+            "paperwork",
+            "receipts"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do to look busy at work",
+      "answers": [
+        {
+          "text": "Type loudly",
+          "points": 26,
+          "accept": [
+            "typing",
+            "type fast",
+            "keyboard"
+          ]
+        },
+        {
+          "text": "Carry papers",
+          "points": 20,
+          "accept": [
+            "walk around with papers",
+            "carry a folder",
+            "holding papers"
+          ]
+        },
+        {
+          "text": "Walk fast",
+          "points": 15,
+          "accept": [
+            "walk around",
+            "walking quickly",
+            "pace"
+          ]
+        },
+        {
+          "text": "Stare at the screen",
+          "points": 14,
+          "accept": [
+            "look at computer",
+            "stare at computer",
+            "frown at screen"
+          ]
+        },
+        {
+          "text": "Fake phone call",
+          "points": 10,
+          "accept": [
+            "phone call",
+            "on the phone",
+            "talk on phone"
+          ]
+        },
+        {
+          "text": "Open a spreadsheet",
+          "points": 8,
+          "accept": [
+            "spreadsheet",
+            "excel",
+            "open excel"
+          ]
+        },
+        {
+          "text": "Sigh loudly",
+          "points": 4,
+          "accept": [
+            "sigh",
+            "complain",
+            "act stressed"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a perk people love to get at work",
+      "answers": [
+        {
+          "text": "Free food",
+          "points": 30,
+          "accept": [
+            "free lunch",
+            "catered lunch",
+            "snacks",
+            "pizza"
+          ]
+        },
+        {
+          "text": "Bonus",
+          "points": 22,
+          "accept": [
+            "bonuses",
+            "extra money",
+            "cash bonus"
+          ]
+        },
+        {
+          "text": "Extra PTO",
+          "points": 16,
+          "accept": [
+            "vacation",
+            "time off",
+            "pto",
+            "paid time off"
+          ]
+        },
+        {
+          "text": "Work from home",
+          "points": 14,
+          "accept": [
+            "remote work",
+            "wfh",
+            "remote"
+          ]
+        },
+        {
+          "text": "Gym membership",
+          "points": 8,
+          "accept": [
+            "gym",
+            "fitness",
+            "wellness"
+          ]
+        },
+        {
+          "text": "Parking spot",
+          "points": 5,
+          "accept": [
+            "parking",
+            "reserved parking",
+            "free parking"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people say when they answer the phone at work",
+      "answers": [
+        {
+          "text": "Hello",
+          "points": 32,
+          "accept": [
+            "hi",
+            "hey"
+          ]
+        },
+        {
+          "text": "Their name",
+          "points": 20,
+          "accept": [
+            "name",
+            "this is",
+            "speaking"
+          ]
+        },
+        {
+          "text": "Company name",
+          "points": 16,
+          "accept": [
+            "business name",
+            "thank you for calling"
+          ]
+        },
+        {
+          "text": "How can I help",
+          "points": 12,
+          "accept": [
+            "how can i help you",
+            "may i help you",
+            "how may i help",
+            "help you"
+          ]
+        },
+        {
+          "text": "Good morning",
+          "points": 10,
+          "accept": [
+            "good afternoon",
+            "morning"
+          ]
+        },
+        {
+          "text": "Yes",
+          "points": 4,
+          "accept": [
+            "yeah",
+            "yep"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that gets passed around the office",
+      "answers": [
+        {
+          "text": "Birthday card",
+          "points": 35,
+          "accept": [
+            "card",
+            "greeting card",
+            "birthday"
+          ]
+        },
+        {
+          "text": "Fundraiser",
+          "points": 18,
+          "accept": [
+            "girl scout cookies",
+            "kid's fundraiser",
+            "candy bars"
+          ]
+        },
+        {
+          "text": "Gift collection",
+          "points": 14,
+          "accept": [
+            "collection",
+            "money for gift",
+            "gift"
+          ]
+        },
+        {
+          "text": "Sympathy card",
+          "points": 12,
+          "accept": [
+            "condolence card",
+            "get well card"
+          ]
+        },
+        {
+          "text": "Sign-up sheet",
+          "points": 8,
+          "accept": [
+            "signup sheet",
+            "petition",
+            "sign up sheet"
+          ]
+        },
+        {
+          "text": "Lottery pool",
+          "points": 6,
+          "accept": [
+            "lottery",
+            "powerball",
+            "lotto"
+          ]
+        },
+        {
+          "text": "Retirement card",
+          "points": 4,
+          "accept": [
+            "farewell card",
+            "going away card"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people wear on casual Friday",
+      "answers": [
+        {
+          "text": "Jeans",
+          "points": 42,
+          "accept": [
+            "denim",
+            "blue jeans"
+          ]
+        },
+        {
+          "text": "T-shirt",
+          "points": 18,
+          "accept": [
+            "tee",
+            "tshirt",
+            "t shirt"
+          ]
+        },
+        {
+          "text": "Sneakers",
+          "points": 14,
+          "accept": [
+            "tennis shoes",
+            "sneaker",
+            "running shoes"
+          ]
+        },
+        {
+          "text": "Sweatshirt",
+          "points": 10,
+          "accept": [
+            "hoodie",
+            "sweater",
+            "sweats"
+          ]
+        },
+        {
+          "text": "Polo shirt",
+          "points": 8,
+          "accept": [
+            "polo",
+            "golf shirt"
+          ]
+        },
+        {
+          "text": "Team jersey",
+          "points": 5,
+          "accept": [
+            "jersey",
+            "sports jersey",
+            "team shirt"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do at an office party that they regret",
+      "answers": [
+        {
+          "text": "Drink too much",
+          "points": 36,
+          "accept": [
+            "get drunk",
+            "drunk",
+            "too many drinks"
+          ]
+        },
+        {
+          "text": "Dance badly",
+          "points": 18,
+          "accept": [
+            "dance",
+            "dancing"
+          ]
+        },
+        {
+          "text": "Sing karaoke",
+          "points": 12,
+          "accept": [
+            "karaoke",
+            "sing",
+            "singing"
+          ]
+        },
+        {
+          "text": "Say something dumb",
+          "points": 11,
+          "accept": [
+            "overshare",
+            "insult the boss",
+            "embarrassing comment"
+          ]
+        },
+        {
+          "text": "Flirt with a coworker",
+          "points": 9,
+          "accept": [
+            "flirt",
+            "flirting",
+            "hit on coworker"
+          ]
+        },
+        {
+          "text": "Eat too much",
+          "points": 7,
+          "accept": [
+            "overeat",
+            "stuff face"
+          ]
+        },
+        {
+          "text": "Post photos",
+          "points": 4,
+          "accept": [
+            "social media",
+            "pictures",
+            "instagram"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a job title you'd find in a typical office",
+      "answers": [
+        {
+          "text": "Manager",
+          "points": 34,
+          "accept": [
+            "boss",
+            "supervisor",
+            "office manager"
+          ]
+        },
+        {
+          "text": "Receptionist",
+          "points": 18,
+          "accept": [
+            "front desk",
+            "secretary",
+            "administrative assistant"
+          ]
+        },
+        {
+          "text": "Accountant",
+          "points": 12,
+          "accept": [
+            "bookkeeper",
+            "cpa",
+            "finance"
+          ]
+        },
+        {
+          "text": "CEO",
+          "points": 11,
+          "accept": [
+            "president",
+            "chief executive",
+            "owner"
+          ]
+        },
+        {
+          "text": "IT guy",
+          "points": 9,
+          "accept": [
+            "it",
+            "tech support",
+            "help desk"
+          ]
+        },
+        {
+          "text": "HR rep",
+          "points": 8,
+          "accept": [
+            "hr",
+            "human resources",
+            "recruiter"
+          ]
+        },
+        {
+          "text": "Intern",
+          "points": 5,
+          "accept": [
+            "interns",
+            "trainee"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that happens on a Monday morning at work",
+      "answers": [
+        {
+          "text": "Drink coffee",
+          "points": 30,
+          "accept": [
+            "coffee",
+            "caffeine",
+            "lots of coffee"
+          ]
+        },
+        {
+          "text": "Staff meeting",
+          "points": 20,
+          "accept": [
+            "meeting",
+            "meetings",
+            "team meeting"
+          ]
+        },
+        {
+          "text": "Check emails",
+          "points": 18,
+          "accept": [
+            "email",
+            "inbox",
+            "emails"
+          ]
+        },
+        {
+          "text": "Complain",
+          "points": 12,
+          "accept": [
+            "grumpy",
+            "bad mood",
+            "complaining"
+          ]
+        },
+        {
+          "text": "Yawning",
+          "points": 9,
+          "accept": [
+            "tired",
+            "sleepy",
+            "yawn"
+          ]
+        },
+        {
+          "text": "Weekend stories",
+          "points": 6,
+          "accept": [
+            "talk about weekend",
+            "catch up",
+            "weekend talk"
+          ]
+        }
+      ]
+    }
+  ],
+  "lightning": []
+}

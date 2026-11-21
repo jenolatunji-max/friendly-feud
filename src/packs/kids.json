@@ -1,0 +1,1178 @@
+{
+  "id": "kids",
+  "name": "Kids (Ages 7 to 12)",
+  "audience": "Kids ages 7 to 12",
+  "region": "US",
+  "source": "estimate",
+  "rounds": [
+    {
+      "q": "Name your favorite thing to do at recess",
+      "answers": [
+        {
+          "text": "Tag",
+          "points": 30,
+          "accept": [
+            "play tag",
+            "chase",
+            "freeze tag"
+          ]
+        },
+        {
+          "text": "Swings",
+          "points": 22,
+          "accept": [
+            "swing",
+            "swinging",
+            "swing set"
+          ]
+        },
+        {
+          "text": "Slide",
+          "points": 14,
+          "accept": [
+            "slides",
+            "go down the slide"
+          ]
+        },
+        {
+          "text": "Monkey bars",
+          "points": 11,
+          "accept": [
+            "monkey bar",
+            "climbing",
+            "jungle gym"
+          ]
+        },
+        {
+          "text": "Kickball",
+          "points": 9,
+          "accept": [
+            "kick ball",
+            "four square"
+          ]
+        },
+        {
+          "text": "Hide and seek",
+          "points": 7,
+          "accept": [
+            "hide and go seek",
+            "hide-and-seek"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name an animal you see at the zoo",
+      "answers": [
+        {
+          "text": "Lion",
+          "points": 30,
+          "accept": [
+            "lions",
+            "lion king"
+          ]
+        },
+        {
+          "text": "Elephant",
+          "points": 20,
+          "accept": [
+            "elephants",
+            "elephant baby"
+          ]
+        },
+        {
+          "text": "Monkey",
+          "points": 16,
+          "accept": [
+            "monkeys",
+            "ape",
+            "gorilla",
+            "chimp"
+          ]
+        },
+        {
+          "text": "Giraffe",
+          "points": 14,
+          "accept": [
+            "giraffes",
+            "baby giraffe"
+          ]
+        },
+        {
+          "text": "Tiger",
+          "points": 8,
+          "accept": [
+            "tigers",
+            "white tiger"
+          ]
+        },
+        {
+          "text": "Zebra",
+          "points": 5,
+          "accept": [
+            "zebras",
+            "zebra stripes"
+          ]
+        },
+        {
+          "text": "Penguin",
+          "points": 3,
+          "accept": [
+            "penguins",
+            "baby penguin"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a flavor of ice cream",
+      "answers": [
+        {
+          "text": "Chocolate",
+          "points": 38,
+          "accept": [
+            "choc",
+            "chocolate fudge"
+          ]
+        },
+        {
+          "text": "Vanilla",
+          "points": 22,
+          "accept": [
+            "plain",
+            "french vanilla"
+          ]
+        },
+        {
+          "text": "Strawberry",
+          "points": 15,
+          "accept": [
+            "strawberries",
+            "strawberry ice cream"
+          ]
+        },
+        {
+          "text": "Cookies and cream",
+          "points": 10,
+          "accept": [
+            "cookies n cream",
+            "oreo",
+            "cookies & cream"
+          ]
+        },
+        {
+          "text": "Mint chocolate chip",
+          "points": 7,
+          "accept": [
+            "mint",
+            "mint chip"
+          ]
+        },
+        {
+          "text": "Cookie dough",
+          "points": 5,
+          "accept": [
+            "chocolate chip cookie dough",
+            "cookie-dough"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a superhero",
+      "answers": [
+        {
+          "text": "Spider-Man",
+          "points": 35,
+          "accept": [
+            "spiderman",
+            "spider man",
+            "spidey"
+          ]
+        },
+        {
+          "text": "Batman",
+          "points": 25,
+          "accept": [
+            "the batman",
+            "bruce wayne"
+          ]
+        },
+        {
+          "text": "Superman",
+          "points": 15,
+          "accept": [
+            "super man",
+            "clark kent"
+          ]
+        },
+        {
+          "text": "Iron Man",
+          "points": 10,
+          "accept": [
+            "ironman",
+            "tony stark"
+          ]
+        },
+        {
+          "text": "Hulk",
+          "points": 6,
+          "accept": [
+            "the hulk",
+            "incredible hulk"
+          ]
+        },
+        {
+          "text": "Wonder Woman",
+          "points": 4,
+          "accept": [
+            "wonderwoman",
+            "wonder girl"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you bring to a sleepover",
+      "answers": [
+        {
+          "text": "Pajamas",
+          "points": 35,
+          "accept": [
+            "pjs",
+            "pj's",
+            "jammies",
+            "pyjamas"
+          ]
+        },
+        {
+          "text": "Pillow",
+          "points": 20,
+          "accept": [
+            "pillows",
+            "my pillow"
+          ]
+        },
+        {
+          "text": "Sleeping bag",
+          "points": 15,
+          "accept": [
+            "sleepingbag",
+            "blanket"
+          ]
+        },
+        {
+          "text": "Toothbrush",
+          "points": 10,
+          "accept": [
+            "tooth brush",
+            "toothpaste"
+          ]
+        },
+        {
+          "text": "Stuffed animal",
+          "points": 8,
+          "accept": [
+            "teddy bear",
+            "stuffy",
+            "stuffed animals",
+            "plushie"
+          ]
+        },
+        {
+          "text": "Snacks",
+          "points": 6,
+          "accept": [
+            "candy",
+            "chips",
+            "snack"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name your favorite color",
+      "answers": [
+        {
+          "text": "Blue",
+          "points": 35,
+          "accept": [
+            "light blue",
+            "dark blue",
+            "navy"
+          ]
+        },
+        {
+          "text": "Red",
+          "points": 20,
+          "accept": [
+            "maroon",
+            "dark red"
+          ]
+        },
+        {
+          "text": "Pink",
+          "points": 15,
+          "accept": [
+            "hot pink",
+            "light pink"
+          ]
+        },
+        {
+          "text": "Purple",
+          "points": 12,
+          "accept": [
+            "violet",
+            "lavender"
+          ]
+        },
+        {
+          "text": "Green",
+          "points": 9,
+          "accept": [
+            "lime green",
+            "dark green"
+          ]
+        },
+        {
+          "text": "Yellow",
+          "points": 5,
+          "accept": [
+            "gold",
+            "light yellow"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you see at a birthday party",
+      "answers": [
+        {
+          "text": "Cake",
+          "points": 35,
+          "accept": [
+            "birthday cake",
+            "cupcakes",
+            "cupcake"
+          ]
+        },
+        {
+          "text": "Balloons",
+          "points": 22,
+          "accept": [
+            "balloon",
+            "helium balloons"
+          ]
+        },
+        {
+          "text": "Presents",
+          "points": 18,
+          "accept": [
+            "gifts",
+            "present",
+            "gift"
+          ]
+        },
+        {
+          "text": "Candles",
+          "points": 8,
+          "accept": [
+            "candle",
+            "birthday candles"
+          ]
+        },
+        {
+          "text": "Friends",
+          "points": 6,
+          "accept": [
+            "kids",
+            "people",
+            "guests"
+          ]
+        },
+        {
+          "text": "Party hats",
+          "points": 5,
+          "accept": [
+            "party hat",
+            "hats",
+            "hat"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a food you eat with your hands",
+      "answers": [
+        {
+          "text": "Pizza",
+          "points": 35,
+          "accept": [
+            "pizza slice",
+            "slice"
+          ]
+        },
+        {
+          "text": "French fries",
+          "points": 18,
+          "accept": [
+            "fries",
+            "french fry",
+            "chips"
+          ]
+        },
+        {
+          "text": "Chicken nuggets",
+          "points": 15,
+          "accept": [
+            "nuggets",
+            "chicken tenders",
+            "chicken fingers"
+          ]
+        },
+        {
+          "text": "Hamburger",
+          "points": 12,
+          "accept": [
+            "burger",
+            "cheeseburger",
+            "burgers"
+          ]
+        },
+        {
+          "text": "Sandwich",
+          "points": 8,
+          "accept": [
+            "sandwiches",
+            "pb&j",
+            "peanut butter and jelly"
+          ]
+        },
+        {
+          "text": "Hot dog",
+          "points": 5,
+          "accept": [
+            "hotdog",
+            "hot dogs"
+          ]
+        },
+        {
+          "text": "Tacos",
+          "points": 3,
+          "accept": [
+            "taco",
+            "burrito"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a pet you would love to have",
+      "answers": [
+        {
+          "text": "Dog",
+          "points": 40,
+          "accept": [
+            "puppy",
+            "dogs",
+            "doggy"
+          ]
+        },
+        {
+          "text": "Cat",
+          "points": 22,
+          "accept": [
+            "kitten",
+            "kitty",
+            "cats"
+          ]
+        },
+        {
+          "text": "Hamster",
+          "points": 10,
+          "accept": [
+            "hamsters",
+            "gerbil"
+          ]
+        },
+        {
+          "text": "Bunny",
+          "points": 9,
+          "accept": [
+            "rabbit",
+            "bunnies"
+          ]
+        },
+        {
+          "text": "Fish",
+          "points": 6,
+          "accept": [
+            "goldfish",
+            "fishes"
+          ]
+        },
+        {
+          "text": "Horse",
+          "points": 5,
+          "accept": [
+            "pony",
+            "horses"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name your favorite part of the school day",
+      "answers": [
+        {
+          "text": "Recess",
+          "points": 38,
+          "accept": [
+            "playtime",
+            "play time",
+            "outside"
+          ]
+        },
+        {
+          "text": "Lunch",
+          "points": 25,
+          "accept": [
+            "lunchtime",
+            "lunch time",
+            "eating"
+          ]
+        },
+        {
+          "text": "Gym",
+          "points": 12,
+          "accept": [
+            "pe",
+            "p.e.",
+            "gym class"
+          ]
+        },
+        {
+          "text": "Art",
+          "points": 9,
+          "accept": [
+            "art class",
+            "drawing"
+          ]
+        },
+        {
+          "text": "Going home",
+          "points": 6,
+          "accept": [
+            "end of day",
+            "home",
+            "last bell"
+          ]
+        },
+        {
+          "text": "Library",
+          "points": 5,
+          "accept": [
+            "reading",
+            "books"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a candy you get on Halloween",
+      "answers": [
+        {
+          "text": "Reese's",
+          "points": 26,
+          "accept": [
+            "reeses",
+            "peanut butter cups",
+            "reese's cups"
+          ]
+        },
+        {
+          "text": "Snickers",
+          "points": 18,
+          "accept": [
+            "snicker",
+            "snickers bar"
+          ]
+        },
+        {
+          "text": "M&M's",
+          "points": 15,
+          "accept": [
+            "m&ms",
+            "m and ms",
+            "mms",
+            "m&m"
+          ]
+        },
+        {
+          "text": "Kit Kat",
+          "points": 13,
+          "accept": [
+            "kitkat",
+            "kit kats"
+          ]
+        },
+        {
+          "text": "Skittles",
+          "points": 10,
+          "accept": [
+            "skittle",
+            "rainbow candy"
+          ]
+        },
+        {
+          "text": "Lollipops",
+          "points": 7,
+          "accept": [
+            "lollipop",
+            "suckers",
+            "dum dums"
+          ]
+        },
+        {
+          "text": "Candy corn",
+          "points": 5,
+          "accept": [
+            "candycorn",
+            "candy corns"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that is sticky",
+      "answers": [
+        {
+          "text": "Glue",
+          "points": 30,
+          "accept": [
+            "glue stick",
+            "elmer's"
+          ]
+        },
+        {
+          "text": "Tape",
+          "points": 22,
+          "accept": [
+            "scotch tape",
+            "sticky tape"
+          ]
+        },
+        {
+          "text": "Honey",
+          "points": 15,
+          "accept": [
+            "honey bear",
+            "honeycomb"
+          ]
+        },
+        {
+          "text": "Gum",
+          "points": 12,
+          "accept": [
+            "bubble gum",
+            "chewing gum"
+          ]
+        },
+        {
+          "text": "Syrup",
+          "points": 8,
+          "accept": [
+            "maple syrup",
+            "pancake syrup"
+          ]
+        },
+        {
+          "text": "Candy",
+          "points": 6,
+          "accept": [
+            "lollipop",
+            "cotton candy",
+            "taffy"
+          ]
+        },
+        {
+          "text": "Slime",
+          "points": 5,
+          "accept": [
+            "goo",
+            "gooey slime"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you do at the swimming pool",
+      "answers": [
+        {
+          "text": "Swim",
+          "points": 30,
+          "accept": [
+            "swimming",
+            "doggy paddle"
+          ]
+        },
+        {
+          "text": "Cannonball",
+          "points": 20,
+          "accept": [
+            "jump in",
+            "jump",
+            "cannon ball",
+            "dive"
+          ]
+        },
+        {
+          "text": "Marco Polo",
+          "points": 15,
+          "accept": [
+            "marco",
+            "play marco polo"
+          ]
+        },
+        {
+          "text": "Splash",
+          "points": 12,
+          "accept": [
+            "splashing",
+            "splash people"
+          ]
+        },
+        {
+          "text": "Water slide",
+          "points": 9,
+          "accept": [
+            "slide",
+            "slides"
+          ]
+        },
+        {
+          "text": "Hold your breath",
+          "points": 8,
+          "accept": [
+            "underwater",
+            "go underwater",
+            "breath"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that flies",
+      "answers": [
+        {
+          "text": "Bird",
+          "points": 30,
+          "accept": [
+            "birds",
+            "eagle"
+          ]
+        },
+        {
+          "text": "Airplane",
+          "points": 28,
+          "accept": [
+            "plane",
+            "jet",
+            "airplanes"
+          ]
+        },
+        {
+          "text": "Butterfly",
+          "points": 10,
+          "accept": [
+            "butterflies",
+            "moth"
+          ]
+        },
+        {
+          "text": "Kite",
+          "points": 9,
+          "accept": [
+            "kites",
+            "paper kite"
+          ]
+        },
+        {
+          "text": "Bee",
+          "points": 8,
+          "accept": [
+            "bees",
+            "bug",
+            "bugs"
+          ]
+        },
+        {
+          "text": "Helicopter",
+          "points": 7,
+          "accept": [
+            "helicopters",
+            "chopper"
+          ]
+        },
+        {
+          "text": "Rocket",
+          "points": 4,
+          "accept": [
+            "rockets",
+            "spaceship"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a Disney princess",
+      "answers": [
+        {
+          "text": "Elsa",
+          "points": 30,
+          "accept": [
+            "queen elsa",
+            "frozen"
+          ]
+        },
+        {
+          "text": "Cinderella",
+          "points": 18,
+          "accept": [
+            "princess cinderella",
+            "cinderella's"
+          ]
+        },
+        {
+          "text": "Ariel",
+          "points": 15,
+          "accept": [
+            "little mermaid",
+            "the little mermaid"
+          ]
+        },
+        {
+          "text": "Moana",
+          "points": 12,
+          "accept": [
+            "princess moana",
+            "moana's"
+          ]
+        },
+        {
+          "text": "Belle",
+          "points": 9,
+          "accept": [
+            "beauty and the beast",
+            "princess belle"
+          ]
+        },
+        {
+          "text": "Rapunzel",
+          "points": 8,
+          "accept": [
+            "tangled",
+            "princess rapunzel"
+          ]
+        },
+        {
+          "text": "Anna",
+          "points": 4,
+          "accept": [
+            "princess anna",
+            "anna from frozen"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that is really hot",
+      "answers": [
+        {
+          "text": "Sun",
+          "points": 35,
+          "accept": [
+            "the sun",
+            "sunshine"
+          ]
+        },
+        {
+          "text": "Fire",
+          "points": 25,
+          "accept": [
+            "flames",
+            "campfire",
+            "flame"
+          ]
+        },
+        {
+          "text": "Stove",
+          "points": 12,
+          "accept": [
+            "oven",
+            "stovetop"
+          ]
+        },
+        {
+          "text": "Lava",
+          "points": 10,
+          "accept": [
+            "volcano",
+            "magma"
+          ]
+        },
+        {
+          "text": "Soup",
+          "points": 7,
+          "accept": [
+            "hot soup",
+            "chicken soup"
+          ]
+        },
+        {
+          "text": "Hot chocolate",
+          "points": 5,
+          "accept": [
+            "cocoa",
+            "hot cocoa"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a sport kids play",
+      "answers": [
+        {
+          "text": "Soccer",
+          "points": 35,
+          "accept": [
+            "futbol",
+            "soccer ball"
+          ]
+        },
+        {
+          "text": "Basketball",
+          "points": 25,
+          "accept": [
+            "hoops",
+            "b-ball"
+          ]
+        },
+        {
+          "text": "Baseball",
+          "points": 15,
+          "accept": [
+            "softball",
+            "t-ball",
+            "tee ball"
+          ]
+        },
+        {
+          "text": "Football",
+          "points": 12,
+          "accept": [
+            "flag football",
+            "tackle football"
+          ]
+        },
+        {
+          "text": "Swimming",
+          "points": 5,
+          "accept": [
+            "swim",
+            "swim team"
+          ]
+        },
+        {
+          "text": "Gymnastics",
+          "points": 4,
+          "accept": [
+            "tumbling",
+            "cheer"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you find in a toy box",
+      "answers": [
+        {
+          "text": "Legos",
+          "points": 28,
+          "accept": [
+            "lego",
+            "blocks",
+            "building blocks"
+          ]
+        },
+        {
+          "text": "Dolls",
+          "points": 22,
+          "accept": [
+            "doll",
+            "barbie",
+            "barbies"
+          ]
+        },
+        {
+          "text": "Stuffed animals",
+          "points": 15,
+          "accept": [
+            "stuffed animal",
+            "teddy bear",
+            "plushies"
+          ]
+        },
+        {
+          "text": "Cars",
+          "points": 12,
+          "accept": [
+            "toy cars",
+            "hot wheels",
+            "trucks"
+          ]
+        },
+        {
+          "text": "Ball",
+          "points": 9,
+          "accept": [
+            "balls",
+            "bouncy ball"
+          ]
+        },
+        {
+          "text": "Action figures",
+          "points": 7,
+          "accept": [
+            "action figure",
+            "figures"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that makes you laugh",
+      "answers": [
+        {
+          "text": "Tickling",
+          "points": 30,
+          "accept": [
+            "tickle",
+            "being tickled",
+            "tickled"
+          ]
+        },
+        {
+          "text": "Jokes",
+          "points": 22,
+          "accept": [
+            "joke",
+            "funny jokes",
+            "knock knock jokes"
+          ]
+        },
+        {
+          "text": "Cartoons",
+          "points": 14,
+          "accept": [
+            "cartoon",
+            "funny shows",
+            "tv"
+          ]
+        },
+        {
+          "text": "Funny faces",
+          "points": 11,
+          "accept": [
+            "silly faces",
+            "faces",
+            "making faces"
+          ]
+        },
+        {
+          "text": "Farts",
+          "points": 9,
+          "accept": [
+            "fart",
+            "toots",
+            "toot"
+          ]
+        },
+        {
+          "text": "My friends",
+          "points": 6,
+          "accept": [
+            "friends",
+            "friend",
+            "best friend"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that is scary",
+      "answers": [
+        {
+          "text": "Monsters",
+          "points": 28,
+          "accept": [
+            "monster",
+            "boogeyman",
+            "boogie man"
+          ]
+        },
+        {
+          "text": "The dark",
+          "points": 22,
+          "accept": [
+            "dark",
+            "darkness",
+            "night"
+          ]
+        },
+        {
+          "text": "Spiders",
+          "points": 15,
+          "accept": [
+            "spider",
+            "bugs"
+          ]
+        },
+        {
+          "text": "Ghosts",
+          "points": 12,
+          "accept": [
+            "ghost",
+            "spirits"
+          ]
+        },
+        {
+          "text": "Clowns",
+          "points": 8,
+          "accept": [
+            "clown",
+            "scary clown"
+          ]
+        },
+        {
+          "text": "Snakes",
+          "points": 6,
+          "accept": [
+            "snake",
+            "cobra"
+          ]
+        },
+        {
+          "text": "Thunder",
+          "points": 4,
+          "accept": [
+            "thunderstorm",
+            "storms",
+            "lightning"
+          ]
+        }
+      ]
+    }
+  ],
+  "lightning": []
+}

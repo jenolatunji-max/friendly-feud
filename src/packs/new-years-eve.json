@@ -1,0 +1,1305 @@
+{
+  "id": "new-years-eve",
+  "name": "New Year's Eve",
+  "audience": "Adults and families",
+  "region": "US",
+  "source": "estimate",
+  "rounds": [
+    {
+      "q": "Name something people do at midnight on New Year's Eve",
+      "answers": [
+        {
+          "text": "Kiss",
+          "points": 38,
+          "accept": [
+            "kiss someone",
+            "smooch",
+            "kiss your partner"
+          ]
+        },
+        {
+          "text": "Count down",
+          "points": 18,
+          "accept": [
+            "countdown",
+            "count",
+            "count down from ten"
+          ]
+        },
+        {
+          "text": "Cheer",
+          "points": 12,
+          "accept": [
+            "yell",
+            "shout",
+            "scream",
+            "yell happy new year"
+          ]
+        },
+        {
+          "text": "Make a toast",
+          "points": 10,
+          "accept": [
+            "toast",
+            "drink champagne",
+            "clink glasses",
+            "pop champagne"
+          ]
+        },
+        {
+          "text": "Watch the ball drop",
+          "points": 8,
+          "accept": [
+            "ball drop",
+            "watch tv",
+            "times square"
+          ]
+        },
+        {
+          "text": "Set off fireworks",
+          "points": 6,
+          "accept": [
+            "fireworks",
+            "light fireworks",
+            "watch fireworks"
+          ]
+        },
+        {
+          "text": "Hug",
+          "points": 4,
+          "accept": [
+            "hugs",
+            "hug everyone",
+            "embrace"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a popular New Year's resolution",
+      "answers": [
+        {
+          "text": "Lose weight",
+          "points": 35,
+          "accept": [
+            "diet",
+            "lose pounds",
+            "get skinny",
+            "drop weight"
+          ]
+        },
+        {
+          "text": "Exercise more",
+          "points": 20,
+          "accept": [
+            "work out",
+            "go to the gym",
+            "get fit",
+            "exercise"
+          ]
+        },
+        {
+          "text": "Save money",
+          "points": 14,
+          "accept": [
+            "budget",
+            "spend less",
+            "save"
+          ]
+        },
+        {
+          "text": "Eat healthier",
+          "points": 10,
+          "accept": [
+            "eat healthy",
+            "eat better",
+            "diet better"
+          ]
+        },
+        {
+          "text": "Quit smoking",
+          "points": 8,
+          "accept": [
+            "stop smoking",
+            "quit cigarettes",
+            "quit vaping"
+          ]
+        },
+        {
+          "text": "Read more",
+          "points": 5,
+          "accept": [
+            "read",
+            "read more books"
+          ]
+        },
+        {
+          "text": "Travel more",
+          "points": 4,
+          "accept": [
+            "travel",
+            "take a trip",
+            "see the world"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people drink to celebrate the new year",
+      "answers": [
+        {
+          "text": "Champagne",
+          "points": 45,
+          "accept": [
+            "bubbly",
+            "prosecco",
+            "sparkling wine",
+            "cava"
+          ]
+        },
+        {
+          "text": "Wine",
+          "points": 14,
+          "accept": [
+            "red wine",
+            "white wine"
+          ]
+        },
+        {
+          "text": "Beer",
+          "points": 10,
+          "accept": [
+            "beers",
+            "a cold one"
+          ]
+        },
+        {
+          "text": "Cocktails",
+          "points": 9,
+          "accept": [
+            "mixed drinks",
+            "martinis",
+            "shots",
+            "liquor"
+          ]
+        },
+        {
+          "text": "Sparkling cider",
+          "points": 8,
+          "accept": [
+            "cider",
+            "apple cider",
+            "sparkling juice",
+            "sparkling grape juice"
+          ]
+        },
+        {
+          "text": "Punch",
+          "points": 5,
+          "accept": [
+            "fruit punch",
+            "party punch"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you'd see at a New Year's Eve party",
+      "answers": [
+        {
+          "text": "Party hats",
+          "points": 25,
+          "accept": [
+            "hats",
+            "party hat",
+            "cone hats",
+            "tiaras"
+          ]
+        },
+        {
+          "text": "Balloons",
+          "points": 18,
+          "accept": [
+            "balloon",
+            "balloon drop"
+          ]
+        },
+        {
+          "text": "Noisemakers",
+          "points": 14,
+          "accept": [
+            "horns",
+            "party horns",
+            "blowers",
+            "noise makers"
+          ]
+        },
+        {
+          "text": "Confetti",
+          "points": 13,
+          "accept": [
+            "streamers",
+            "poppers",
+            "confetti poppers"
+          ]
+        },
+        {
+          "text": "Countdown on TV",
+          "points": 9,
+          "accept": [
+            "tv",
+            "ball drop",
+            "clock",
+            "countdown"
+          ]
+        },
+        {
+          "text": "Champagne",
+          "points": 7,
+          "accept": [
+            "champagne glasses",
+            "bubbly",
+            "flutes"
+          ]
+        },
+        {
+          "text": "Disco ball",
+          "points": 4,
+          "accept": [
+            "mirror ball",
+            "disco lights"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a city famous for its New Year's Eve celebration",
+      "answers": [
+        {
+          "text": "New York",
+          "points": 45,
+          "accept": [
+            "new york city",
+            "nyc",
+            "times square",
+            "manhattan"
+          ]
+        },
+        {
+          "text": "Las Vegas",
+          "points": 18,
+          "accept": [
+            "vegas",
+            "the strip"
+          ]
+        },
+        {
+          "text": "Sydney",
+          "points": 9,
+          "accept": [
+            "sydney",
+            "australia"
+          ]
+        },
+        {
+          "text": "London",
+          "points": 8,
+          "accept": [
+            "big ben",
+            "england"
+          ]
+        },
+        {
+          "text": "Paris",
+          "points": 6,
+          "accept": [
+            "eiffel tower",
+            "france"
+          ]
+        },
+        {
+          "text": "New Orleans",
+          "points": 5,
+          "accept": [
+            "nola",
+            "the french quarter"
+          ]
+        },
+        {
+          "text": "Rio de Janeiro",
+          "points": 4,
+          "accept": [
+            "rio",
+            "brazil"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people eat on New Year's Day for good luck",
+      "answers": [
+        {
+          "text": "Black-eyed peas",
+          "points": 35,
+          "accept": [
+            "black eyed peas",
+            "peas",
+            "hoppin' john",
+            "hoppin john"
+          ]
+        },
+        {
+          "text": "Cabbage",
+          "points": 15,
+          "accept": [
+            "sauerkraut",
+            "pork and sauerkraut"
+          ]
+        },
+        {
+          "text": "Pork",
+          "points": 12,
+          "accept": [
+            "ham",
+            "pork roast"
+          ]
+        },
+        {
+          "text": "Grapes",
+          "points": 10,
+          "accept": [
+            "12 grapes",
+            "twelve grapes"
+          ]
+        },
+        {
+          "text": "Collard greens",
+          "points": 9,
+          "accept": [
+            "greens",
+            "collards"
+          ]
+        },
+        {
+          "text": "Lentils",
+          "points": 5,
+          "accept": [
+            "lentil soup",
+            "beans"
+          ]
+        },
+        {
+          "text": "Cornbread",
+          "points": 4,
+          "accept": [
+            "cornbread",
+            "corn bread"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason people give up on their New Year's resolutions",
+      "answers": [
+        {
+          "text": "Lose motivation",
+          "points": 32,
+          "accept": [
+            "no motivation",
+            "lazy",
+            "get lazy",
+            "lack of willpower",
+            "give up"
+          ]
+        },
+        {
+          "text": "Too busy",
+          "points": 20,
+          "accept": [
+            "no time",
+            "busy",
+            "work",
+            "life gets busy"
+          ]
+        },
+        {
+          "text": "Too hard",
+          "points": 16,
+          "accept": [
+            "too difficult",
+            "hard",
+            "unrealistic"
+          ]
+        },
+        {
+          "text": "Forget about them",
+          "points": 10,
+          "accept": [
+            "forgot",
+            "forget",
+            "forgot about it"
+          ]
+        },
+        {
+          "text": "No results",
+          "points": 8,
+          "accept": [
+            "not seeing results",
+            "not working",
+            "no progress"
+          ]
+        },
+        {
+          "text": "Temptation",
+          "points": 6,
+          "accept": [
+            "cravings",
+            "peer pressure",
+            "snacks"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do on New Year's Day",
+      "answers": [
+        {
+          "text": "Sleep in",
+          "points": 30,
+          "accept": [
+            "sleep",
+            "sleep late",
+            "nap",
+            "rest"
+          ]
+        },
+        {
+          "text": "Watch football",
+          "points": 20,
+          "accept": [
+            "football",
+            "bowl games",
+            "college football",
+            "watch bowl games"
+          ]
+        },
+        {
+          "text": "Watch a parade",
+          "points": 12,
+          "accept": [
+            "parade",
+            "rose parade",
+            "watch parades"
+          ]
+        },
+        {
+          "text": "Clean up",
+          "points": 10,
+          "accept": [
+            "clean",
+            "clean the house",
+            "clean up after the party"
+          ]
+        },
+        {
+          "text": "Take down decorations",
+          "points": 7,
+          "accept": [
+            "take down the tree",
+            "put away decorations",
+            "undecorate"
+          ]
+        },
+        {
+          "text": "Go to brunch",
+          "points": 6,
+          "accept": [
+            "brunch",
+            "big breakfast",
+            "breakfast"
+          ]
+        },
+        {
+          "text": "Polar plunge",
+          "points": 4,
+          "accept": [
+            "polar bear plunge",
+            "jump in cold water",
+            "polar bear swim"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Tell me something people say or sing at midnight",
+      "answers": [
+        {
+          "text": "Happy New Year",
+          "points": 45,
+          "accept": [
+            "happy new year",
+            "happy new year!"
+          ]
+        },
+        {
+          "text": "Auld Lang Syne",
+          "points": 25,
+          "accept": [
+            "old lang syne",
+            "should old acquaintance"
+          ]
+        },
+        {
+          "text": "Cheers",
+          "points": 10,
+          "accept": [
+            "cheers!",
+            "bottoms up",
+            "salud"
+          ]
+        },
+        {
+          "text": "I love you",
+          "points": 6,
+          "accept": [
+            "i love you",
+            "love you"
+          ]
+        },
+        {
+          "text": "Ten, nine, eight...",
+          "points": 4,
+          "accept": [
+            "ten nine eight",
+            "countdown",
+            "numbers",
+            "three two one"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people use to make noise at midnight",
+      "answers": [
+        {
+          "text": "Noisemakers",
+          "points": 30,
+          "accept": [
+            "horns",
+            "party horns",
+            "blowers",
+            "noise makers",
+            "kazoos"
+          ]
+        },
+        {
+          "text": "Pots and pans",
+          "points": 20,
+          "accept": [
+            "pots",
+            "pans",
+            "banging pots"
+          ]
+        },
+        {
+          "text": "Fireworks",
+          "points": 15,
+          "accept": [
+            "firecrackers",
+            "poppers"
+          ]
+        },
+        {
+          "text": "Their voices",
+          "points": 10,
+          "accept": [
+            "yelling",
+            "screaming",
+            "shouting",
+            "cheering"
+          ]
+        },
+        {
+          "text": "Clapping",
+          "points": 8,
+          "accept": [
+            "applause",
+            "clap",
+            "hands"
+          ]
+        },
+        {
+          "text": "Whistles",
+          "points": 6,
+          "accept": [
+            "whistles",
+            "whistle"
+          ]
+        },
+        {
+          "text": "Bells",
+          "points": 4,
+          "accept": [
+            "bell",
+            "church bells"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people wear to a New Year's Eve party",
+      "answers": [
+        {
+          "text": "Party hat",
+          "points": 30,
+          "accept": [
+            "hat",
+            "party hats",
+            "cone hat",
+            "top hat"
+          ]
+        },
+        {
+          "text": "Sparkly dress",
+          "points": 22,
+          "accept": [
+            "dress",
+            "sequins",
+            "cocktail dress",
+            "sequin dress",
+            "glitter"
+          ]
+        },
+        {
+          "text": "Novelty glasses",
+          "points": 12,
+          "accept": [
+            "new year glasses",
+            "glasses",
+            "silly glasses",
+            "party glasses"
+          ]
+        },
+        {
+          "text": "Tiara",
+          "points": 10,
+          "accept": [
+            "crown",
+            "headband"
+          ]
+        },
+        {
+          "text": "Suit",
+          "points": 8,
+          "accept": [
+            "tuxedo",
+            "tux",
+            "suit and tie"
+          ]
+        },
+        {
+          "text": "High heels",
+          "points": 6,
+          "accept": [
+            "heels",
+            "fancy shoes",
+            "stilettos"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people reflect on at the end of the year",
+      "answers": [
+        {
+          "text": "Accomplishments",
+          "points": 25,
+          "accept": [
+            "achievements",
+            "goals met",
+            "successes",
+            "wins"
+          ]
+        },
+        {
+          "text": "Mistakes",
+          "points": 20,
+          "accept": [
+            "regrets",
+            "failures",
+            "bad decisions"
+          ]
+        },
+        {
+          "text": "Family",
+          "points": 15,
+          "accept": [
+            "loved ones",
+            "kids",
+            "relatives"
+          ]
+        },
+        {
+          "text": "Health",
+          "points": 10,
+          "accept": [
+            "fitness",
+            "weight"
+          ]
+        },
+        {
+          "text": "Money",
+          "points": 9,
+          "accept": [
+            "finances",
+            "savings",
+            "bills"
+          ]
+        },
+        {
+          "text": "Goals",
+          "points": 8,
+          "accept": [
+            "resolutions",
+            "plans",
+            "dreams"
+          ]
+        },
+        {
+          "text": "Friends",
+          "points": 6,
+          "accept": [
+            "friendships",
+            "relationships"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people watch on TV on New Year's Eve",
+      "answers": [
+        {
+          "text": "Ball drop",
+          "points": 40,
+          "accept": [
+            "times square",
+            "the ball",
+            "ball dropping",
+            "countdown"
+          ]
+        },
+        {
+          "text": "Fireworks",
+          "points": 18,
+          "accept": [
+            "firework shows",
+            "fireworks show"
+          ]
+        },
+        {
+          "text": "Concerts",
+          "points": 14,
+          "accept": [
+            "music",
+            "performers",
+            "live music",
+            "musicians"
+          ]
+        },
+        {
+          "text": "Movies",
+          "points": 10,
+          "accept": [
+            "movie",
+            "a movie"
+          ]
+        },
+        {
+          "text": "Football",
+          "points": 8,
+          "accept": [
+            "bowl games",
+            "college football",
+            "games"
+          ]
+        },
+        {
+          "text": "News",
+          "points": 5,
+          "accept": [
+            "the news",
+            "local news"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a money goal people set for the new year",
+      "answers": [
+        {
+          "text": "Save more",
+          "points": 35,
+          "accept": [
+            "save",
+            "save money",
+            "savings",
+            "emergency fund"
+          ]
+        },
+        {
+          "text": "Pay off debt",
+          "points": 25,
+          "accept": [
+            "get out of debt",
+            "pay off credit cards",
+            "pay off loans",
+            "debt"
+          ]
+        },
+        {
+          "text": "Make a budget",
+          "points": 15,
+          "accept": [
+            "budget",
+            "stick to a budget",
+            "budgeting"
+          ]
+        },
+        {
+          "text": "Invest",
+          "points": 10,
+          "accept": [
+            "investing",
+            "stocks",
+            "retirement",
+            "401k"
+          ]
+        },
+        {
+          "text": "Buy a house",
+          "points": 6,
+          "accept": [
+            "buy a home",
+            "house",
+            "home"
+          ]
+        },
+        {
+          "text": "Get a raise",
+          "points": 5,
+          "accept": [
+            "raise",
+            "make more money",
+            "earn more"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a place people spend New Year's Eve",
+      "answers": [
+        {
+          "text": "At home",
+          "points": 35,
+          "accept": [
+            "home",
+            "house",
+            "my house",
+            "on the couch"
+          ]
+        },
+        {
+          "text": "A party",
+          "points": 20,
+          "accept": [
+            "party",
+            "house party",
+            "friend's party",
+            "friend's house"
+          ]
+        },
+        {
+          "text": "A bar",
+          "points": 14,
+          "accept": [
+            "bar",
+            "club",
+            "nightclub",
+            "pub"
+          ]
+        },
+        {
+          "text": "A restaurant",
+          "points": 9,
+          "accept": [
+            "restaurant",
+            "dinner out",
+            "out to dinner"
+          ]
+        },
+        {
+          "text": "Times Square",
+          "points": 8,
+          "accept": [
+            "new york",
+            "nyc"
+          ]
+        },
+        {
+          "text": "Las Vegas",
+          "points": 6,
+          "accept": [
+            "las vegas",
+            "vegas"
+          ]
+        },
+        {
+          "text": "Church",
+          "points": 3,
+          "accept": [
+            "watch night service",
+            "church service"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do to get ready for a New Year's Eve party",
+      "answers": [
+        {
+          "text": "Get dressed up",
+          "points": 30,
+          "accept": [
+            "dress up",
+            "get dressed",
+            "pick an outfit",
+            "get ready"
+          ]
+        },
+        {
+          "text": "Buy drinks",
+          "points": 18,
+          "accept": [
+            "buy champagne",
+            "buy alcohol",
+            "stock the bar",
+            "chill champagne"
+          ]
+        },
+        {
+          "text": "Cook food",
+          "points": 15,
+          "accept": [
+            "make food",
+            "cook",
+            "make snacks",
+            "make appetizers"
+          ]
+        },
+        {
+          "text": "Decorate",
+          "points": 12,
+          "accept": [
+            "decorations",
+            "hang balloons",
+            "put up streamers"
+          ]
+        },
+        {
+          "text": "Take a nap",
+          "points": 8,
+          "accept": [
+            "nap",
+            "sleep",
+            "rest up"
+          ]
+        },
+        {
+          "text": "Clean the house",
+          "points": 7,
+          "accept": [
+            "clean",
+            "tidy up",
+            "clean up"
+          ]
+        },
+        {
+          "text": "Do hair and makeup",
+          "points": 4,
+          "accept": [
+            "makeup",
+            "hair",
+            "do your hair",
+            "shower"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a bad habit people try to break in the new year",
+      "answers": [
+        {
+          "text": "Smoking",
+          "points": 35,
+          "accept": [
+            "cigarettes",
+            "vaping",
+            "tobacco"
+          ]
+        },
+        {
+          "text": "Overeating",
+          "points": 15,
+          "accept": [
+            "eating junk food",
+            "junk food",
+            "snacking",
+            "sweets"
+          ]
+        },
+        {
+          "text": "Nail biting",
+          "points": 12,
+          "accept": [
+            "biting nails",
+            "biting fingernails"
+          ]
+        },
+        {
+          "text": "Drinking",
+          "points": 10,
+          "accept": [
+            "alcohol",
+            "drinking too much"
+          ]
+        },
+        {
+          "text": "Procrastinating",
+          "points": 9,
+          "accept": [
+            "procrastination",
+            "putting things off"
+          ]
+        },
+        {
+          "text": "Too much screen time",
+          "points": 8,
+          "accept": [
+            "phone",
+            "social media",
+            "scrolling",
+            "phone addiction"
+          ]
+        },
+        {
+          "text": "Swearing",
+          "points": 5,
+          "accept": [
+            "cursing",
+            "cussing",
+            "bad language"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people buy in January to stick to their resolutions",
+      "answers": [
+        {
+          "text": "Gym membership",
+          "points": 40,
+          "accept": [
+            "gym",
+            "membership",
+            "gym pass"
+          ]
+        },
+        {
+          "text": "Workout clothes",
+          "points": 15,
+          "accept": [
+            "gym clothes",
+            "athletic wear",
+            "leggings",
+            "yoga pants"
+          ]
+        },
+        {
+          "text": "Healthy food",
+          "points": 12,
+          "accept": [
+            "vegetables",
+            "salad",
+            "groceries",
+            "fruit"
+          ]
+        },
+        {
+          "text": "Planner",
+          "points": 10,
+          "accept": [
+            "journal",
+            "calendar",
+            "notebook",
+            "diary"
+          ]
+        },
+        {
+          "text": "Running shoes",
+          "points": 9,
+          "accept": [
+            "sneakers",
+            "shoes",
+            "tennis shoes"
+          ]
+        },
+        {
+          "text": "Bathroom scale",
+          "points": 6,
+          "accept": [
+            "scale",
+            "fitness tracker"
+          ]
+        },
+        {
+          "text": "Self-help books",
+          "points": 4,
+          "accept": [
+            "books",
+            "book",
+            "diet book"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that's hard to get used to in January",
+      "answers": [
+        {
+          "text": "Writing the new year",
+          "points": 35,
+          "accept": [
+            "new year",
+            "writing the date",
+            "the date",
+            "writing the wrong year"
+          ]
+        },
+        {
+          "text": "Cold weather",
+          "points": 22,
+          "accept": [
+            "cold",
+            "snow",
+            "winter",
+            "the weather"
+          ]
+        },
+        {
+          "text": "Going back to work",
+          "points": 15,
+          "accept": [
+            "work",
+            "back to work",
+            "back to school",
+            "school"
+          ]
+        },
+        {
+          "text": "Early mornings",
+          "points": 9,
+          "accept": [
+            "waking up early",
+            "alarm clock",
+            "getting up"
+          ]
+        },
+        {
+          "text": "Short days",
+          "points": 7,
+          "accept": [
+            "darkness",
+            "dark early",
+            "no sunlight"
+          ]
+        },
+        {
+          "text": "Holiday bills",
+          "points": 6,
+          "accept": [
+            "bills",
+            "credit card bills",
+            "being broke",
+            "no money"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that sparkles at a New Year's party",
+      "answers": [
+        {
+          "text": "Champagne",
+          "points": 30,
+          "accept": [
+            "bubbly",
+            "bubbles",
+            "champagne glasses"
+          ]
+        },
+        {
+          "text": "Confetti",
+          "points": 22,
+          "accept": [
+            "sparkly confetti",
+            "streamers"
+          ]
+        },
+        {
+          "text": "Glitter",
+          "points": 15,
+          "accept": [
+            "glitter",
+            "glitter decorations"
+          ]
+        },
+        {
+          "text": "Disco ball",
+          "points": 12,
+          "accept": [
+            "mirror ball",
+            "disco lights"
+          ]
+        },
+        {
+          "text": "Dresses",
+          "points": 8,
+          "accept": [
+            "sequin dresses",
+            "sequins",
+            "sparkly dress",
+            "outfits"
+          ]
+        },
+        {
+          "text": "Sparklers",
+          "points": 7,
+          "accept": [
+            "sparkler",
+            "fireworks"
+          ]
+        },
+        {
+          "text": "Jewelry",
+          "points": 5,
+          "accept": [
+            "diamonds",
+            "earrings",
+            "necklace"
+          ]
+        }
+      ]
+    }
+  ],
+  "lightning": []
+}

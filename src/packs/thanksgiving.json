@@ -1,0 +1,1563 @@
+{
+  "id": "thanksgiving",
+  "name": "Thanksgiving and Friendsgiving",
+  "audience": "Families and friends",
+  "region": "US",
+  "source": "estimate",
+  "rounds": [
+    {
+      "q": "Name something people eat at Thanksgiving dinner",
+      "answers": [
+        {
+          "text": "Turkey",
+          "points": 40,
+          "accept": [
+            "roast turkey",
+            "turkey breast",
+            "fried turkey"
+          ]
+        },
+        {
+          "text": "Stuffing",
+          "points": 18,
+          "accept": [
+            "dressing",
+            "stuffing and dressing"
+          ]
+        },
+        {
+          "text": "Mashed potatoes",
+          "points": 12,
+          "accept": [
+            "potatoes",
+            "mashed potato",
+            "mash"
+          ]
+        },
+        {
+          "text": "Cranberry sauce",
+          "points": 9,
+          "accept": [
+            "cranberries",
+            "cranberry",
+            "canned cranberry"
+          ]
+        },
+        {
+          "text": "Pumpkin pie",
+          "points": 8,
+          "accept": [
+            "pie",
+            "pies"
+          ]
+        },
+        {
+          "text": "Green beans",
+          "points": 5,
+          "accept": [
+            "green bean casserole",
+            "beans"
+          ]
+        },
+        {
+          "text": "Rolls",
+          "points": 4,
+          "accept": [
+            "dinner rolls",
+            "bread",
+            "biscuits"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a type of pie served at Thanksgiving",
+      "answers": [
+        {
+          "text": "Pumpkin",
+          "points": 45,
+          "accept": [
+            "pumpkin",
+            "pumpkin pie"
+          ]
+        },
+        {
+          "text": "Apple",
+          "points": 22,
+          "accept": [
+            "apple pie",
+            "dutch apple"
+          ]
+        },
+        {
+          "text": "Pecan",
+          "points": 15,
+          "accept": [
+            "pecan pie",
+            "pecans"
+          ]
+        },
+        {
+          "text": "Sweet potato",
+          "points": 8,
+          "accept": [
+            "sweet potato pie",
+            "yam pie"
+          ]
+        },
+        {
+          "text": "Cherry",
+          "points": 4,
+          "accept": [
+            "cherry",
+            "cherry pie"
+          ]
+        },
+        {
+          "text": "Chocolate",
+          "points": 3,
+          "accept": [
+            "chocolate pie",
+            "chocolate cream",
+            "french silk"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do after Thanksgiving dinner",
+      "answers": [
+        {
+          "text": "Take a nap",
+          "points": 32,
+          "accept": [
+            "nap",
+            "sleep",
+            "fall asleep",
+            "doze off"
+          ]
+        },
+        {
+          "text": "Watch football",
+          "points": 25,
+          "accept": [
+            "football",
+            "watch the game",
+            "watch tv"
+          ]
+        },
+        {
+          "text": "Eat dessert",
+          "points": 12,
+          "accept": [
+            "dessert",
+            "eat pie",
+            "pie"
+          ]
+        },
+        {
+          "text": "Do the dishes",
+          "points": 10,
+          "accept": [
+            "dishes",
+            "wash dishes",
+            "clean up",
+            "clean the kitchen"
+          ]
+        },
+        {
+          "text": "Go shopping",
+          "points": 7,
+          "accept": [
+            "shop",
+            "black friday shopping",
+            "shopping"
+          ]
+        },
+        {
+          "text": "Play games",
+          "points": 6,
+          "accept": [
+            "games",
+            "board games",
+            "cards"
+          ]
+        },
+        {
+          "text": "Go for a walk",
+          "points": 4,
+          "accept": [
+            "walk",
+            "take a walk"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people are thankful for",
+      "answers": [
+        {
+          "text": "Family",
+          "points": 42,
+          "accept": [
+            "my family",
+            "kids",
+            "loved ones",
+            "relatives"
+          ]
+        },
+        {
+          "text": "Health",
+          "points": 20,
+          "accept": [
+            "good health",
+            "being healthy",
+            "life"
+          ]
+        },
+        {
+          "text": "Friends",
+          "points": 12,
+          "accept": [
+            "friendship",
+            "friend"
+          ]
+        },
+        {
+          "text": "Food",
+          "points": 8,
+          "accept": [
+            "a meal",
+            "food on the table"
+          ]
+        },
+        {
+          "text": "Home",
+          "points": 6,
+          "accept": [
+            "house",
+            "a roof over my head",
+            "shelter"
+          ]
+        },
+        {
+          "text": "Job",
+          "points": 5,
+          "accept": [
+            "work",
+            "career",
+            "employment"
+          ]
+        },
+        {
+          "text": "Pets",
+          "points": 4,
+          "accept": [
+            "dog",
+            "cat",
+            "pet"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that can go wrong when cooking a turkey",
+      "answers": [
+        {
+          "text": "Dried out",
+          "points": 32,
+          "accept": [
+            "dry",
+            "too dry",
+            "overcooked",
+            "dry meat"
+          ]
+        },
+        {
+          "text": "Undercooked",
+          "points": 22,
+          "accept": [
+            "raw",
+            "not done",
+            "pink inside",
+            "raw inside"
+          ]
+        },
+        {
+          "text": "Burned",
+          "points": 15,
+          "accept": [
+            "burnt",
+            "charred",
+            "burned skin"
+          ]
+        },
+        {
+          "text": "Still frozen",
+          "points": 12,
+          "accept": [
+            "frozen",
+            "didn't thaw",
+            "not thawed",
+            "forgot to thaw"
+          ]
+        },
+        {
+          "text": "Fryer fire",
+          "points": 7,
+          "accept": [
+            "fire",
+            "oven fire",
+            "kitchen fire",
+            "grease fire"
+          ]
+        },
+        {
+          "text": "Dropped it",
+          "points": 5,
+          "accept": [
+            "drop it",
+            "dropped on the floor",
+            "the dog ate it"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name an NFL team that often plays on Thanksgiving",
+      "answers": [
+        {
+          "text": "Lions",
+          "points": 40,
+          "accept": [
+            "detroit lions",
+            "detroit"
+          ]
+        },
+        {
+          "text": "Cowboys",
+          "points": 35,
+          "accept": [
+            "dallas cowboys",
+            "dallas"
+          ]
+        },
+        {
+          "text": "Packers",
+          "points": 6,
+          "accept": [
+            "green bay packers",
+            "green bay"
+          ]
+        },
+        {
+          "text": "Bears",
+          "points": 5,
+          "accept": [
+            "chicago bears",
+            "chicago"
+          ]
+        },
+        {
+          "text": "Giants",
+          "points": 4,
+          "accept": [
+            "giants",
+            "new york giants"
+          ]
+        },
+        {
+          "text": "Eagles",
+          "points": 3,
+          "accept": [
+            "philadelphia eagles",
+            "philadelphia"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you see in a Thanksgiving Day parade",
+      "answers": [
+        {
+          "text": "Balloons",
+          "points": 45,
+          "accept": [
+            "giant balloons",
+            "big balloons",
+            "balloon",
+            "character balloons"
+          ]
+        },
+        {
+          "text": "Floats",
+          "points": 25,
+          "accept": [
+            "float",
+            "parade floats"
+          ]
+        },
+        {
+          "text": "Marching bands",
+          "points": 12,
+          "accept": [
+            "band",
+            "bands",
+            "marching band"
+          ]
+        },
+        {
+          "text": "Santa",
+          "points": 7,
+          "accept": [
+            "santa claus",
+            "santa's sleigh"
+          ]
+        },
+        {
+          "text": "Singers",
+          "points": 5,
+          "accept": [
+            "performers",
+            "broadway performers",
+            "dancers",
+            "celebrities"
+          ]
+        },
+        {
+          "text": "Clowns",
+          "points": 3,
+          "accept": [
+            "clowns",
+            "clown"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people put on the Thanksgiving table that isn't food",
+      "answers": [
+        {
+          "text": "Centerpiece",
+          "points": 25,
+          "accept": [
+            "centerpieces",
+            "cornucopia",
+            "pumpkins",
+            "gourds"
+          ]
+        },
+        {
+          "text": "Candles",
+          "points": 20,
+          "accept": [
+            "candle",
+            "candlesticks"
+          ]
+        },
+        {
+          "text": "Tablecloth",
+          "points": 15,
+          "accept": [
+            "table cloth",
+            "table runner",
+            "runner"
+          ]
+        },
+        {
+          "text": "Plates",
+          "points": 12,
+          "accept": [
+            "good china",
+            "china",
+            "dishes",
+            "silverware"
+          ]
+        },
+        {
+          "text": "Napkins",
+          "points": 8,
+          "accept": [
+            "napkin",
+            "cloth napkins"
+          ]
+        },
+        {
+          "text": "Place cards",
+          "points": 7,
+          "accept": [
+            "name cards",
+            "name tags",
+            "place settings"
+          ]
+        },
+        {
+          "text": "Flowers",
+          "points": 5,
+          "accept": [
+            "flower",
+            "fall flowers",
+            "bouquet"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something families argue about at Thanksgiving",
+      "answers": [
+        {
+          "text": "Politics",
+          "points": 40,
+          "accept": [
+            "politicians",
+            "elections",
+            "the election",
+            "government"
+          ]
+        },
+        {
+          "text": "Football",
+          "points": 15,
+          "accept": [
+            "sports",
+            "the game",
+            "which game to watch"
+          ]
+        },
+        {
+          "text": "Money",
+          "points": 10,
+          "accept": [
+            "finances",
+            "inheritance",
+            "debt"
+          ]
+        },
+        {
+          "text": "Religion",
+          "points": 9,
+          "accept": [
+            "church",
+            "god"
+          ]
+        },
+        {
+          "text": "Doing the dishes",
+          "points": 7,
+          "accept": [
+            "dishes",
+            "cleanup",
+            "chores",
+            "who cleans up"
+          ]
+        },
+        {
+          "text": "Old family drama",
+          "points": 6,
+          "accept": [
+            "drama",
+            "grudges",
+            "the past",
+            "old grudges"
+          ]
+        },
+        {
+          "text": "Where to sit",
+          "points": 4,
+          "accept": [
+            "seating",
+            "kids table",
+            "the kids' table"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something associated with the Pilgrims",
+      "answers": [
+        {
+          "text": "Mayflower",
+          "points": 35,
+          "accept": [
+            "the mayflower",
+            "ship",
+            "boat"
+          ]
+        },
+        {
+          "text": "Plymouth Rock",
+          "points": 18,
+          "accept": [
+            "plymouth",
+            "the rock"
+          ]
+        },
+        {
+          "text": "Buckle hats",
+          "points": 14,
+          "accept": [
+            "hats",
+            "buckles",
+            "black hats",
+            "big hats"
+          ]
+        },
+        {
+          "text": "Native Americans",
+          "points": 12,
+          "accept": [
+            "indians",
+            "wampanoag",
+            "squanto",
+            "natives"
+          ]
+        },
+        {
+          "text": "Corn",
+          "points": 7,
+          "accept": [
+            "maize",
+            "harvest"
+          ]
+        },
+        {
+          "text": "First Thanksgiving",
+          "points": 5,
+          "accept": [
+            "feast",
+            "thanksgiving",
+            "the first feast"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do on Black Friday",
+      "answers": [
+        {
+          "text": "Shop",
+          "points": 40,
+          "accept": [
+            "go shopping",
+            "shopping",
+            "buy gifts",
+            "get deals"
+          ]
+        },
+        {
+          "text": "Wait in line",
+          "points": 20,
+          "accept": [
+            "stand in line",
+            "lines",
+            "line up"
+          ]
+        },
+        {
+          "text": "Eat leftovers",
+          "points": 12,
+          "accept": [
+            "leftovers",
+            "turkey sandwich",
+            "eat turkey"
+          ]
+        },
+        {
+          "text": "Camp out at stores",
+          "points": 9,
+          "accept": [
+            "camp out",
+            "camp",
+            "sleep outside the store"
+          ]
+        },
+        {
+          "text": "Fight the crowds",
+          "points": 7,
+          "accept": [
+            "crowds",
+            "fight",
+            "push",
+            "fight over deals"
+          ]
+        },
+        {
+          "text": "Sleep in",
+          "points": 5,
+          "accept": [
+            "sleep",
+            "stay home",
+            "rest"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a leftover Thanksgiving food you'd put in a sandwich",
+      "answers": [
+        {
+          "text": "Turkey",
+          "points": 45,
+          "accept": [
+            "turkey meat",
+            "sliced turkey",
+            "dark meat"
+          ]
+        },
+        {
+          "text": "Stuffing",
+          "points": 18,
+          "accept": [
+            "stuffing",
+            "dressing"
+          ]
+        },
+        {
+          "text": "Cranberry sauce",
+          "points": 15,
+          "accept": [
+            "cranberry",
+            "cranberries"
+          ]
+        },
+        {
+          "text": "Ham",
+          "points": 8,
+          "accept": [
+            "sliced ham",
+            "honey ham"
+          ]
+        },
+        {
+          "text": "Gravy",
+          "points": 6,
+          "accept": [
+            "gravy",
+            "turkey gravy"
+          ]
+        },
+        {
+          "text": "Mashed potatoes",
+          "points": 4,
+          "accept": [
+            "potatoes",
+            "mashed potato"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do to prepare for Thanksgiving",
+      "answers": [
+        {
+          "text": "Grocery shop",
+          "points": 32,
+          "accept": [
+            "shop",
+            "go shopping",
+            "buy food",
+            "buy groceries",
+            "groceries"
+          ]
+        },
+        {
+          "text": "Clean the house",
+          "points": 20,
+          "accept": [
+            "clean",
+            "tidy up",
+            "clean up"
+          ]
+        },
+        {
+          "text": "Thaw the turkey",
+          "points": 14,
+          "accept": [
+            "thaw",
+            "defrost the turkey",
+            "brine the turkey",
+            "defrost"
+          ]
+        },
+        {
+          "text": "Bake pies",
+          "points": 10,
+          "accept": [
+            "bake",
+            "make pies",
+            "baking"
+          ]
+        },
+        {
+          "text": "Set the table",
+          "points": 8,
+          "accept": [
+            "set table",
+            "get out the good china"
+          ]
+        },
+        {
+          "text": "Invite guests",
+          "points": 6,
+          "accept": [
+            "invite family",
+            "invite people",
+            "send invites"
+          ]
+        },
+        {
+          "text": "Travel",
+          "points": 4,
+          "accept": [
+            "book flights",
+            "pack",
+            "drive"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people bring to a Friendsgiving",
+      "answers": [
+        {
+          "text": "Side dish",
+          "points": 30,
+          "accept": [
+            "sides",
+            "casserole",
+            "a side",
+            "mac and cheese"
+          ]
+        },
+        {
+          "text": "Dessert",
+          "points": 22,
+          "accept": [
+            "pie",
+            "cake",
+            "cookies",
+            "desserts"
+          ]
+        },
+        {
+          "text": "Wine",
+          "points": 18,
+          "accept": [
+            "bottle of wine",
+            "alcohol",
+            "beer"
+          ]
+        },
+        {
+          "text": "Rolls",
+          "points": 7,
+          "accept": [
+            "bread",
+            "dinner rolls",
+            "biscuits"
+          ]
+        },
+        {
+          "text": "Chips and dip",
+          "points": 6,
+          "accept": [
+            "chips",
+            "dip",
+            "snacks",
+            "appetizers"
+          ]
+        },
+        {
+          "text": "Games",
+          "points": 5,
+          "accept": [
+            "board games",
+            "cards",
+            "a game"
+          ]
+        },
+        {
+          "text": "Flowers",
+          "points": 4,
+          "accept": [
+            "bouquet",
+            "flower"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason people dread Thanksgiving travel",
+      "answers": [
+        {
+          "text": "Traffic",
+          "points": 38,
+          "accept": [
+            "bad traffic",
+            "traffic jams",
+            "congestion"
+          ]
+        },
+        {
+          "text": "Crowded airports",
+          "points": 20,
+          "accept": [
+            "airports",
+            "crowds",
+            "security lines",
+            "tsa lines"
+          ]
+        },
+        {
+          "text": "Delays",
+          "points": 15,
+          "accept": [
+            "flight delays",
+            "delayed flights",
+            "cancellations",
+            "canceled flights"
+          ]
+        },
+        {
+          "text": "Bad weather",
+          "points": 10,
+          "accept": [
+            "weather",
+            "snow",
+            "storms",
+            "ice"
+          ]
+        },
+        {
+          "text": "Cost",
+          "points": 7,
+          "accept": [
+            "expensive",
+            "prices",
+            "expensive flights",
+            "gas prices"
+          ]
+        },
+        {
+          "text": "Long drive",
+          "points": 4,
+          "accept": [
+            "long trip",
+            "road trip",
+            "driving"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a color associated with Thanksgiving",
+      "answers": [
+        {
+          "text": "Orange",
+          "points": 45,
+          "accept": [
+            "pumpkin orange",
+            "burnt orange"
+          ]
+        },
+        {
+          "text": "Brown",
+          "points": 25,
+          "accept": [
+            "tan",
+            "turkey brown"
+          ]
+        },
+        {
+          "text": "Red",
+          "points": 10,
+          "accept": [
+            "dark red",
+            "maroon",
+            "burgundy",
+            "cranberry"
+          ]
+        },
+        {
+          "text": "Yellow",
+          "points": 8,
+          "accept": [
+            "golden yellow",
+            "mustard"
+          ]
+        },
+        {
+          "text": "Gold",
+          "points": 5,
+          "accept": [
+            "gold",
+            "golden"
+          ]
+        },
+        {
+          "text": "Green",
+          "points": 3,
+          "accept": [
+            "olive",
+            "olive green"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a word that describes how you feel after Thanksgiving dinner",
+      "answers": [
+        {
+          "text": "Full",
+          "points": 45,
+          "accept": [
+            "stuffed",
+            "full up",
+            "packed"
+          ]
+        },
+        {
+          "text": "Sleepy",
+          "points": 25,
+          "accept": [
+            "tired",
+            "drowsy",
+            "exhausted"
+          ]
+        },
+        {
+          "text": "Bloated",
+          "points": 10,
+          "accept": [
+            "sick",
+            "overstuffed",
+            "gassy"
+          ]
+        },
+        {
+          "text": "Happy",
+          "points": 8,
+          "accept": [
+            "content",
+            "satisfied",
+            "joyful"
+          ]
+        },
+        {
+          "text": "Lazy",
+          "points": 5,
+          "accept": [
+            "sluggish",
+            "unmotivated"
+          ]
+        },
+        {
+          "text": "Thankful",
+          "points": 4,
+          "accept": [
+            "grateful",
+            "blessed"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a part of the turkey people fight over",
+      "answers": [
+        {
+          "text": "Drumstick",
+          "points": 40,
+          "accept": [
+            "leg",
+            "legs",
+            "turkey leg",
+            "drumsticks"
+          ]
+        },
+        {
+          "text": "Breast",
+          "points": 18,
+          "accept": [
+            "white meat",
+            "breast meat"
+          ]
+        },
+        {
+          "text": "Wishbone",
+          "points": 15,
+          "accept": [
+            "wish bone",
+            "the wishbone"
+          ]
+        },
+        {
+          "text": "Wing",
+          "points": 10,
+          "accept": [
+            "wing",
+            "wings"
+          ]
+        },
+        {
+          "text": "Thigh",
+          "points": 8,
+          "accept": [
+            "thighs",
+            "dark meat"
+          ]
+        },
+        {
+          "text": "Skin",
+          "points": 5,
+          "accept": [
+            "skin",
+            "crispy skin"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people wish for when they break the wishbone",
+      "answers": [
+        {
+          "text": "Money",
+          "points": 30,
+          "accept": [
+            "to win the lottery",
+            "lottery",
+            "rich",
+            "wealth",
+            "cash"
+          ]
+        },
+        {
+          "text": "Health",
+          "points": 22,
+          "accept": [
+            "good health",
+            "to be healthy"
+          ]
+        },
+        {
+          "text": "Love",
+          "points": 15,
+          "accept": [
+            "a girlfriend",
+            "a boyfriend",
+            "romance",
+            "to get married"
+          ]
+        },
+        {
+          "text": "Happiness",
+          "points": 10,
+          "accept": [
+            "to be happy",
+            "joy"
+          ]
+        },
+        {
+          "text": "A new car",
+          "points": 6,
+          "accept": [
+            "car",
+            "new car"
+          ]
+        },
+        {
+          "text": "Good luck",
+          "points": 5,
+          "accept": [
+            "good luck",
+            "luck"
+          ]
+        },
+        {
+          "text": "A vacation",
+          "points": 4,
+          "accept": [
+            "vacation",
+            "trip",
+            "travel"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a kitchen tool you need on Thanksgiving",
+      "answers": [
+        {
+          "text": "Oven",
+          "points": 30,
+          "accept": [
+            "stove",
+            "range",
+            "the oven"
+          ]
+        },
+        {
+          "text": "Roasting pan",
+          "points": 20,
+          "accept": [
+            "pan",
+            "turkey pan",
+            "roaster",
+            "roasting pans"
+          ]
+        },
+        {
+          "text": "Carving knife",
+          "points": 15,
+          "accept": [
+            "knife",
+            "electric knife",
+            "carving set"
+          ]
+        },
+        {
+          "text": "Baster",
+          "points": 10,
+          "accept": [
+            "baster",
+            "turkey baster"
+          ]
+        },
+        {
+          "text": "Meat thermometer",
+          "points": 9,
+          "accept": [
+            "thermometer",
+            "turkey thermometer"
+          ]
+        },
+        {
+          "text": "Mixer",
+          "points": 6,
+          "accept": [
+            "hand mixer",
+            "stand mixer",
+            "kitchenaid",
+            "electric mixer"
+          ]
+        },
+        {
+          "text": "Potato masher",
+          "points": 4,
+          "accept": [
+            "masher",
+            "ricer"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a dessert other than pie served at Thanksgiving",
+      "answers": [
+        {
+          "text": "Cheesecake",
+          "points": 28,
+          "accept": [
+            "pumpkin cheesecake",
+            "cheese cake"
+          ]
+        },
+        {
+          "text": "Cake",
+          "points": 18,
+          "accept": [
+            "pound cake",
+            "carrot cake",
+            "bundt cake",
+            "chocolate cake"
+          ]
+        },
+        {
+          "text": "Cookies",
+          "points": 14,
+          "accept": [
+            "cookie",
+            "sugar cookies"
+          ]
+        },
+        {
+          "text": "Brownies",
+          "points": 10,
+          "accept": [
+            "brownies",
+            "brownie"
+          ]
+        },
+        {
+          "text": "Ice cream",
+          "points": 9,
+          "accept": [
+            "vanilla ice cream",
+            "gelato"
+          ]
+        },
+        {
+          "text": "Cobbler",
+          "points": 7,
+          "accept": [
+            "peach cobbler",
+            "apple crisp",
+            "crisp",
+            "crumble"
+          ]
+        },
+        {
+          "text": "Pudding",
+          "points": 5,
+          "accept": [
+            "banana pudding",
+            "bread pudding"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a vegetable people serve at Thanksgiving",
+      "answers": [
+        {
+          "text": "Sweet potatoes",
+          "points": 30,
+          "accept": [
+            "yams",
+            "candied yams",
+            "sweet potato",
+            "sweet potato casserole"
+          ]
+        },
+        {
+          "text": "Green beans",
+          "points": 20,
+          "accept": [
+            "string beans",
+            "green bean casserole"
+          ]
+        },
+        {
+          "text": "Corn",
+          "points": 15,
+          "accept": [
+            "corn on the cob",
+            "creamed corn"
+          ]
+        },
+        {
+          "text": "Squash",
+          "points": 10,
+          "accept": [
+            "butternut squash",
+            "acorn squash"
+          ]
+        },
+        {
+          "text": "Brussels sprouts",
+          "points": 8,
+          "accept": [
+            "brussel sprouts",
+            "sprouts"
+          ]
+        },
+        {
+          "text": "Carrots",
+          "points": 7,
+          "accept": [
+            "glazed carrots",
+            "carrot"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a game families play on Thanksgiving",
+      "answers": [
+        {
+          "text": "Backyard football",
+          "points": 25,
+          "accept": [
+            "football",
+            "touch football",
+            "flag football",
+            "turkey bowl"
+          ]
+        },
+        {
+          "text": "Cards",
+          "points": 20,
+          "accept": [
+            "card games",
+            "poker",
+            "spades",
+            "uno"
+          ]
+        },
+        {
+          "text": "Board games",
+          "points": 18,
+          "accept": [
+            "monopoly",
+            "scrabble",
+            "games"
+          ]
+        },
+        {
+          "text": "Charades",
+          "points": 10,
+          "accept": [
+            "charades",
+            "heads up"
+          ]
+        },
+        {
+          "text": "Bingo",
+          "points": 7,
+          "accept": [
+            "bingo",
+            "turkey bingo"
+          ]
+        },
+        {
+          "text": "Pictionary",
+          "points": 6,
+          "accept": [
+            "pictionary",
+            "drawing game"
+          ]
+        },
+        {
+          "text": "Video games",
+          "points": 5,
+          "accept": [
+            "video game",
+            "xbox",
+            "playstation",
+            "nintendo"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something kids make at school for Thanksgiving",
+      "answers": [
+        {
+          "text": "Hand turkey",
+          "points": 40,
+          "accept": [
+            "handprint turkey",
+            "hand turkeys",
+            "turkey drawing",
+            "paper turkey"
+          ]
+        },
+        {
+          "text": "Pilgrim hats",
+          "points": 18,
+          "accept": [
+            "pilgrim hat",
+            "hats",
+            "paper hats"
+          ]
+        },
+        {
+          "text": "Thankful list",
+          "points": 12,
+          "accept": [
+            "what i'm thankful for",
+            "thankful tree",
+            "gratitude list"
+          ]
+        },
+        {
+          "text": "Placemats",
+          "points": 10,
+          "accept": [
+            "placemat",
+            "place mats"
+          ]
+        },
+        {
+          "text": "Paper chain",
+          "points": 7,
+          "accept": [
+            "paper chains",
+            "thankful chain"
+          ]
+        },
+        {
+          "text": "Pinecone turkey",
+          "points": 6,
+          "accept": [
+            "pinecone",
+            "pine cone turkey",
+            "pinecone craft"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you'd find in a cornucopia",
+      "answers": [
+        {
+          "text": "Corn",
+          "points": 30,
+          "accept": [
+            "indian corn",
+            "ears of corn",
+            "corn cobs"
+          ]
+        },
+        {
+          "text": "Apples",
+          "points": 18,
+          "accept": [
+            "apple",
+            "fruit"
+          ]
+        },
+        {
+          "text": "Gourds",
+          "points": 15,
+          "accept": [
+            "gourds",
+            "gourd"
+          ]
+        },
+        {
+          "text": "Pumpkins",
+          "points": 10,
+          "accept": [
+            "pumpkin",
+            "mini pumpkins"
+          ]
+        },
+        {
+          "text": "Grapes",
+          "points": 9,
+          "accept": [
+            "grapes",
+            "grape"
+          ]
+        },
+        {
+          "text": "Squash",
+          "points": 7,
+          "accept": [
+            "butternut squash",
+            "acorn squash"
+          ]
+        },
+        {
+          "text": "Wheat",
+          "points": 5,
+          "accept": [
+            "grain",
+            "stalks of wheat"
+          ]
+        }
+      ]
+    }
+  ],
+  "lightning": []
+}

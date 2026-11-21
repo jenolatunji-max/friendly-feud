@@ -1,0 +1,1672 @@
+{
+  "id": "bachelorette",
+  "name": "Bachelorette and Bridal Shower",
+  "audience": "Adults; cheeky but not explicit",
+  "region": "US",
+  "source": "estimate",
+  "rounds": [
+    {
+      "q": "Name something a bride might forget on her wedding day",
+      "answers": [
+        {
+          "text": "Vows",
+          "points": 30,
+          "accept": [
+            "vow cards",
+            "wedding vows",
+            "her vows",
+            "speech"
+          ]
+        },
+        {
+          "text": "Rings",
+          "points": 20,
+          "accept": [
+            "ring",
+            "wedding ring",
+            "wedding rings",
+            "the rings"
+          ]
+        },
+        {
+          "text": "To eat",
+          "points": 16,
+          "accept": [
+            "food",
+            "eating",
+            "breakfast",
+            "lunch"
+          ]
+        },
+        {
+          "text": "Something blue",
+          "points": 10,
+          "accept": [
+            "blue",
+            "something borrowed",
+            "something old"
+          ]
+        },
+        {
+          "text": "Veil",
+          "points": 8,
+          "accept": [
+            "her veil",
+            "the veil",
+            "headpiece"
+          ]
+        },
+        {
+          "text": "Lipstick",
+          "points": 7,
+          "accept": [
+            "makeup",
+            "lip gloss",
+            "touch-up kit"
+          ]
+        },
+        {
+          "text": "Marriage license",
+          "points": 5,
+          "accept": [
+            "license",
+            "the license",
+            "paperwork"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something every bachelorette party needs",
+      "answers": [
+        {
+          "text": "Alcohol",
+          "points": 34,
+          "accept": [
+            "drinks",
+            "booze",
+            "champagne",
+            "wine",
+            "shots"
+          ]
+        },
+        {
+          "text": "Sash",
+          "points": 18,
+          "accept": [
+            "bride sash",
+            "bride to be sash",
+            "tiara",
+            "veil"
+          ]
+        },
+        {
+          "text": "Male stripper",
+          "points": 14,
+          "accept": [
+            "stripper",
+            "strippers",
+            "dancers",
+            "chippendales"
+          ]
+        },
+        {
+          "text": "Friends",
+          "points": 12,
+          "accept": [
+            "bridesmaids",
+            "girlfriends",
+            "the girls",
+            "besties"
+          ]
+        },
+        {
+          "text": "Music",
+          "points": 9,
+          "accept": [
+            "dancing",
+            "playlist",
+            "dj"
+          ]
+        },
+        {
+          "text": "Games",
+          "points": 7,
+          "accept": [
+            "party games",
+            "scavenger hunt",
+            "trivia"
+          ]
+        },
+        {
+          "text": "Limo",
+          "points": 5,
+          "accept": [
+            "party bus",
+            "ride",
+            "uber",
+            "driver"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a popular bachelorette party destination",
+      "answers": [
+        {
+          "text": "Las Vegas",
+          "points": 38,
+          "accept": [
+            "vegas",
+            "sin city"
+          ]
+        },
+        {
+          "text": "Nashville",
+          "points": 22,
+          "accept": [
+            "nash",
+            "music city",
+            "nashvegas"
+          ]
+        },
+        {
+          "text": "Miami",
+          "points": 12,
+          "accept": [
+            "south beach",
+            "florida"
+          ]
+        },
+        {
+          "text": "New Orleans",
+          "points": 9,
+          "accept": [
+            "nola",
+            "bourbon street"
+          ]
+        },
+        {
+          "text": "Cancun",
+          "points": 7,
+          "accept": [
+            "mexico",
+            "tulum",
+            "cabo"
+          ]
+        },
+        {
+          "text": "Napa Valley",
+          "points": 6,
+          "accept": [
+            "napa",
+            "wine country",
+            "sonoma"
+          ]
+        },
+        {
+          "text": "Austin",
+          "points": 4,
+          "accept": [
+            "austin texas",
+            "atx"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a groom might be nervous about on the wedding day",
+      "answers": [
+        {
+          "text": "Saying his vows",
+          "points": 30,
+          "accept": [
+            "vows",
+            "speech",
+            "forgetting vows",
+            "public speaking"
+          ]
+        },
+        {
+          "text": "Crying",
+          "points": 18,
+          "accept": [
+            "tears",
+            "getting emotional",
+            "crying at the altar"
+          ]
+        },
+        {
+          "text": "Bride not showing up",
+          "points": 16,
+          "accept": [
+            "getting stood up",
+            "runaway bride",
+            "left at the altar",
+            "bride leaving"
+          ]
+        },
+        {
+          "text": "First dance",
+          "points": 12,
+          "accept": [
+            "dancing",
+            "the dance",
+            "dance"
+          ]
+        },
+        {
+          "text": "Losing the ring",
+          "points": 9,
+          "accept": [
+            "ring",
+            "the rings",
+            "dropping the ring"
+          ]
+        },
+        {
+          "text": "Wedding night",
+          "points": 7,
+          "accept": [
+            "honeymoon",
+            "the night",
+            "tonight"
+          ]
+        },
+        {
+          "text": "Her dad",
+          "points": 5,
+          "accept": [
+            "father of the bride",
+            "father in law",
+            "in-laws"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you'd find in a bride's emergency kit",
+      "answers": [
+        {
+          "text": "Safety pins",
+          "points": 28,
+          "accept": [
+            "pins",
+            "safety pin",
+            "bobby pins"
+          ]
+        },
+        {
+          "text": "Tissues",
+          "points": 18,
+          "accept": [
+            "kleenex",
+            "tissue",
+            "hankie"
+          ]
+        },
+        {
+          "text": "Makeup",
+          "points": 15,
+          "accept": [
+            "lipstick",
+            "powder",
+            "concealer",
+            "touch up"
+          ]
+        },
+        {
+          "text": "Sewing kit",
+          "points": 12,
+          "accept": [
+            "needle and thread",
+            "thread",
+            "needle"
+          ]
+        },
+        {
+          "text": "Pain reliever",
+          "points": 9,
+          "accept": [
+            "advil",
+            "tylenol",
+            "aspirin",
+            "ibuprofen"
+          ]
+        },
+        {
+          "text": "Breath mints",
+          "points": 8,
+          "accept": [
+            "mints",
+            "gum",
+            "tic tacs"
+          ]
+        },
+        {
+          "text": "Band-Aids",
+          "points": 6,
+          "accept": [
+            "bandaids",
+            "bandages",
+            "blister pads"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason a bridesmaid might be grumpy",
+      "answers": [
+        {
+          "text": "Ugly dress",
+          "points": 32,
+          "accept": [
+            "dress",
+            "the dress",
+            "hideous dress",
+            "dress color"
+          ]
+        },
+        {
+          "text": "Cost",
+          "points": 22,
+          "accept": [
+            "money",
+            "expensive",
+            "spending",
+            "too expensive"
+          ]
+        },
+        {
+          "text": "Bridezilla",
+          "points": 15,
+          "accept": [
+            "the bride",
+            "demanding bride",
+            "bossy bride"
+          ]
+        },
+        {
+          "text": "Uncomfortable shoes",
+          "points": 10,
+          "accept": [
+            "shoes",
+            "heels",
+            "feet hurt"
+          ]
+        },
+        {
+          "text": "No date",
+          "points": 8,
+          "accept": [
+            "single",
+            "no plus one",
+            "alone"
+          ]
+        },
+        {
+          "text": "Hangover",
+          "points": 7,
+          "accept": [
+            "hungover",
+            "too much drinking"
+          ]
+        },
+        {
+          "text": "Early wake-up",
+          "points": 4,
+          "accept": [
+            "too early",
+            "tired",
+            "no sleep"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a couple might fight about while planning a wedding",
+      "answers": [
+        {
+          "text": "Guest list",
+          "points": 34,
+          "accept": [
+            "guests",
+            "who to invite",
+            "inviting people"
+          ]
+        },
+        {
+          "text": "Budget",
+          "points": 26,
+          "accept": [
+            "money",
+            "cost",
+            "spending"
+          ]
+        },
+        {
+          "text": "In-laws",
+          "points": 14,
+          "accept": [
+            "family",
+            "mother in law",
+            "parents",
+            "his mom"
+          ]
+        },
+        {
+          "text": "Venue",
+          "points": 10,
+          "accept": [
+            "location",
+            "where",
+            "place"
+          ]
+        },
+        {
+          "text": "Food",
+          "points": 7,
+          "accept": [
+            "menu",
+            "catering",
+            "cake"
+          ]
+        },
+        {
+          "text": "Music",
+          "points": 5,
+          "accept": [
+            "dj",
+            "band",
+            "songs"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a bride wears on her wedding day besides her dress",
+      "answers": [
+        {
+          "text": "Veil",
+          "points": 30,
+          "accept": [
+            "her veil",
+            "headpiece"
+          ]
+        },
+        {
+          "text": "Jewelry",
+          "points": 20,
+          "accept": [
+            "earrings",
+            "necklace",
+            "pearls",
+            "diamonds"
+          ]
+        },
+        {
+          "text": "Garter",
+          "points": 15,
+          "accept": [
+            "garter belt",
+            "a garter"
+          ]
+        },
+        {
+          "text": "Shoes",
+          "points": 13,
+          "accept": [
+            "heels",
+            "high heels",
+            "pumps"
+          ]
+        },
+        {
+          "text": "Ring",
+          "points": 9,
+          "accept": [
+            "wedding ring",
+            "engagement ring",
+            "rings"
+          ]
+        },
+        {
+          "text": "Tiara",
+          "points": 7,
+          "accept": [
+            "crown",
+            "headband",
+            "hair piece"
+          ]
+        },
+        {
+          "text": "Smile",
+          "points": 4,
+          "accept": [
+            "happy face",
+            "a smile"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something guests throw at newlyweds as they leave",
+      "answers": [
+        {
+          "text": "Rice",
+          "points": 40,
+          "accept": [
+            "uncooked rice",
+            "grains of rice"
+          ]
+        },
+        {
+          "text": "Birdseed",
+          "points": 18,
+          "accept": [
+            "bird seed",
+            "seeds"
+          ]
+        },
+        {
+          "text": "Confetti",
+          "points": 14,
+          "accept": [
+            "paper confetti",
+            "streamers"
+          ]
+        },
+        {
+          "text": "Flower petals",
+          "points": 12,
+          "accept": [
+            "petals",
+            "rose petals",
+            "flowers"
+          ]
+        },
+        {
+          "text": "Bubbles",
+          "points": 8,
+          "accept": [
+            "blowing bubbles",
+            "soap bubbles"
+          ]
+        },
+        {
+          "text": "Glitter",
+          "points": 5,
+          "accept": [
+            "sparkles",
+            "biodegradable glitter"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a word that describes a typical maid of honor",
+      "answers": [
+        {
+          "text": "Bossy",
+          "points": 25,
+          "accept": [
+            "controlling",
+            "in charge",
+            "boss"
+          ]
+        },
+        {
+          "text": "Organized",
+          "points": 22,
+          "accept": [
+            "prepared",
+            "on top of it",
+            "planner"
+          ]
+        },
+        {
+          "text": "Loyal",
+          "points": 15,
+          "accept": [
+            "faithful",
+            "dependable",
+            "reliable"
+          ]
+        },
+        {
+          "text": "Fun",
+          "points": 13,
+          "accept": [
+            "funny",
+            "party girl",
+            "wild"
+          ]
+        },
+        {
+          "text": "Emotional",
+          "points": 9,
+          "accept": [
+            "crier",
+            "teary",
+            "sappy"
+          ]
+        },
+        {
+          "text": "Best friend",
+          "points": 8,
+          "accept": [
+            "bff",
+            "bestie",
+            "sister"
+          ]
+        },
+        {
+          "text": "Stressed",
+          "points": 5,
+          "accept": [
+            "frazzled",
+            "overwhelmed",
+            "anxious"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you'd see on a wedding registry",
+      "answers": [
+        {
+          "text": "Dishes",
+          "points": 28,
+          "accept": [
+            "plates",
+            "dinnerware",
+            "china",
+            "dish set"
+          ]
+        },
+        {
+          "text": "Towels",
+          "points": 18,
+          "accept": [
+            "bath towels",
+            "linens"
+          ]
+        },
+        {
+          "text": "Stand mixer",
+          "points": 15,
+          "accept": [
+            "mixer",
+            "kitchenaid",
+            "kitchen mixer"
+          ]
+        },
+        {
+          "text": "Bedding",
+          "points": 12,
+          "accept": [
+            "sheets",
+            "comforter",
+            "bed sheets"
+          ]
+        },
+        {
+          "text": "Pots and pans",
+          "points": 10,
+          "accept": [
+            "cookware",
+            "pans",
+            "pots"
+          ]
+        },
+        {
+          "text": "Cash fund",
+          "points": 8,
+          "accept": [
+            "money",
+            "honeymoon fund",
+            "cash"
+          ]
+        },
+        {
+          "text": "Wine glasses",
+          "points": 6,
+          "accept": [
+            "glassware",
+            "glasses",
+            "champagne flutes"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a bachelorette might do on her last night as a single woman",
+      "answers": [
+        {
+          "text": "Drink",
+          "points": 32,
+          "accept": [
+            "get drunk",
+            "party",
+            "shots",
+            "drinking"
+          ]
+        },
+        {
+          "text": "Dance",
+          "points": 20,
+          "accept": [
+            "go dancing",
+            "clubbing",
+            "hit the club"
+          ]
+        },
+        {
+          "text": "Flirt",
+          "points": 14,
+          "accept": [
+            "flirt with guys",
+            "get numbers",
+            "talk to men"
+          ]
+        },
+        {
+          "text": "Kiss a stranger",
+          "points": 10,
+          "accept": [
+            "kiss someone",
+            "make out",
+            "kiss"
+          ]
+        },
+        {
+          "text": "Karaoke",
+          "points": 9,
+          "accept": [
+            "sing",
+            "singing"
+          ]
+        },
+        {
+          "text": "Cry",
+          "points": 6,
+          "accept": [
+            "get emotional",
+            "crying"
+          ]
+        },
+        {
+          "text": "Call her fiance",
+          "points": 5,
+          "accept": [
+            "call the groom",
+            "text the groom",
+            "call him",
+            "call her fiancé"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a classic bridal shower game",
+      "answers": [
+        {
+          "text": "Toilet paper dress",
+          "points": 30,
+          "accept": [
+            "tp dress",
+            "toilet paper wedding dress",
+            "tp gown"
+          ]
+        },
+        {
+          "text": "Bridal bingo",
+          "points": 22,
+          "accept": [
+            "bingo",
+            "gift bingo"
+          ]
+        },
+        {
+          "text": "Bride trivia",
+          "points": 16,
+          "accept": [
+            "how well do you know the bride",
+            "who knows the bride best",
+            "he said she said",
+            "trivia"
+          ]
+        },
+        {
+          "text": "Ribbon bouquet",
+          "points": 10,
+          "accept": [
+            "bow bouquet",
+            "bow hat",
+            "ribbon hat"
+          ]
+        },
+        {
+          "text": "Purse scavenger hunt",
+          "points": 8,
+          "accept": [
+            "what's in your purse",
+            "purse hunt",
+            "scavenger hunt"
+          ]
+        },
+        {
+          "text": "Don't say wedding",
+          "points": 7,
+          "accept": [
+            "clothespin game",
+            "don't say bride",
+            "clothespin"
+          ]
+        },
+        {
+          "text": "Advice cards",
+          "points": 4,
+          "accept": [
+            "advice for the bride",
+            "marriage advice"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a bride does to get ready on her wedding morning",
+      "answers": [
+        {
+          "text": "Hair",
+          "points": 30,
+          "accept": [
+            "get hair done",
+            "hairstyle",
+            "updo"
+          ]
+        },
+        {
+          "text": "Makeup",
+          "points": 26,
+          "accept": [
+            "do makeup",
+            "get makeup done"
+          ]
+        },
+        {
+          "text": "Eat breakfast",
+          "points": 12,
+          "accept": [
+            "breakfast",
+            "eat",
+            "mimosas"
+          ]
+        },
+        {
+          "text": "Shower",
+          "points": 10,
+          "accept": [
+            "bathe",
+            "take a shower",
+            "bath"
+          ]
+        },
+        {
+          "text": "Get dressed",
+          "points": 8,
+          "accept": [
+            "put on dress",
+            "dress",
+            "put on the gown"
+          ]
+        },
+        {
+          "text": "Nails",
+          "points": 6,
+          "accept": [
+            "manicure",
+            "get nails done",
+            "mani pedi"
+          ]
+        },
+        {
+          "text": "Calm her nerves",
+          "points": 4,
+          "accept": [
+            "relax",
+            "meditate",
+            "breathe",
+            "pray"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a groom might do at his bachelor party that he won't tell the bride",
+      "answers": [
+        {
+          "text": "Drink too much",
+          "points": 30,
+          "accept": [
+            "got drunk",
+            "drank",
+            "drinking",
+            "shots"
+          ]
+        },
+        {
+          "text": "Strip club",
+          "points": 24,
+          "accept": [
+            "strippers",
+            "went to a strip club"
+          ]
+        },
+        {
+          "text": "Gamble",
+          "points": 15,
+          "accept": [
+            "gambling",
+            "casino",
+            "poker",
+            "bet"
+          ]
+        },
+        {
+          "text": "Flirt",
+          "points": 11,
+          "accept": [
+            "flirted",
+            "talked to girls",
+            "flirting"
+          ]
+        },
+        {
+          "text": "Throw up",
+          "points": 8,
+          "accept": [
+            "puked",
+            "vomit",
+            "got sick"
+          ]
+        },
+        {
+          "text": "Spend too much",
+          "points": 6,
+          "accept": [
+            "money",
+            "spent money",
+            "blew money"
+          ]
+        },
+        {
+          "text": "Get a tattoo",
+          "points": 4,
+          "accept": [
+            "tattoo",
+            "ink"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something married couples argue about",
+      "answers": [
+        {
+          "text": "Money",
+          "points": 34,
+          "accept": [
+            "finances",
+            "bills",
+            "spending"
+          ]
+        },
+        {
+          "text": "Chores",
+          "points": 22,
+          "accept": [
+            "housework",
+            "cleaning",
+            "dishes",
+            "laundry"
+          ]
+        },
+        {
+          "text": "In-laws",
+          "points": 12,
+          "accept": [
+            "family",
+            "mother in law",
+            "his mom"
+          ]
+        },
+        {
+          "text": "Kids",
+          "points": 10,
+          "accept": [
+            "children",
+            "parenting"
+          ]
+        },
+        {
+          "text": "Thermostat",
+          "points": 8,
+          "accept": [
+            "temperature",
+            "ac",
+            "heat"
+          ]
+        },
+        {
+          "text": "Where to eat",
+          "points": 7,
+          "accept": [
+            "dinner",
+            "food",
+            "restaurant"
+          ]
+        },
+        {
+          "text": "Toilet seat",
+          "points": 4,
+          "accept": [
+            "seat up",
+            "leaving the seat up"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something on a honeymoon packing list",
+      "answers": [
+        {
+          "text": "Swimsuit",
+          "points": 32,
+          "accept": [
+            "bikini",
+            "bathing suit",
+            "swimwear"
+          ]
+        },
+        {
+          "text": "Sunscreen",
+          "points": 20,
+          "accept": [
+            "sunblock",
+            "spf"
+          ]
+        },
+        {
+          "text": "Lingerie",
+          "points": 16,
+          "accept": [
+            "nightie",
+            "negligee",
+            "something sexy"
+          ]
+        },
+        {
+          "text": "Passport",
+          "points": 12,
+          "accept": [
+            "id",
+            "travel documents"
+          ]
+        },
+        {
+          "text": "Sunglasses",
+          "points": 8,
+          "accept": [
+            "shades",
+            "sunnies"
+          ]
+        },
+        {
+          "text": "Camera",
+          "points": 6,
+          "accept": [
+            "phone",
+            "gopro"
+          ]
+        },
+        {
+          "text": "Sandals",
+          "points": 4,
+          "accept": [
+            "flip flops",
+            "flip-flops"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a movie about weddings",
+      "answers": [
+        {
+          "text": "Bridesmaids",
+          "points": 26,
+          "accept": [
+            "bridesmaid",
+            "bridesmaids movie"
+          ]
+        },
+        {
+          "text": "Wedding Crashers",
+          "points": 18,
+          "accept": [
+            "the wedding crashers",
+            "crashers"
+          ]
+        },
+        {
+          "text": "Big Fat Greek Wedding",
+          "points": 15,
+          "accept": [
+            "my big fat greek wedding",
+            "greek wedding"
+          ]
+        },
+        {
+          "text": "Father of the Bride",
+          "points": 12,
+          "accept": [
+            "father of the bride movie",
+            "steve martin wedding movie"
+          ]
+        },
+        {
+          "text": "Runaway Bride",
+          "points": 10,
+          "accept": [
+            "the runaway bride",
+            "runaway"
+          ]
+        },
+        {
+          "text": "27 Dresses",
+          "points": 8,
+          "accept": [
+            "twenty seven dresses",
+            "27 dresses movie"
+          ]
+        },
+        {
+          "text": "The Wedding Planner",
+          "points": 6,
+          "accept": [
+            "wedding planner",
+            "the wedding planner movie"
+          ]
+        },
+        {
+          "text": "Bride Wars",
+          "points": 4,
+          "accept": [
+            "bride war",
+            "bride wars movie"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you'd find at a bridal shower",
+      "answers": [
+        {
+          "text": "Gifts",
+          "points": 34,
+          "accept": [
+            "presents",
+            "gift table"
+          ]
+        },
+        {
+          "text": "Cake",
+          "points": 18,
+          "accept": [
+            "cupcakes",
+            "dessert",
+            "sweets"
+          ]
+        },
+        {
+          "text": "Mimosas",
+          "points": 14,
+          "accept": [
+            "champagne",
+            "wine",
+            "punch",
+            "drinks"
+          ]
+        },
+        {
+          "text": "Games",
+          "points": 11,
+          "accept": [
+            "shower games",
+            "bingo"
+          ]
+        },
+        {
+          "text": "Decorations",
+          "points": 9,
+          "accept": [
+            "balloons",
+            "streamers",
+            "flowers"
+          ]
+        },
+        {
+          "text": "Finger sandwiches",
+          "points": 7,
+          "accept": [
+            "tea sandwiches",
+            "sandwiches",
+            "finger foods",
+            "snacks"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that might go wrong at a wedding reception",
+      "answers": [
+        {
+          "text": "Someone gets drunk",
+          "points": 28,
+          "accept": [
+            "drunk guest",
+            "drunk uncle",
+            "too much drinking",
+            "drunk"
+          ]
+        },
+        {
+          "text": "DJ problems",
+          "points": 14,
+          "accept": [
+            "music",
+            "bad dj",
+            "sound system",
+            "band"
+          ]
+        },
+        {
+          "text": "Cake falls",
+          "points": 13,
+          "accept": [
+            "cake",
+            "dropped cake",
+            "cake disaster"
+          ]
+        },
+        {
+          "text": "Fight breaks out",
+          "points": 12,
+          "accept": [
+            "fight",
+            "brawl",
+            "argument"
+          ]
+        },
+        {
+          "text": "Run out of food",
+          "points": 10,
+          "accept": [
+            "food",
+            "not enough food",
+            "bad food"
+          ]
+        },
+        {
+          "text": "Rain",
+          "points": 9,
+          "accept": [
+            "bad weather",
+            "storm",
+            "weather"
+          ]
+        },
+        {
+          "text": "Wardrobe malfunction",
+          "points": 8,
+          "accept": [
+            "ripped dress",
+            "spill on dress",
+            "dress tear"
+          ]
+        },
+        {
+          "text": "Ex shows up",
+          "points": 5,
+          "accept": [
+            "the ex",
+            "ex girlfriend",
+            "ex boyfriend"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something the bride and groom do at the reception",
+      "answers": [
+        {
+          "text": "First dance",
+          "points": 32,
+          "accept": [
+            "dance",
+            "dancing",
+            "slow dance"
+          ]
+        },
+        {
+          "text": "Cut the cake",
+          "points": 24,
+          "accept": [
+            "cake cutting",
+            "cake",
+            "feed each other cake"
+          ]
+        },
+        {
+          "text": "Toss the bouquet",
+          "points": 14,
+          "accept": [
+            "bouquet toss",
+            "throw the bouquet",
+            "bouquet"
+          ]
+        },
+        {
+          "text": "Garter toss",
+          "points": 10,
+          "accept": [
+            "garter",
+            "throw the garter"
+          ]
+        },
+        {
+          "text": "Greet guests",
+          "points": 9,
+          "accept": [
+            "mingle",
+            "thank guests",
+            "visit tables"
+          ]
+        },
+        {
+          "text": "Kiss",
+          "points": 7,
+          "accept": [
+            "kissing",
+            "kiss when glasses clink"
+          ]
+        },
+        {
+          "text": "Toast",
+          "points": 4,
+          "accept": [
+            "speeches",
+            "champagne toast",
+            "cheers"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason a woman might say yes to a marriage proposal",
+      "answers": [
+        {
+          "text": "Love",
+          "points": 42,
+          "accept": [
+            "she loves him",
+            "in love",
+            "true love"
+          ]
+        },
+        {
+          "text": "Big ring",
+          "points": 16,
+          "accept": [
+            "the ring",
+            "diamond",
+            "nice ring"
+          ]
+        },
+        {
+          "text": "Money",
+          "points": 12,
+          "accept": [
+            "he's rich",
+            "rich",
+            "wealthy",
+            "financial security"
+          ]
+        },
+        {
+          "text": "Pregnant",
+          "points": 10,
+          "accept": [
+            "baby",
+            "expecting",
+            "pregnancy"
+          ]
+        },
+        {
+          "text": "Time to settle down",
+          "points": 8,
+          "accept": [
+            "age",
+            "getting older",
+            "biological clock",
+            "settle down"
+          ]
+        },
+        {
+          "text": "Pressure",
+          "points": 6,
+          "accept": [
+            "family pressure",
+            "on the spot",
+            "public proposal"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a place where couples often get engaged",
+      "answers": [
+        {
+          "text": "Beach",
+          "points": 28,
+          "accept": [
+            "on the beach",
+            "ocean"
+          ]
+        },
+        {
+          "text": "Restaurant",
+          "points": 22,
+          "accept": [
+            "dinner",
+            "fancy dinner",
+            "over dinner"
+          ]
+        },
+        {
+          "text": "Vacation",
+          "points": 14,
+          "accept": [
+            "trip",
+            "paris",
+            "on vacation"
+          ]
+        },
+        {
+          "text": "Home",
+          "points": 11,
+          "accept": [
+            "at home",
+            "living room",
+            "house"
+          ]
+        },
+        {
+          "text": "Mountains",
+          "points": 8,
+          "accept": [
+            "hike",
+            "hiking",
+            "mountaintop",
+            "scenic overlook"
+          ]
+        },
+        {
+          "text": "Disney World",
+          "points": 7,
+          "accept": [
+            "disney",
+            "disneyland",
+            "theme park"
+          ]
+        },
+        {
+          "text": "Sporting event",
+          "points": 5,
+          "accept": [
+            "ballgame",
+            "jumbotron",
+            "stadium",
+            "game"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a bride might splurge on",
+      "answers": [
+        {
+          "text": "Dress",
+          "points": 40,
+          "accept": [
+            "gown",
+            "wedding dress",
+            "wedding gown"
+          ]
+        },
+        {
+          "text": "Venue",
+          "points": 16,
+          "accept": [
+            "location",
+            "reception hall"
+          ]
+        },
+        {
+          "text": "Photographer",
+          "points": 14,
+          "accept": [
+            "photos",
+            "pictures",
+            "photography"
+          ]
+        },
+        {
+          "text": "Flowers",
+          "points": 10,
+          "accept": [
+            "florist",
+            "bouquet",
+            "centerpieces"
+          ]
+        },
+        {
+          "text": "Shoes",
+          "points": 7,
+          "accept": [
+            "designer shoes",
+            "heels",
+            "louboutins"
+          ]
+        },
+        {
+          "text": "Cake",
+          "points": 5,
+          "accept": [
+            "wedding cake",
+            "dessert"
+          ]
+        },
+        {
+          "text": "Honeymoon",
+          "points": 4,
+          "accept": [
+            "trip",
+            "vacation"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a bride might do during the maid of honor's speech",
+      "answers": [
+        {
+          "text": "Cry",
+          "points": 40,
+          "accept": [
+            "tear up",
+            "tears",
+            "sob",
+            "get emotional"
+          ]
+        },
+        {
+          "text": "Laugh",
+          "points": 24,
+          "accept": [
+            "giggle",
+            "laughing"
+          ]
+        },
+        {
+          "text": "Blush",
+          "points": 12,
+          "accept": [
+            "turn red",
+            "get embarrassed",
+            "embarrassed"
+          ]
+        },
+        {
+          "text": "Hug her",
+          "points": 10,
+          "accept": [
+            "hug",
+            "hug the maid of honor",
+            "embrace"
+          ]
+        },
+        {
+          "text": "Drink",
+          "points": 7,
+          "accept": [
+            "sip champagne",
+            "drink wine",
+            "take a drink"
+          ]
+        },
+        {
+          "text": "Cover her face",
+          "points": 4,
+          "accept": [
+            "hide",
+            "facepalm",
+            "cringe"
+          ]
+        }
+      ]
+    }
+  ],
+  "lightning": []
+}

@@ -1,0 +1,4105 @@
+{
+  "id": "lightning",
+  "name": "Lightning Round Sets",
+  "audience": "All ages",
+  "region": "US",
+  "source": "estimate",
+  "rounds": [],
+  "lightning": [
+    {
+      "name": "Set 1",
+      "questions": [
+        {
+          "q": "Name a fruit that is yellow",
+          "answers": [
+            {
+              "text": "Banana",
+              "points": 55,
+              "accept": [
+                "bananas",
+                "plantain"
+              ]
+            },
+            {
+              "text": "Lemon",
+              "points": 24,
+              "accept": [
+                "lemons",
+                "meyer lemon"
+              ]
+            },
+            {
+              "text": "Pineapple",
+              "points": 9,
+              "accept": [
+                "pineapples",
+                "ananas"
+              ]
+            },
+            {
+              "text": "Mango",
+              "points": 4,
+              "accept": [
+                "mangos",
+                "mangoes"
+              ]
+            },
+            {
+              "text": "Grapefruit",
+              "points": 3,
+              "accept": [
+                "grapefruits",
+                "pink grapefruit"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you put on a hot dog",
+          "answers": [
+            {
+              "text": "Mustard",
+              "points": 42,
+              "accept": [
+                "yellow mustard",
+                "dijon"
+              ]
+            },
+            {
+              "text": "Ketchup",
+              "points": 30,
+              "accept": [
+                "catsup",
+                "tomato ketchup"
+              ]
+            },
+            {
+              "text": "Relish",
+              "points": 9,
+              "accept": [
+                "pickle relish",
+                "sweet relish"
+              ]
+            },
+            {
+              "text": "Onions",
+              "points": 6,
+              "accept": [
+                "onion",
+                "chopped onions"
+              ]
+            },
+            {
+              "text": "Chili",
+              "points": 5,
+              "accept": [
+                "chili sauce",
+                "chili dog"
+              ]
+            },
+            {
+              "text": "Sauerkraut",
+              "points": 4,
+              "accept": [
+                "kraut",
+                "cabbage"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name an animal you'd see on a farm",
+          "answers": [
+            {
+              "text": "Cow",
+              "points": 38,
+              "accept": [
+                "cows",
+                "cattle",
+                "bull"
+              ]
+            },
+            {
+              "text": "Pig",
+              "points": 20,
+              "accept": [
+                "pigs",
+                "hog",
+                "hogs"
+              ]
+            },
+            {
+              "text": "Horse",
+              "points": 14,
+              "accept": [
+                "horses",
+                "pony"
+              ]
+            },
+            {
+              "text": "Chicken",
+              "points": 12,
+              "accept": [
+                "chickens",
+                "hen",
+                "rooster"
+              ]
+            },
+            {
+              "text": "Sheep",
+              "points": 7,
+              "accept": [
+                "lamb",
+                "lambs"
+              ]
+            },
+            {
+              "text": "Goat",
+              "points": 5,
+              "accept": [
+                "goats",
+                "billy goat"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something people do first thing in the morning",
+          "answers": [
+            {
+              "text": "Brush teeth",
+              "points": 28,
+              "accept": [
+                "brush my teeth",
+                "teeth",
+                "brush their teeth"
+              ]
+            },
+            {
+              "text": "Drink coffee",
+              "points": 26,
+              "accept": [
+                "coffee",
+                "make coffee"
+              ]
+            },
+            {
+              "text": "Use the bathroom",
+              "points": 16,
+              "accept": [
+                "pee",
+                "go to the bathroom",
+                "toilet"
+              ]
+            },
+            {
+              "text": "Shower",
+              "points": 12,
+              "accept": [
+                "take a shower",
+                "bathe"
+              ]
+            },
+            {
+              "text": "Check phone",
+              "points": 10,
+              "accept": [
+                "phone",
+                "look at phone"
+              ]
+            },
+            {
+              "text": "Stretch",
+              "points": 4,
+              "accept": [
+                "yawn",
+                "stretching"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a color of the rainbow",
+          "answers": [
+            {
+              "text": "Red",
+              "points": 34,
+              "accept": [
+                "red color",
+                "scarlet"
+              ]
+            },
+            {
+              "text": "Blue",
+              "points": 20,
+              "accept": [
+                "blue color",
+                "light blue"
+              ]
+            },
+            {
+              "text": "Green",
+              "points": 14,
+              "accept": [
+                "green color",
+                "emerald"
+              ]
+            },
+            {
+              "text": "Yellow",
+              "points": 12,
+              "accept": [
+                "yellow color",
+                "gold"
+              ]
+            },
+            {
+              "text": "Purple",
+              "points": 10,
+              "accept": [
+                "violet",
+                "indigo"
+              ]
+            },
+            {
+              "text": "Orange",
+              "points": 6,
+              "accept": [
+                "orange color",
+                "tangerine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 2",
+      "questions": [
+        {
+          "q": "Name a pizza topping",
+          "answers": [
+            {
+              "text": "Pepperoni",
+              "points": 45,
+              "accept": [
+                "pepperonis",
+                "roni"
+              ]
+            },
+            {
+              "text": "Sausage",
+              "points": 18,
+              "accept": [
+                "italian sausage",
+                "sausages"
+              ]
+            },
+            {
+              "text": "Mushrooms",
+              "points": 12,
+              "accept": [
+                "mushroom",
+                "shrooms"
+              ]
+            },
+            {
+              "text": "Extra cheese",
+              "points": 8,
+              "accept": [
+                "cheese",
+                "mozzarella"
+              ]
+            },
+            {
+              "text": "Onions",
+              "points": 6,
+              "accept": [
+                "onion",
+                "red onion"
+              ]
+            },
+            {
+              "text": "Pineapple",
+              "points": 5,
+              "accept": [
+                "ham and pineapple",
+                "hawaiian"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you find in a bathroom",
+          "answers": [
+            {
+              "text": "Toilet",
+              "points": 40,
+              "accept": [
+                "commode",
+                "potty"
+              ]
+            },
+            {
+              "text": "Sink",
+              "points": 18,
+              "accept": [
+                "faucet",
+                "basin"
+              ]
+            },
+            {
+              "text": "Toothbrush",
+              "points": 12,
+              "accept": [
+                "toothpaste",
+                "toothbrushes"
+              ]
+            },
+            {
+              "text": "Towels",
+              "points": 10,
+              "accept": [
+                "towel",
+                "hand towel"
+              ]
+            },
+            {
+              "text": "Shower",
+              "points": 9,
+              "accept": [
+                "bathtub",
+                "tub"
+              ]
+            },
+            {
+              "text": "Mirror",
+              "points": 6,
+              "accept": [
+                "medicine cabinet",
+                "mirrors"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a sport played with a ball",
+          "answers": [
+            {
+              "text": "Basketball",
+              "points": 30,
+              "accept": [
+                "hoops",
+                "bball"
+              ]
+            },
+            {
+              "text": "Football",
+              "points": 28,
+              "accept": [
+                "american football",
+                "nfl"
+              ]
+            },
+            {
+              "text": "Baseball",
+              "points": 16,
+              "accept": [
+                "softball",
+                "mlb"
+              ]
+            },
+            {
+              "text": "Soccer",
+              "points": 12,
+              "accept": [
+                "futbol",
+                "fútbol"
+              ]
+            },
+            {
+              "text": "Tennis",
+              "points": 6,
+              "accept": [
+                "tennis ball",
+                "lawn tennis"
+              ]
+            },
+            {
+              "text": "Golf",
+              "points": 4,
+              "accept": [
+                "golfing",
+                "golf ball"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a reason you might wake up in the middle of the night",
+          "answers": [
+            {
+              "text": "Bathroom",
+              "points": 36,
+              "accept": [
+                "pee",
+                "have to pee",
+                "use the bathroom"
+              ]
+            },
+            {
+              "text": "Noise",
+              "points": 18,
+              "accept": [
+                "loud noise",
+                "sound"
+              ]
+            },
+            {
+              "text": "Bad dream",
+              "points": 15,
+              "accept": [
+                "nightmare",
+                "dream"
+              ]
+            },
+            {
+              "text": "Thirsty",
+              "points": 10,
+              "accept": [
+                "water",
+                "drink of water"
+              ]
+            },
+            {
+              "text": "Baby crying",
+              "points": 9,
+              "accept": [
+                "kids",
+                "baby",
+                "child"
+              ]
+            },
+            {
+              "text": "Too hot",
+              "points": 6,
+              "accept": [
+                "hot",
+                "temperature"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a breakfast food",
+          "answers": [
+            {
+              "text": "Eggs",
+              "points": 34,
+              "accept": [
+                "scrambled eggs",
+                "fried eggs",
+                "egg"
+              ]
+            },
+            {
+              "text": "Pancakes",
+              "points": 20,
+              "accept": [
+                "flapjacks",
+                "hotcakes"
+              ]
+            },
+            {
+              "text": "Bacon",
+              "points": 15,
+              "accept": [
+                "strips of bacon",
+                "turkey bacon"
+              ]
+            },
+            {
+              "text": "Cereal",
+              "points": 12,
+              "accept": [
+                "cheerios",
+                "corn flakes"
+              ]
+            },
+            {
+              "text": "Toast",
+              "points": 8,
+              "accept": [
+                "bread",
+                "english muffin"
+              ]
+            },
+            {
+              "text": "Waffles",
+              "points": 6,
+              "accept": [
+                "eggo",
+                "belgian waffle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 3",
+      "questions": [
+        {
+          "q": "Name something you take to the beach",
+          "answers": [
+            {
+              "text": "Towel",
+              "points": 36,
+              "accept": [
+                "beach towel",
+                "towels"
+              ]
+            },
+            {
+              "text": "Sunscreen",
+              "points": 26,
+              "accept": [
+                "sunblock",
+                "spf",
+                "suntan lotion"
+              ]
+            },
+            {
+              "text": "Umbrella",
+              "points": 12,
+              "accept": [
+                "beach umbrella",
+                "umbrellas"
+              ]
+            },
+            {
+              "text": "Cooler",
+              "points": 9,
+              "accept": [
+                "drinks",
+                "snacks"
+              ]
+            },
+            {
+              "text": "Chair",
+              "points": 7,
+              "accept": [
+                "beach chair",
+                "chairs"
+              ]
+            },
+            {
+              "text": "Sunglasses",
+              "points": 5,
+              "accept": [
+                "shades",
+                "sunnies"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a vegetable kids hate",
+          "answers": [
+            {
+              "text": "Broccoli",
+              "points": 38,
+              "accept": [
+                "broccoli florets",
+                "trees"
+              ]
+            },
+            {
+              "text": "Brussels sprouts",
+              "points": 24,
+              "accept": [
+                "brussel sprouts",
+                "sprouts"
+              ]
+            },
+            {
+              "text": "Spinach",
+              "points": 12,
+              "accept": [
+                "leafy greens",
+                "greens"
+              ]
+            },
+            {
+              "text": "Peas",
+              "points": 9,
+              "accept": [
+                "green peas",
+                "pea"
+              ]
+            },
+            {
+              "text": "Cauliflower",
+              "points": 6,
+              "accept": [
+                "cauli",
+                "cauliflower florets"
+              ]
+            },
+            {
+              "text": "Asparagus",
+              "points": 5,
+              "accept": [
+                "asparagus spears",
+                "spears"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a superhero",
+          "answers": [
+            {
+              "text": "Superman",
+              "points": 34,
+              "accept": [
+                "clark kent",
+                "man of steel"
+              ]
+            },
+            {
+              "text": "Spider-Man",
+              "points": 24,
+              "accept": [
+                "spiderman",
+                "spidey",
+                "peter parker"
+              ]
+            },
+            {
+              "text": "Batman",
+              "points": 22,
+              "accept": [
+                "bruce wayne",
+                "dark knight"
+              ]
+            },
+            {
+              "text": "Wonder Woman",
+              "points": 7,
+              "accept": [
+                "diana",
+                "diana prince"
+              ]
+            },
+            {
+              "text": "Iron Man",
+              "points": 6,
+              "accept": [
+                "tony stark",
+                "ironman"
+              ]
+            },
+            {
+              "text": "Hulk",
+              "points": 3,
+              "accept": [
+                "the hulk",
+                "incredible hulk"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something that has keys",
+          "answers": [
+            {
+              "text": "Piano",
+              "points": 34,
+              "accept": [
+                "keyboard instrument",
+                "organ"
+              ]
+            },
+            {
+              "text": "Keyboard",
+              "points": 22,
+              "accept": [
+                "computer",
+                "computer keyboard",
+                "laptop"
+              ]
+            },
+            {
+              "text": "Car",
+              "points": 14,
+              "accept": [
+                "vehicle",
+                "truck"
+              ]
+            },
+            {
+              "text": "House",
+              "points": 10,
+              "accept": [
+                "door",
+                "home",
+                "front door"
+              ]
+            },
+            {
+              "text": "Lock",
+              "points": 8,
+              "accept": [
+                "padlock",
+                "locks"
+              ]
+            },
+            {
+              "text": "Typewriter",
+              "points": 4,
+              "accept": [
+                "typewriters",
+                "old typewriter"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you do at a birthday party",
+          "answers": [
+            {
+              "text": "Eat cake",
+              "points": 34,
+              "accept": [
+                "cake",
+                "cupcakes"
+              ]
+            },
+            {
+              "text": "Sing",
+              "points": 24,
+              "accept": [
+                "sing happy birthday",
+                "happy birthday"
+              ]
+            },
+            {
+              "text": "Open presents",
+              "points": 16,
+              "accept": [
+                "gifts",
+                "presents",
+                "open gifts"
+              ]
+            },
+            {
+              "text": "Blow out candles",
+              "points": 12,
+              "accept": [
+                "candles",
+                "make a wish"
+              ]
+            },
+            {
+              "text": "Play games",
+              "points": 6,
+              "accept": [
+                "games",
+                "pinata",
+                "piñata"
+              ]
+            },
+            {
+              "text": "Dance",
+              "points": 4,
+              "accept": [
+                "dancing",
+                "dance party"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 4",
+      "questions": [
+        {
+          "q": "Name a pet that lives in a cage",
+          "answers": [
+            {
+              "text": "Bird",
+              "points": 30,
+              "accept": [
+                "parrot",
+                "parakeet",
+                "birds"
+              ]
+            },
+            {
+              "text": "Hamster",
+              "points": 28,
+              "accept": [
+                "hamsters",
+                "dwarf hamster"
+              ]
+            },
+            {
+              "text": "Guinea pig",
+              "points": 14,
+              "accept": [
+                "guinea pigs",
+                "cavy"
+              ]
+            },
+            {
+              "text": "Rabbit",
+              "points": 10,
+              "accept": [
+                "bunny",
+                "rabbits"
+              ]
+            },
+            {
+              "text": "Mouse",
+              "points": 6,
+              "accept": [
+                "mice",
+                "rat"
+              ]
+            },
+            {
+              "text": "Gerbil",
+              "points": 5,
+              "accept": [
+                "gerbils",
+                "jird"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you put in coffee",
+          "answers": [
+            {
+              "text": "Cream",
+              "points": 40,
+              "accept": [
+                "creamer",
+                "half and half"
+              ]
+            },
+            {
+              "text": "Sugar",
+              "points": 34,
+              "accept": [
+                "sweetener",
+                "splenda",
+                "honey"
+              ]
+            },
+            {
+              "text": "Milk",
+              "points": 12,
+              "accept": [
+                "oat milk",
+                "almond milk",
+                "whole milk"
+              ]
+            },
+            {
+              "text": "Whipped cream",
+              "points": 4,
+              "accept": [
+                "whip",
+                "whipped topping"
+              ]
+            },
+            {
+              "text": "Ice",
+              "points": 3,
+              "accept": [
+                "iced coffee",
+                "ice cubes"
+              ]
+            },
+            {
+              "text": "Cinnamon",
+              "points": 2,
+              "accept": [
+                "spice",
+                "pumpkin spice"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a planet",
+          "answers": [
+            {
+              "text": "Mars",
+              "points": 30,
+              "accept": [
+                "red planet",
+                "planet mars"
+              ]
+            },
+            {
+              "text": "Earth",
+              "points": 22,
+              "accept": [
+                "our planet",
+                "the earth"
+              ]
+            },
+            {
+              "text": "Jupiter",
+              "points": 16,
+              "accept": [
+                "gas giant",
+                "planet jupiter"
+              ]
+            },
+            {
+              "text": "Saturn",
+              "points": 12,
+              "accept": [
+                "ringed planet",
+                "planet saturn"
+              ]
+            },
+            {
+              "text": "Venus",
+              "points": 8,
+              "accept": [
+                "morning star",
+                "planet venus"
+              ]
+            },
+            {
+              "text": "Pluto",
+              "points": 5,
+              "accept": [
+                "dwarf planet",
+                "planet pluto"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something that's cold",
+          "answers": [
+            {
+              "text": "Ice",
+              "points": 38,
+              "accept": [
+                "ice cubes",
+                "ice cube"
+              ]
+            },
+            {
+              "text": "Snow",
+              "points": 22,
+              "accept": [
+                "snowman",
+                "snowflake"
+              ]
+            },
+            {
+              "text": "Ice cream",
+              "points": 14,
+              "accept": [
+                "popsicle",
+                "frozen yogurt"
+              ]
+            },
+            {
+              "text": "Freezer",
+              "points": 10,
+              "accept": [
+                "fridge",
+                "refrigerator"
+              ]
+            },
+            {
+              "text": "Winter",
+              "points": 8,
+              "accept": [
+                "winter weather",
+                "january"
+              ]
+            },
+            {
+              "text": "Antarctica",
+              "points": 4,
+              "accept": [
+                "north pole",
+                "south pole",
+                "arctic"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a fast food chain",
+          "answers": [
+            {
+              "text": "McDonald's",
+              "points": 44,
+              "accept": [
+                "mcdonalds",
+                "mickey d's",
+                "golden arches"
+              ]
+            },
+            {
+              "text": "Burger King",
+              "points": 16,
+              "accept": [
+                "bk",
+                "burger king restaurant"
+              ]
+            },
+            {
+              "text": "Wendy's",
+              "points": 12,
+              "accept": [
+                "wendys",
+                "wendy"
+              ]
+            },
+            {
+              "text": "Taco Bell",
+              "points": 10,
+              "accept": [
+                "tacobell",
+                "the bell"
+              ]
+            },
+            {
+              "text": "Chick-fil-A",
+              "points": 8,
+              "accept": [
+                "chick fil a",
+                "chickfila"
+              ]
+            },
+            {
+              "text": "Subway",
+              "points": 5,
+              "accept": [
+                "subways",
+                "subway sandwiches"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 5",
+      "questions": [
+        {
+          "q": "Name something that flies",
+          "answers": [
+            {
+              "text": "Bird",
+              "points": 36,
+              "accept": [
+                "birds",
+                "eagle"
+              ]
+            },
+            {
+              "text": "Airplane",
+              "points": 30,
+              "accept": [
+                "plane",
+                "jet",
+                "aircraft"
+              ]
+            },
+            {
+              "text": "Helicopter",
+              "points": 9,
+              "accept": [
+                "chopper",
+                "helicopters"
+              ]
+            },
+            {
+              "text": "Kite",
+              "points": 8,
+              "accept": [
+                "kites",
+                "paper kite"
+              ]
+            },
+            {
+              "text": "Bee",
+              "points": 6,
+              "accept": [
+                "bugs",
+                "insects",
+                "fly"
+              ]
+            },
+            {
+              "text": "Butterfly",
+              "points": 4,
+              "accept": [
+                "moth",
+                "butterflies"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a type of shoe",
+          "answers": [
+            {
+              "text": "Sneakers",
+              "points": 34,
+              "accept": [
+                "tennis shoes",
+                "running shoes"
+              ]
+            },
+            {
+              "text": "Sandals",
+              "points": 18,
+              "accept": [
+                "flip flops",
+                "flip-flops"
+              ]
+            },
+            {
+              "text": "Boots",
+              "points": 16,
+              "accept": [
+                "cowboy boots",
+                "work boots"
+              ]
+            },
+            {
+              "text": "High heels",
+              "points": 14,
+              "accept": [
+                "heels",
+                "pumps",
+                "stilettos"
+              ]
+            },
+            {
+              "text": "Loafers",
+              "points": 8,
+              "accept": [
+                "dress shoes",
+                "oxfords"
+              ]
+            },
+            {
+              "text": "Slippers",
+              "points": 5,
+              "accept": [
+                "house shoes",
+                "house slippers"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a cartoon character",
+          "answers": [
+            {
+              "text": "Mickey Mouse",
+              "points": 34,
+              "accept": [
+                "mickey",
+                "mickey mouse club"
+              ]
+            },
+            {
+              "text": "Bugs Bunny",
+              "points": 20,
+              "accept": [
+                "bugs",
+                "bugs bunny rabbit"
+              ]
+            },
+            {
+              "text": "SpongeBob",
+              "points": 16,
+              "accept": [
+                "spongebob squarepants",
+                "sponge bob"
+              ]
+            },
+            {
+              "text": "Homer Simpson",
+              "points": 12,
+              "accept": [
+                "homer",
+                "bart simpson",
+                "the simpsons"
+              ]
+            },
+            {
+              "text": "Scooby-Doo",
+              "points": 8,
+              "accept": [
+                "scooby",
+                "scooby doo"
+              ]
+            },
+            {
+              "text": "Snoopy",
+              "points": 5,
+              "accept": [
+                "charlie brown",
+                "peanuts"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you need to bake cookies",
+          "answers": [
+            {
+              "text": "Flour",
+              "points": 34,
+              "accept": [
+                "all purpose flour",
+                "all-purpose flour"
+              ]
+            },
+            {
+              "text": "Sugar",
+              "points": 22,
+              "accept": [
+                "brown sugar",
+                "white sugar"
+              ]
+            },
+            {
+              "text": "Butter",
+              "points": 14,
+              "accept": [
+                "margarine",
+                "shortening"
+              ]
+            },
+            {
+              "text": "Eggs",
+              "points": 12,
+              "accept": [
+                "egg",
+                "an egg"
+              ]
+            },
+            {
+              "text": "Chocolate chips",
+              "points": 10,
+              "accept": [
+                "chocolate",
+                "chips"
+              ]
+            },
+            {
+              "text": "Oven",
+              "points": 4,
+              "accept": [
+                "stove",
+                "baking sheet"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a body part with only three letters",
+          "answers": [
+            {
+              "text": "Arm",
+              "points": 30,
+              "accept": [
+                "arms",
+                "upper arm"
+              ]
+            },
+            {
+              "text": "Leg",
+              "points": 26,
+              "accept": [
+                "legs",
+                "lower leg"
+              ]
+            },
+            {
+              "text": "Eye",
+              "points": 20,
+              "accept": [
+                "eyes",
+                "eyeball"
+              ]
+            },
+            {
+              "text": "Ear",
+              "points": 12,
+              "accept": [
+                "ears",
+                "earlobe"
+              ]
+            },
+            {
+              "text": "Lip",
+              "points": 6,
+              "accept": [
+                "lips",
+                "upper lip"
+              ]
+            },
+            {
+              "text": "Toe",
+              "points": 4,
+              "accept": [
+                "toes",
+                "big toe"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 6",
+      "questions": [
+        {
+          "q": "Name a vacation spot in Florida",
+          "answers": [
+            {
+              "text": "Disney World",
+              "points": 38,
+              "accept": [
+                "disney",
+                "orlando",
+                "magic kingdom"
+              ]
+            },
+            {
+              "text": "Miami",
+              "points": 22,
+              "accept": [
+                "south beach",
+                "miami beach"
+              ]
+            },
+            {
+              "text": "Key West",
+              "points": 12,
+              "accept": [
+                "the keys",
+                "florida keys"
+              ]
+            },
+            {
+              "text": "Tampa",
+              "points": 9,
+              "accept": [
+                "clearwater",
+                "st pete"
+              ]
+            },
+            {
+              "text": "Daytona Beach",
+              "points": 7,
+              "accept": [
+                "daytona",
+                "daytona speedway"
+              ]
+            },
+            {
+              "text": "Panama City Beach",
+              "points": 5,
+              "accept": [
+                "panama city",
+                "pcb"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you do on a rainy day",
+          "answers": [
+            {
+              "text": "Watch movies",
+              "points": 32,
+              "accept": [
+                "movies",
+                "netflix",
+                "watch tv"
+              ]
+            },
+            {
+              "text": "Sleep",
+              "points": 18,
+              "accept": [
+                "nap",
+                "stay in bed"
+              ]
+            },
+            {
+              "text": "Read",
+              "points": 16,
+              "accept": [
+                "read a book",
+                "book"
+              ]
+            },
+            {
+              "text": "Play board games",
+              "points": 10,
+              "accept": [
+                "games",
+                "board games",
+                "puzzles"
+              ]
+            },
+            {
+              "text": "Bake",
+              "points": 8,
+              "accept": [
+                "cook",
+                "baking"
+              ]
+            },
+            {
+              "text": "Clean",
+              "points": 6,
+              "accept": [
+                "clean house",
+                "cleaning"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name an animal with stripes",
+          "answers": [
+            {
+              "text": "Zebra",
+              "points": 48,
+              "accept": [
+                "zebras",
+                "zebra stripes"
+              ]
+            },
+            {
+              "text": "Tiger",
+              "points": 32,
+              "accept": [
+                "tigers",
+                "bengal tiger"
+              ]
+            },
+            {
+              "text": "Skunk",
+              "points": 7,
+              "accept": [
+                "skunks",
+                "pepe le pew"
+              ]
+            },
+            {
+              "text": "Bee",
+              "points": 4,
+              "accept": [
+                "bumblebee",
+                "bees"
+              ]
+            },
+            {
+              "text": "Raccoon",
+              "points": 3,
+              "accept": [
+                "raccoons",
+                "raccoon tail"
+              ]
+            },
+            {
+              "text": "Chipmunk",
+              "points": 2,
+              "accept": [
+                "chipmunks",
+                "chippy"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you plug in",
+          "answers": [
+            {
+              "text": "Phone charger",
+              "points": 30,
+              "accept": [
+                "charger",
+                "phone"
+              ]
+            },
+            {
+              "text": "Lamp",
+              "points": 18,
+              "accept": [
+                "light",
+                "lights"
+              ]
+            },
+            {
+              "text": "TV",
+              "points": 16,
+              "accept": [
+                "television",
+                "tv set"
+              ]
+            },
+            {
+              "text": "Toaster",
+              "points": 12,
+              "accept": [
+                "toaster oven",
+                "toasters"
+              ]
+            },
+            {
+              "text": "Computer",
+              "points": 10,
+              "accept": [
+                "laptop",
+                "desktop"
+              ]
+            },
+            {
+              "text": "Hair dryer",
+              "points": 6,
+              "accept": [
+                "blow dryer",
+                "hairdryer"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a famous princess",
+          "answers": [
+            {
+              "text": "Cinderella",
+              "points": 26,
+              "accept": [
+                "princess cinderella",
+                "disney cinderella"
+              ]
+            },
+            {
+              "text": "Princess Diana",
+              "points": 22,
+              "accept": [
+                "diana",
+                "lady di"
+              ]
+            },
+            {
+              "text": "Snow White",
+              "points": 16,
+              "accept": [
+                "princess snow white",
+                "snow"
+              ]
+            },
+            {
+              "text": "Ariel",
+              "points": 12,
+              "accept": [
+                "little mermaid",
+                "the little mermaid"
+              ]
+            },
+            {
+              "text": "Belle",
+              "points": 8,
+              "accept": [
+                "beauty and the beast",
+                "princess belle"
+              ]
+            },
+            {
+              "text": "Jasmine",
+              "points": 6,
+              "accept": [
+                "princess jasmine",
+                "aladdin"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 7",
+      "questions": [
+        {
+          "q": "Name something that's sticky",
+          "answers": [
+            {
+              "text": "Glue",
+              "points": 34,
+              "accept": [
+                "super glue",
+                "elmer's"
+              ]
+            },
+            {
+              "text": "Honey",
+              "points": 26,
+              "accept": [
+                "honeycomb",
+                "bee honey"
+              ]
+            },
+            {
+              "text": "Tape",
+              "points": 14,
+              "accept": [
+                "duct tape",
+                "scotch tape"
+              ]
+            },
+            {
+              "text": "Syrup",
+              "points": 10,
+              "accept": [
+                "maple syrup",
+                "pancake syrup"
+              ]
+            },
+            {
+              "text": "Gum",
+              "points": 8,
+              "accept": [
+                "chewing gum",
+                "bubble gum"
+              ]
+            },
+            {
+              "text": "Candy",
+              "points": 4,
+              "accept": [
+                "caramel",
+                "taffy"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you'd find in a kitchen drawer",
+          "answers": [
+            {
+              "text": "Silverware",
+              "points": 36,
+              "accept": [
+                "forks",
+                "spoons",
+                "knives",
+                "utensils"
+              ]
+            },
+            {
+              "text": "Spatula",
+              "points": 14,
+              "accept": [
+                "turner",
+                "flipper"
+              ]
+            },
+            {
+              "text": "Can opener",
+              "points": 12,
+              "accept": [
+                "opener",
+                "bottle opener"
+              ]
+            },
+            {
+              "text": "Batteries",
+              "points": 10,
+              "accept": [
+                "battery",
+                "aa batteries"
+              ]
+            },
+            {
+              "text": "Takeout menus",
+              "points": 8,
+              "accept": [
+                "menus",
+                "menu"
+              ]
+            },
+            {
+              "text": "Rubber bands",
+              "points": 6,
+              "accept": [
+                "twist ties",
+                "rubber band"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a board game",
+          "answers": [
+            {
+              "text": "Monopoly",
+              "points": 42,
+              "accept": [
+                "monopoly junior",
+                "monopoly board"
+              ]
+            },
+            {
+              "text": "Scrabble",
+              "points": 14,
+              "accept": [
+                "words with friends",
+                "scrabble board"
+              ]
+            },
+            {
+              "text": "Clue",
+              "points": 12,
+              "accept": [
+                "cluedo",
+                "clue game"
+              ]
+            },
+            {
+              "text": "Chess",
+              "points": 10,
+              "accept": [
+                "chess board",
+                "chess set"
+              ]
+            },
+            {
+              "text": "Candy Land",
+              "points": 8,
+              "accept": [
+                "candyland",
+                "candy land game"
+              ]
+            },
+            {
+              "text": "Sorry",
+              "points": 6,
+              "accept": [
+                "sorry game",
+                "sorry!"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you wear on your head",
+          "answers": [
+            {
+              "text": "Hat",
+              "points": 38,
+              "accept": [
+                "cowboy hat",
+                "fedora"
+              ]
+            },
+            {
+              "text": "Baseball cap",
+              "points": 22,
+              "accept": [
+                "cap",
+                "ball cap"
+              ]
+            },
+            {
+              "text": "Helmet",
+              "points": 12,
+              "accept": [
+                "bike helmet",
+                "football helmet"
+              ]
+            },
+            {
+              "text": "Headband",
+              "points": 8,
+              "accept": [
+                "hair band",
+                "sweatband"
+              ]
+            },
+            {
+              "text": "Beanie",
+              "points": 7,
+              "accept": [
+                "toboggan",
+                "winter hat",
+                "stocking cap"
+              ]
+            },
+            {
+              "text": "Crown",
+              "points": 5,
+              "accept": [
+                "tiara",
+                "crowns"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a word that rhymes with 'cat'",
+          "answers": [
+            {
+              "text": "Hat",
+              "points": 30,
+              "accept": [
+                "hats",
+                "top hat"
+              ]
+            },
+            {
+              "text": "Bat",
+              "points": 24,
+              "accept": [
+                "bats",
+                "baseball bat"
+              ]
+            },
+            {
+              "text": "Rat",
+              "points": 18,
+              "accept": [
+                "rats",
+                "lab rat"
+              ]
+            },
+            {
+              "text": "Mat",
+              "points": 10,
+              "accept": [
+                "doormat",
+                "mats"
+              ]
+            },
+            {
+              "text": "Pat",
+              "points": 6,
+              "accept": [
+                "pats",
+                "pat down"
+              ]
+            },
+            {
+              "text": "Flat",
+              "points": 4,
+              "accept": [
+                "flats",
+                "flat tire"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 8",
+      "questions": [
+        {
+          "q": "Name a dessert served at Thanksgiving",
+          "answers": [
+            {
+              "text": "Pumpkin pie",
+              "points": 52,
+              "accept": [
+                "pumpkin",
+                "pie"
+              ]
+            },
+            {
+              "text": "Apple pie",
+              "points": 16,
+              "accept": [
+                "apple",
+                "dutch apple pie"
+              ]
+            },
+            {
+              "text": "Pecan pie",
+              "points": 14,
+              "accept": [
+                "pecan",
+                "pecans"
+              ]
+            },
+            {
+              "text": "Sweet potato pie",
+              "points": 6,
+              "accept": [
+                "sweet potato",
+                "sweet potato pies"
+              ]
+            },
+            {
+              "text": "Cheesecake",
+              "points": 4,
+              "accept": [
+                "pumpkin cheesecake",
+                "cheese cake"
+              ]
+            },
+            {
+              "text": "Cobbler",
+              "points": 3,
+              "accept": [
+                "peach cobbler",
+                "crisp"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something people lose all the time",
+          "answers": [
+            {
+              "text": "Keys",
+              "points": 46,
+              "accept": [
+                "car keys",
+                "house keys"
+              ]
+            },
+            {
+              "text": "Phone",
+              "points": 20,
+              "accept": [
+                "cell phone",
+                "iphone"
+              ]
+            },
+            {
+              "text": "Wallet",
+              "points": 10,
+              "accept": [
+                "purse",
+                "money"
+              ]
+            },
+            {
+              "text": "Remote",
+              "points": 9,
+              "accept": [
+                "tv remote",
+                "remote control"
+              ]
+            },
+            {
+              "text": "Glasses",
+              "points": 6,
+              "accept": [
+                "sunglasses",
+                "reading glasses"
+              ]
+            },
+            {
+              "text": "Socks",
+              "points": 4,
+              "accept": [
+                "sock",
+                "missing sock"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a musical instrument",
+          "answers": [
+            {
+              "text": "Guitar",
+              "points": 34,
+              "accept": [
+                "electric guitar",
+                "acoustic guitar"
+              ]
+            },
+            {
+              "text": "Piano",
+              "points": 30,
+              "accept": [
+                "keyboard",
+                "grand piano"
+              ]
+            },
+            {
+              "text": "Drums",
+              "points": 14,
+              "accept": [
+                "drum",
+                "drum set"
+              ]
+            },
+            {
+              "text": "Violin",
+              "points": 10,
+              "accept": [
+                "fiddle",
+                "viola"
+              ]
+            },
+            {
+              "text": "Trumpet",
+              "points": 5,
+              "accept": [
+                "horn",
+                "trombone"
+              ]
+            },
+            {
+              "text": "Flute",
+              "points": 4,
+              "accept": [
+                "recorder",
+                "piccolo"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something associated with Halloween",
+          "answers": [
+            {
+              "text": "Candy",
+              "points": 34,
+              "accept": [
+                "treats",
+                "chocolate"
+              ]
+            },
+            {
+              "text": "Costumes",
+              "points": 22,
+              "accept": [
+                "costume",
+                "dress up"
+              ]
+            },
+            {
+              "text": "Pumpkins",
+              "points": 14,
+              "accept": [
+                "jack o lantern",
+                "pumpkin",
+                "jack-o'-lantern"
+              ]
+            },
+            {
+              "text": "Trick-or-treating",
+              "points": 10,
+              "accept": [
+                "trick or treat",
+                "trick or treating"
+              ]
+            },
+            {
+              "text": "Ghosts",
+              "points": 8,
+              "accept": [
+                "ghost",
+                "witches",
+                "monsters"
+              ]
+            },
+            {
+              "text": "Haunted house",
+              "points": 6,
+              "accept": [
+                "haunted houses",
+                "spooky house"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a drink served at a kid's birthday party",
+          "answers": [
+            {
+              "text": "Juice",
+              "points": 34,
+              "accept": [
+                "juice box",
+                "apple juice"
+              ]
+            },
+            {
+              "text": "Soda",
+              "points": 22,
+              "accept": [
+                "pop",
+                "coke",
+                "sprite"
+              ]
+            },
+            {
+              "text": "Punch",
+              "points": 18,
+              "accept": [
+                "fruit punch",
+                "hawaiian punch"
+              ]
+            },
+            {
+              "text": "Lemonade",
+              "points": 10,
+              "accept": [
+                "pink lemonade",
+                "lemonades"
+              ]
+            },
+            {
+              "text": "Water",
+              "points": 6,
+              "accept": [
+                "bottled water",
+                "water bottle"
+              ]
+            },
+            {
+              "text": "Milk",
+              "points": 4,
+              "accept": [
+                "chocolate milk",
+                "strawberry milk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 9",
+      "questions": [
+        {
+          "q": "Name something you see at a carnival",
+          "answers": [
+            {
+              "text": "Ferris wheel",
+              "points": 30,
+              "accept": [
+                "big wheel",
+                "wheel"
+              ]
+            },
+            {
+              "text": "Cotton candy",
+              "points": 20,
+              "accept": [
+                "candy floss",
+                "cotton candy machine"
+              ]
+            },
+            {
+              "text": "Rides",
+              "points": 16,
+              "accept": [
+                "roller coaster",
+                "ride"
+              ]
+            },
+            {
+              "text": "Games",
+              "points": 12,
+              "accept": [
+                "carnival games",
+                "ring toss"
+              ]
+            },
+            {
+              "text": "Clowns",
+              "points": 8,
+              "accept": [
+                "clown",
+                "face painting"
+              ]
+            },
+            {
+              "text": "Funnel cake",
+              "points": 6,
+              "accept": [
+                "elephant ears",
+                "fried dough"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something that has a tail",
+          "answers": [
+            {
+              "text": "Dog",
+              "points": 38,
+              "accept": [
+                "dogs",
+                "puppy"
+              ]
+            },
+            {
+              "text": "Cat",
+              "points": 26,
+              "accept": [
+                "cats",
+                "kitten"
+              ]
+            },
+            {
+              "text": "Monkey",
+              "points": 10,
+              "accept": [
+                "monkeys",
+                "ape"
+              ]
+            },
+            {
+              "text": "Horse",
+              "points": 8,
+              "accept": [
+                "horses",
+                "pony"
+              ]
+            },
+            {
+              "text": "Kite",
+              "points": 6,
+              "accept": [
+                "kites",
+                "kite tail"
+              ]
+            },
+            {
+              "text": "Comet",
+              "points": 4,
+              "accept": [
+                "comets",
+                "shooting star"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you do before bed",
+          "answers": [
+            {
+              "text": "Brush teeth",
+              "points": 38,
+              "accept": [
+                "brush my teeth",
+                "teeth"
+              ]
+            },
+            {
+              "text": "Shower",
+              "points": 14,
+              "accept": [
+                "take a shower",
+                "bath"
+              ]
+            },
+            {
+              "text": "Read",
+              "points": 13,
+              "accept": [
+                "read a book",
+                "book"
+              ]
+            },
+            {
+              "text": "Watch TV",
+              "points": 12,
+              "accept": [
+                "tv",
+                "netflix"
+              ]
+            },
+            {
+              "text": "Set an alarm",
+              "points": 8,
+              "accept": [
+                "alarm",
+                "set my alarm"
+              ]
+            },
+            {
+              "text": "Scroll phone",
+              "points": 6,
+              "accept": [
+                "phone",
+                "check phone"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a U.S. state known for its beaches",
+          "answers": [
+            {
+              "text": "Florida",
+              "points": 42,
+              "accept": [
+                "fla",
+                "miami"
+              ]
+            },
+            {
+              "text": "California",
+              "points": 26,
+              "accept": [
+                "cali",
+                "socal"
+              ]
+            },
+            {
+              "text": "Hawaii",
+              "points": 18,
+              "accept": [
+                "maui",
+                "oahu",
+                "honolulu"
+              ]
+            },
+            {
+              "text": "Texas",
+              "points": 4,
+              "accept": [
+                "galveston",
+                "padre island"
+              ]
+            },
+            {
+              "text": "South Carolina",
+              "points": 3,
+              "accept": [
+                "myrtle beach",
+                "sc"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a kind of cheese",
+          "answers": [
+            {
+              "text": "Cheddar",
+              "points": 40,
+              "accept": [
+                "sharp cheddar",
+                "mild cheddar"
+              ]
+            },
+            {
+              "text": "Swiss",
+              "points": 16,
+              "accept": [
+                "swiss cheese",
+                "baby swiss"
+              ]
+            },
+            {
+              "text": "Mozzarella",
+              "points": 14,
+              "accept": [
+                "mozz",
+                "string cheese"
+              ]
+            },
+            {
+              "text": "American",
+              "points": 12,
+              "accept": [
+                "american cheese",
+                "kraft singles"
+              ]
+            },
+            {
+              "text": "Parmesan",
+              "points": 7,
+              "accept": [
+                "parm",
+                "parmigiano"
+              ]
+            },
+            {
+              "text": "Pepper jack",
+              "points": 5,
+              "accept": [
+                "pepperjack",
+                "monterey jack"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 10",
+      "questions": [
+        {
+          "q": "Name something you see in the sky",
+          "answers": [
+            {
+              "text": "Sun",
+              "points": 30,
+              "accept": [
+                "the sun",
+                "sunshine"
+              ]
+            },
+            {
+              "text": "Clouds",
+              "points": 26,
+              "accept": [
+                "cloud",
+                "rain clouds"
+              ]
+            },
+            {
+              "text": "Moon",
+              "points": 16,
+              "accept": [
+                "the moon",
+                "full moon"
+              ]
+            },
+            {
+              "text": "Stars",
+              "points": 12,
+              "accept": [
+                "star",
+                "constellations"
+              ]
+            },
+            {
+              "text": "Birds",
+              "points": 8,
+              "accept": [
+                "bird",
+                "flock of birds"
+              ]
+            },
+            {
+              "text": "Airplane",
+              "points": 4,
+              "accept": [
+                "plane",
+                "planes",
+                "jet"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something kids take to school",
+          "answers": [
+            {
+              "text": "Backpack",
+              "points": 36,
+              "accept": [
+                "bookbag",
+                "book bag"
+              ]
+            },
+            {
+              "text": "Lunch",
+              "points": 24,
+              "accept": [
+                "lunchbox",
+                "lunch box"
+              ]
+            },
+            {
+              "text": "Pencils",
+              "points": 12,
+              "accept": [
+                "pencil",
+                "pens"
+              ]
+            },
+            {
+              "text": "Books",
+              "points": 9,
+              "accept": [
+                "textbooks",
+                "notebook"
+              ]
+            },
+            {
+              "text": "Homework",
+              "points": 8,
+              "accept": [
+                "assignments",
+                "worksheets"
+              ]
+            },
+            {
+              "text": "Water bottle",
+              "points": 6,
+              "accept": [
+                "water",
+                "drink"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a popular soda",
+          "answers": [
+            {
+              "text": "Coke",
+              "points": 46,
+              "accept": [
+                "coca cola",
+                "coca-cola",
+                "cola"
+              ]
+            },
+            {
+              "text": "Pepsi",
+              "points": 18,
+              "accept": [
+                "pepsi cola",
+                "diet pepsi"
+              ]
+            },
+            {
+              "text": "Sprite",
+              "points": 12,
+              "accept": [
+                "7up",
+                "lemon lime"
+              ]
+            },
+            {
+              "text": "Dr Pepper",
+              "points": 10,
+              "accept": [
+                "dr. pepper",
+                "doctor pepper"
+              ]
+            },
+            {
+              "text": "Mountain Dew",
+              "points": 6,
+              "accept": [
+                "mtn dew",
+                "dew"
+              ]
+            },
+            {
+              "text": "Root beer",
+              "points": 4,
+              "accept": [
+                "a&w",
+                "barq's"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something associated with winter",
+          "answers": [
+            {
+              "text": "Snow",
+              "points": 44,
+              "accept": [
+                "snowfall",
+                "snowflakes"
+              ]
+            },
+            {
+              "text": "Cold",
+              "points": 14,
+              "accept": [
+                "freezing",
+                "cold weather"
+              ]
+            },
+            {
+              "text": "Hot cocoa",
+              "points": 11,
+              "accept": [
+                "hot chocolate",
+                "cocoa"
+              ]
+            },
+            {
+              "text": "Holidays",
+              "points": 10,
+              "accept": [
+                "christmas",
+                "new year's"
+              ]
+            },
+            {
+              "text": "Coats",
+              "points": 9,
+              "accept": [
+                "jacket",
+                "coat",
+                "scarf",
+                "gloves"
+              ]
+            },
+            {
+              "text": "Sledding",
+              "points": 6,
+              "accept": [
+                "sled",
+                "skiing"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a famous dog from movies or TV",
+          "answers": [
+            {
+              "text": "Lassie",
+              "points": 30,
+              "accept": [
+                "lassie come home",
+                "collie"
+              ]
+            },
+            {
+              "text": "Scooby-Doo",
+              "points": 26,
+              "accept": [
+                "scooby",
+                "scooby doo"
+              ]
+            },
+            {
+              "text": "Beethoven",
+              "points": 12,
+              "accept": [
+                "saint bernard",
+                "st. bernard"
+              ]
+            },
+            {
+              "text": "Clifford",
+              "points": 10,
+              "accept": [
+                "big red dog",
+                "clifford the big red dog"
+              ]
+            },
+            {
+              "text": "Toto",
+              "points": 8,
+              "accept": [
+                "toto from oz",
+                "wizard of oz"
+              ]
+            },
+            {
+              "text": "Air Bud",
+              "points": 5,
+              "accept": [
+                "buddy",
+                "air bud dog"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 11",
+      "questions": [
+        {
+          "q": "Name something you put on a salad",
+          "answers": [
+            {
+              "text": "Dressing",
+              "points": 40,
+              "accept": [
+                "ranch",
+                "salad dressing",
+                "vinaigrette"
+              ]
+            },
+            {
+              "text": "Croutons",
+              "points": 18,
+              "accept": [
+                "crouton",
+                "toasted bread"
+              ]
+            },
+            {
+              "text": "Cheese",
+              "points": 14,
+              "accept": [
+                "parmesan",
+                "shredded cheese"
+              ]
+            },
+            {
+              "text": "Tomatoes",
+              "points": 10,
+              "accept": [
+                "tomato",
+                "cherry tomatoes"
+              ]
+            },
+            {
+              "text": "Bacon bits",
+              "points": 6,
+              "accept": [
+                "bacon",
+                "bacon crumbles"
+              ]
+            },
+            {
+              "text": "Chicken",
+              "points": 5,
+              "accept": [
+                "grilled chicken",
+                "chicken breast"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something that makes noise at night",
+          "answers": [
+            {
+              "text": "Crickets",
+              "points": 28,
+              "accept": [
+                "bugs",
+                "insects",
+                "cicadas"
+              ]
+            },
+            {
+              "text": "Dogs barking",
+              "points": 20,
+              "accept": [
+                "dog",
+                "barking"
+              ]
+            },
+            {
+              "text": "Snoring",
+              "points": 18,
+              "accept": [
+                "snore",
+                "husband snoring"
+              ]
+            },
+            {
+              "text": "Owls",
+              "points": 10,
+              "accept": [
+                "owl",
+                "hooting"
+              ]
+            },
+            {
+              "text": "Cars",
+              "points": 8,
+              "accept": [
+                "traffic",
+                "sirens"
+              ]
+            },
+            {
+              "text": "Wind",
+              "points": 6,
+              "accept": [
+                "storm",
+                "thunder"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a job where you wear a uniform",
+          "answers": [
+            {
+              "text": "Police officer",
+              "points": 32,
+              "accept": [
+                "cop",
+                "police"
+              ]
+            },
+            {
+              "text": "Nurse",
+              "points": 18,
+              "accept": [
+                "doctor",
+                "scrubs"
+              ]
+            },
+            {
+              "text": "Firefighter",
+              "points": 16,
+              "accept": [
+                "fireman",
+                "fire fighter"
+              ]
+            },
+            {
+              "text": "Military",
+              "points": 12,
+              "accept": [
+                "soldier",
+                "army",
+                "marine"
+              ]
+            },
+            {
+              "text": "Mail carrier",
+              "points": 8,
+              "accept": [
+                "mailman",
+                "postal worker"
+              ]
+            },
+            {
+              "text": "Chef",
+              "points": 4,
+              "accept": [
+                "cook",
+                "fast food worker"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you do at the gym",
+          "answers": [
+            {
+              "text": "Lift weights",
+              "points": 38,
+              "accept": [
+                "weights",
+                "weightlifting",
+                "lift"
+              ]
+            },
+            {
+              "text": "Run",
+              "points": 22,
+              "accept": [
+                "treadmill",
+                "running"
+              ]
+            },
+            {
+              "text": "Sweat",
+              "points": 10,
+              "accept": [
+                "sweating",
+                "work up a sweat"
+              ]
+            },
+            {
+              "text": "Yoga",
+              "points": 8,
+              "accept": [
+                "stretch",
+                "stretching"
+              ]
+            },
+            {
+              "text": "Swim",
+              "points": 6,
+              "accept": [
+                "swimming",
+                "pool"
+              ]
+            },
+            {
+              "text": "Spin class",
+              "points": 4,
+              "accept": [
+                "bike",
+                "cycling"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a fairy tale character",
+          "answers": [
+            {
+              "text": "Little Red Riding Hood",
+              "points": 30,
+              "accept": [
+                "red riding hood",
+                "little red"
+              ]
+            },
+            {
+              "text": "Goldilocks",
+              "points": 20,
+              "accept": [
+                "goldilocks and the three bears",
+                "three bears"
+              ]
+            },
+            {
+              "text": "Big Bad Wolf",
+              "points": 14,
+              "accept": [
+                "the wolf",
+                "wolf"
+              ]
+            },
+            {
+              "text": "Rapunzel",
+              "points": 12,
+              "accept": [
+                "princess rapunzel",
+                "tangled"
+              ]
+            },
+            {
+              "text": "Jack",
+              "points": 10,
+              "accept": [
+                "jack and the beanstalk",
+                "jack beanstalk"
+              ]
+            },
+            {
+              "text": "Hansel and Gretel",
+              "points": 8,
+              "accept": [
+                "hansel",
+                "gretel"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 12",
+      "questions": [
+        {
+          "q": "Name a popular ice cream flavor",
+          "answers": [
+            {
+              "text": "Chocolate",
+              "points": 36,
+              "accept": [
+                "chocolate ice cream",
+                "double chocolate"
+              ]
+            },
+            {
+              "text": "Vanilla",
+              "points": 30,
+              "accept": [
+                "french vanilla",
+                "vanilla bean"
+              ]
+            },
+            {
+              "text": "Strawberry",
+              "points": 12,
+              "accept": [
+                "strawberries",
+                "strawberry ice cream"
+              ]
+            },
+            {
+              "text": "Mint chocolate chip",
+              "points": 8,
+              "accept": [
+                "mint chip",
+                "mint"
+              ]
+            },
+            {
+              "text": "Cookies and cream",
+              "points": 6,
+              "accept": [
+                "oreo",
+                "cookies n cream"
+              ]
+            },
+            {
+              "text": "Rocky road",
+              "points": 4,
+              "accept": [
+                "rocky road ice cream",
+                "rocky"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something in a first aid kit",
+          "answers": [
+            {
+              "text": "Band-Aids",
+              "points": 44,
+              "accept": [
+                "bandaids",
+                "bandages",
+                "bandage"
+              ]
+            },
+            {
+              "text": "Gauze",
+              "points": 14,
+              "accept": [
+                "gauze pads",
+                "gauze roll"
+              ]
+            },
+            {
+              "text": "Antiseptic",
+              "points": 12,
+              "accept": [
+                "neosporin",
+                "alcohol wipes",
+                "peroxide"
+              ]
+            },
+            {
+              "text": "Tape",
+              "points": 8,
+              "accept": [
+                "medical tape",
+                "first aid tape"
+              ]
+            },
+            {
+              "text": "Tweezers",
+              "points": 6,
+              "accept": [
+                "tweezer",
+                "pair of tweezers"
+              ]
+            },
+            {
+              "text": "Pain reliever",
+              "points": 4,
+              "accept": [
+                "advil",
+                "tylenol",
+                "aspirin"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a famous landmark in New York City",
+          "answers": [
+            {
+              "text": "Statue of Liberty",
+              "points": 34,
+              "accept": [
+                "lady liberty",
+                "liberty"
+              ]
+            },
+            {
+              "text": "Empire State Building",
+              "points": 30,
+              "accept": [
+                "empire state",
+                "empire state bldg"
+              ]
+            },
+            {
+              "text": "Times Square",
+              "points": 12,
+              "accept": [
+                "times sq",
+                "times sq."
+              ]
+            },
+            {
+              "text": "Central Park",
+              "points": 10,
+              "accept": [
+                "the park",
+                "park"
+              ]
+            },
+            {
+              "text": "Brooklyn Bridge",
+              "points": 6,
+              "accept": [
+                "the bridge",
+                "brooklyn"
+              ]
+            },
+            {
+              "text": "Rockefeller Center",
+              "points": 4,
+              "accept": [
+                "rockefeller",
+                "30 rock"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you'd find in a purse",
+          "answers": [
+            {
+              "text": "Wallet",
+              "points": 34,
+              "accept": [
+                "money",
+                "cash",
+                "credit cards"
+              ]
+            },
+            {
+              "text": "Lipstick",
+              "points": 18,
+              "accept": [
+                "makeup",
+                "lip gloss",
+                "chapstick"
+              ]
+            },
+            {
+              "text": "Keys",
+              "points": 16,
+              "accept": [
+                "car keys",
+                "house keys"
+              ]
+            },
+            {
+              "text": "Phone",
+              "points": 12,
+              "accept": [
+                "cell phone",
+                "iphone"
+              ]
+            },
+            {
+              "text": "Gum",
+              "points": 8,
+              "accept": [
+                "mints",
+                "breath mints"
+              ]
+            },
+            {
+              "text": "Tissues",
+              "points": 6,
+              "accept": [
+                "kleenex",
+                "tissue"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you buy at the movie theater",
+          "answers": [
+            {
+              "text": "Popcorn",
+              "points": 56,
+              "accept": [
+                "buttered popcorn",
+                "bucket of popcorn"
+              ]
+            },
+            {
+              "text": "Soda",
+              "points": 18,
+              "accept": [
+                "drink",
+                "pop",
+                "coke"
+              ]
+            },
+            {
+              "text": "Candy",
+              "points": 14,
+              "accept": [
+                "m&ms",
+                "skittles",
+                "raisinets"
+              ]
+            },
+            {
+              "text": "Nachos",
+              "points": 5,
+              "accept": [
+                "chips and cheese",
+                "nacho"
+              ]
+            },
+            {
+              "text": "Tickets",
+              "points": 4,
+              "accept": [
+                "ticket",
+                "movie ticket"
+              ]
+            },
+            {
+              "text": "Hot dog",
+              "points": 3,
+              "accept": [
+                "hotdog",
+                "hot dogs"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 13",
+      "questions": [
+        {
+          "q": "Name something that's round",
+          "answers": [
+            {
+              "text": "Ball",
+              "points": 40,
+              "accept": [
+                "basketball",
+                "baseball",
+                "soccer ball"
+              ]
+            },
+            {
+              "text": "Circle",
+              "points": 14,
+              "accept": [
+                "circles",
+                "a circle"
+              ]
+            },
+            {
+              "text": "Wheel",
+              "points": 12,
+              "accept": [
+                "tire",
+                "wheels"
+              ]
+            },
+            {
+              "text": "Clock",
+              "points": 8,
+              "accept": [
+                "watch",
+                "wall clock"
+              ]
+            },
+            {
+              "text": "Plate",
+              "points": 7,
+              "accept": [
+                "dish",
+                "plates"
+              ]
+            },
+            {
+              "text": "Sun",
+              "points": 6,
+              "accept": [
+                "moon",
+                "earth"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a reason you'd go to the hardware store",
+          "answers": [
+            {
+              "text": "Tools",
+              "points": 30,
+              "accept": [
+                "hammer",
+                "screwdriver",
+                "drill"
+              ]
+            },
+            {
+              "text": "Paint",
+              "points": 20,
+              "accept": [
+                "paint brushes",
+                "paintbrush"
+              ]
+            },
+            {
+              "text": "Nails",
+              "points": 16,
+              "accept": [
+                "screws",
+                "nuts and bolts"
+              ]
+            },
+            {
+              "text": "Light bulbs",
+              "points": 12,
+              "accept": [
+                "lightbulb",
+                "bulbs"
+              ]
+            },
+            {
+              "text": "Keys made",
+              "points": 8,
+              "accept": [
+                "copy keys",
+                "key copy"
+              ]
+            },
+            {
+              "text": "Garden supplies",
+              "points": 6,
+              "accept": [
+                "plants",
+                "mulch",
+                "soil"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a Thanksgiving side dish",
+          "answers": [
+            {
+              "text": "Mashed potatoes",
+              "points": 34,
+              "accept": [
+                "potatoes",
+                "mashed"
+              ]
+            },
+            {
+              "text": "Stuffing",
+              "points": 28,
+              "accept": [
+                "dressing",
+                "cornbread dressing"
+              ]
+            },
+            {
+              "text": "Green bean casserole",
+              "points": 14,
+              "accept": [
+                "green beans",
+                "green bean"
+              ]
+            },
+            {
+              "text": "Cranberry sauce",
+              "points": 10,
+              "accept": [
+                "cranberries",
+                "cranberry"
+              ]
+            },
+            {
+              "text": "Sweet potatoes",
+              "points": 8,
+              "accept": [
+                "yams",
+                "candied yams"
+              ]
+            },
+            {
+              "text": "Mac and cheese",
+              "points": 4,
+              "accept": [
+                "macaroni",
+                "macaroni and cheese"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you'd do at a sleepover",
+          "answers": [
+            {
+              "text": "Watch movies",
+              "points": 34,
+              "accept": [
+                "movies",
+                "movie"
+              ]
+            },
+            {
+              "text": "Stay up late",
+              "points": 18,
+              "accept": [
+                "stay up all night",
+                "no sleep"
+              ]
+            },
+            {
+              "text": "Eat snacks",
+              "points": 14,
+              "accept": [
+                "snacks",
+                "eat junk food",
+                "popcorn"
+              ]
+            },
+            {
+              "text": "Play games",
+              "points": 12,
+              "accept": [
+                "games",
+                "truth or dare"
+              ]
+            },
+            {
+              "text": "Pillow fight",
+              "points": 10,
+              "accept": [
+                "pillow fights",
+                "pillows"
+              ]
+            },
+            {
+              "text": "Tell secrets",
+              "points": 6,
+              "accept": [
+                "gossip",
+                "talk"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a sign of spring",
+          "answers": [
+            {
+              "text": "Flowers",
+              "points": 38,
+              "accept": [
+                "flowers blooming",
+                "tulips",
+                "daffodils"
+              ]
+            },
+            {
+              "text": "Birds",
+              "points": 18,
+              "accept": [
+                "robins",
+                "birds singing"
+              ]
+            },
+            {
+              "text": "Warm weather",
+              "points": 14,
+              "accept": [
+                "warmer",
+                "sunshine"
+              ]
+            },
+            {
+              "text": "Rain",
+              "points": 10,
+              "accept": [
+                "showers",
+                "april showers"
+              ]
+            },
+            {
+              "text": "Green grass",
+              "points": 8,
+              "accept": [
+                "grass",
+                "leaves",
+                "green trees"
+              ]
+            },
+            {
+              "text": "Allergies",
+              "points": 6,
+              "accept": [
+                "pollen",
+                "sneezing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 14",
+      "questions": [
+        {
+          "q": "Name a popular cereal",
+          "answers": [
+            {
+              "text": "Cheerios",
+              "points": 30,
+              "accept": [
+                "honey nut cheerios",
+                "cheerio"
+              ]
+            },
+            {
+              "text": "Frosted Flakes",
+              "points": 18,
+              "accept": [
+                "frosties",
+                "frosted flake"
+              ]
+            },
+            {
+              "text": "Lucky Charms",
+              "points": 14,
+              "accept": [
+                "lucky charm",
+                "marshmallow cereal"
+              ]
+            },
+            {
+              "text": "Froot Loops",
+              "points": 12,
+              "accept": [
+                "fruit loops",
+                "froot loop"
+              ]
+            },
+            {
+              "text": "Cinnamon Toast Crunch",
+              "points": 10,
+              "accept": [
+                "ctc",
+                "cinnamon toast"
+              ]
+            },
+            {
+              "text": "Corn Flakes",
+              "points": 6,
+              "accept": [
+                "cornflakes",
+                "corn flake"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something people hang on a wall",
+          "answers": [
+            {
+              "text": "Pictures",
+              "points": 38,
+              "accept": [
+                "photos",
+                "family photos"
+              ]
+            },
+            {
+              "text": "Paintings",
+              "points": 18,
+              "accept": [
+                "art",
+                "artwork",
+                "painting"
+              ]
+            },
+            {
+              "text": "Clock",
+              "points": 14,
+              "accept": [
+                "wall clock",
+                "clocks"
+              ]
+            },
+            {
+              "text": "Mirror",
+              "points": 12,
+              "accept": [
+                "mirrors",
+                "wall mirror"
+              ]
+            },
+            {
+              "text": "Calendar",
+              "points": 8,
+              "accept": [
+                "calendars",
+                "wall calendar"
+              ]
+            },
+            {
+              "text": "TV",
+              "points": 6,
+              "accept": [
+                "flat screen",
+                "television"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a reason people go to the mall",
+          "answers": [
+            {
+              "text": "Shopping",
+              "points": 40,
+              "accept": [
+                "shop",
+                "buy clothes",
+                "clothes"
+              ]
+            },
+            {
+              "text": "Eat",
+              "points": 18,
+              "accept": [
+                "food court",
+                "food"
+              ]
+            },
+            {
+              "text": "Walk",
+              "points": 12,
+              "accept": [
+                "exercise",
+                "mall walking"
+              ]
+            },
+            {
+              "text": "Movies",
+              "points": 9,
+              "accept": [
+                "movie theater",
+                "movie"
+              ]
+            },
+            {
+              "text": "Hang out",
+              "points": 8,
+              "accept": [
+                "socialize",
+                "meet friends"
+              ]
+            },
+            {
+              "text": "Return items",
+              "points": 6,
+              "accept": [
+                "returns",
+                "exchange"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something people do at a red light",
+          "answers": [
+            {
+              "text": "Stop",
+              "points": 30,
+              "accept": [
+                "wait",
+                "brake"
+              ]
+            },
+            {
+              "text": "Check phone",
+              "points": 22,
+              "accept": [
+                "text",
+                "phone",
+                "texting"
+              ]
+            },
+            {
+              "text": "Sing",
+              "points": 12,
+              "accept": [
+                "sing along",
+                "change song",
+                "radio"
+              ]
+            },
+            {
+              "text": "Look around",
+              "points": 10,
+              "accept": [
+                "people watch",
+                "look at people"
+              ]
+            },
+            {
+              "text": "Put on makeup",
+              "points": 8,
+              "accept": [
+                "makeup",
+                "lipstick"
+              ]
+            },
+            {
+              "text": "Eat",
+              "points": 4,
+              "accept": [
+                "snack",
+                "eat food"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you'd find on a bed",
+          "answers": [
+            {
+              "text": "Pillow",
+              "points": 40,
+              "accept": [
+                "pillows",
+                "throw pillow"
+              ]
+            },
+            {
+              "text": "Blanket",
+              "points": 22,
+              "accept": [
+                "comforter",
+                "quilt"
+              ]
+            },
+            {
+              "text": "Sheets",
+              "points": 18,
+              "accept": [
+                "sheet",
+                "bed sheets"
+              ]
+            },
+            {
+              "text": "Stuffed animal",
+              "points": 8,
+              "accept": [
+                "teddy bear",
+                "stuffed animals"
+              ]
+            },
+            {
+              "text": "Pet",
+              "points": 4,
+              "accept": [
+                "dog",
+                "cat"
+              ]
+            },
+            {
+              "text": "Mattress",
+              "points": 3,
+              "accept": [
+                "mattress pad",
+                "mattress topper"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Set 15",
+      "questions": [
+        {
+          "q": "Name a kind of sandwich",
+          "answers": [
+            {
+              "text": "PB&J",
+              "points": 32,
+              "accept": [
+                "peanut butter and jelly",
+                "pbj",
+                "peanut butter"
+              ]
+            },
+            {
+              "text": "Grilled cheese",
+              "points": 20,
+              "accept": [
+                "cheese sandwich",
+                "grilled cheese sandwich"
+              ]
+            },
+            {
+              "text": "BLT",
+              "points": 14,
+              "accept": [
+                "bacon lettuce tomato",
+                "bacon"
+              ]
+            },
+            {
+              "text": "Turkey",
+              "points": 12,
+              "accept": [
+                "turkey sandwich",
+                "turkey club"
+              ]
+            },
+            {
+              "text": "Ham and cheese",
+              "points": 8,
+              "accept": [
+                "ham",
+                "ham sandwich"
+              ]
+            },
+            {
+              "text": "Tuna",
+              "points": 6,
+              "accept": [
+                "tuna salad",
+                "tuna melt"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something you take on a camping trip",
+          "answers": [
+            {
+              "text": "Tent",
+              "points": 40,
+              "accept": [
+                "tents",
+                "pop-up tent"
+              ]
+            },
+            {
+              "text": "Sleeping bag",
+              "points": 22,
+              "accept": [
+                "sleeping bags",
+                "bedroll"
+              ]
+            },
+            {
+              "text": "Flashlight",
+              "points": 12,
+              "accept": [
+                "lantern",
+                "headlamp"
+              ]
+            },
+            {
+              "text": "Marshmallows",
+              "points": 8,
+              "accept": [
+                "s'mores",
+                "smores"
+              ]
+            },
+            {
+              "text": "Bug spray",
+              "points": 6,
+              "accept": [
+                "insect repellent",
+                "off"
+              ]
+            },
+            {
+              "text": "Cooler",
+              "points": 4,
+              "accept": [
+                "ice chest",
+                "cooler bag"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name something associated with the Fourth of July",
+          "answers": [
+            {
+              "text": "Fireworks",
+              "points": 52,
+              "accept": [
+                "firework",
+                "sparklers"
+              ]
+            },
+            {
+              "text": "Flag",
+              "points": 14,
+              "accept": [
+                "american flag",
+                "stars and stripes"
+              ]
+            },
+            {
+              "text": "Barbecue",
+              "points": 12,
+              "accept": [
+                "bbq",
+                "cookout",
+                "grilling"
+              ]
+            },
+            {
+              "text": "Hot dogs",
+              "points": 8,
+              "accept": [
+                "hot dog",
+                "hamburgers"
+              ]
+            },
+            {
+              "text": "Parade",
+              "points": 6,
+              "accept": [
+                "parades",
+                "fourth of july parade"
+              ]
+            },
+            {
+              "text": "Red, white and blue",
+              "points": 4,
+              "accept": [
+                "red white and blue",
+                "red white blue",
+                "patriotic colors"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a sound a dog makes",
+          "answers": [
+            {
+              "text": "Bark",
+              "points": 48,
+              "accept": [
+                "woof",
+                "barking"
+              ]
+            },
+            {
+              "text": "Growl",
+              "points": 18,
+              "accept": [
+                "grrr",
+                "growling"
+              ]
+            },
+            {
+              "text": "Whine",
+              "points": 12,
+              "accept": [
+                "whimper",
+                "whining"
+              ]
+            },
+            {
+              "text": "Howl",
+              "points": 10,
+              "accept": [
+                "howling",
+                "awoo"
+              ]
+            },
+            {
+              "text": "Pant",
+              "points": 4,
+              "accept": [
+                "panting",
+                "pant pant"
+              ]
+            },
+            {
+              "text": "Yip",
+              "points": 3,
+              "accept": [
+                "yap",
+                "yelp"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Name a famous fictional wizard",
+          "answers": [
+            {
+              "text": "Harry Potter",
+              "points": 38,
+              "accept": [
+                "harry",
+                "potter"
+              ]
+            },
+            {
+              "text": "Gandalf",
+              "points": 22,
+              "accept": [
+                "gandalf the grey",
+                "gandalf the white"
+              ]
+            },
+            {
+              "text": "Merlin",
+              "points": 16,
+              "accept": [
+                "merlin the magician",
+                "merlyn"
+              ]
+            },
+            {
+              "text": "Dumbledore",
+              "points": 12,
+              "accept": [
+                "albus dumbledore",
+                "professor dumbledore"
+              ]
+            },
+            {
+              "text": "Wizard of Oz",
+              "points": 6,
+              "accept": [
+                "oz",
+                "the wizard"
+              ]
+            },
+            {
+              "text": "Voldemort",
+              "points": 3,
+              "accept": [
+                "he who must not be named",
+                "tom riddle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

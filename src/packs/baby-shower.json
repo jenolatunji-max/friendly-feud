@@ -1,0 +1,1225 @@
+{
+  "id": "baby-shower",
+  "name": "Baby Shower",
+  "audience": "Baby shower guests",
+  "region": "US",
+  "source": "estimate",
+  "rounds": [
+    {
+      "q": "Name something a baby needs every day",
+      "answers": [
+        {
+          "text": "Diapers",
+          "points": 35,
+          "accept": [
+            "diaper",
+            "nappies",
+            "pampers",
+            "huggies"
+          ]
+        },
+        {
+          "text": "Milk",
+          "points": 22,
+          "accept": [
+            "formula",
+            "breast milk",
+            "bottle",
+            "bottles"
+          ]
+        },
+        {
+          "text": "Sleep",
+          "points": 13,
+          "accept": [
+            "naps",
+            "nap",
+            "sleeping"
+          ]
+        },
+        {
+          "text": "Love",
+          "points": 10,
+          "accept": [
+            "hugs",
+            "cuddles",
+            "attention"
+          ]
+        },
+        {
+          "text": "Bath",
+          "points": 8,
+          "accept": [
+            "bathtime",
+            "bath time",
+            "baths"
+          ]
+        },
+        {
+          "text": "Wipes",
+          "points": 6,
+          "accept": [
+            "baby wipes",
+            "wipe"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you put in a diaper bag",
+      "answers": [
+        {
+          "text": "Diapers",
+          "points": 30,
+          "accept": [
+            "diaper",
+            "pampers",
+            "huggies"
+          ]
+        },
+        {
+          "text": "Wipes",
+          "points": 25,
+          "accept": [
+            "baby wipes",
+            "wipe"
+          ]
+        },
+        {
+          "text": "Bottle",
+          "points": 14,
+          "accept": [
+            "bottles",
+            "formula",
+            "milk"
+          ]
+        },
+        {
+          "text": "Pacifier",
+          "points": 10,
+          "accept": [
+            "binky",
+            "paci",
+            "pacifiers",
+            "soother"
+          ]
+        },
+        {
+          "text": "Change of clothes",
+          "points": 8,
+          "accept": [
+            "clothes",
+            "onesie",
+            "outfit",
+            "extra clothes"
+          ]
+        },
+        {
+          "text": "Burp cloth",
+          "points": 5,
+          "accept": [
+            "burp rag",
+            "burp cloths",
+            "bib"
+          ]
+        },
+        {
+          "text": "Diaper cream",
+          "points": 4,
+          "accept": [
+            "rash cream",
+            "desitin",
+            "butt cream",
+            "ointment"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a food a pregnant woman craves",
+      "answers": [
+        {
+          "text": "Pickles",
+          "points": 35,
+          "accept": [
+            "pickle",
+            "dill pickles"
+          ]
+        },
+        {
+          "text": "Ice cream",
+          "points": 25,
+          "accept": [
+            "icecream",
+            "frozen yogurt"
+          ]
+        },
+        {
+          "text": "Chocolate",
+          "points": 12,
+          "accept": [
+            "candy",
+            "sweets"
+          ]
+        },
+        {
+          "text": "Pizza",
+          "points": 8,
+          "accept": [
+            "pizzas",
+            "pizza slice"
+          ]
+        },
+        {
+          "text": "Peanut butter",
+          "points": 7,
+          "accept": [
+            "pb",
+            "peanut butter and pickles"
+          ]
+        },
+        {
+          "text": "Fries",
+          "points": 5,
+          "accept": [
+            "french fries",
+            "mcdonald's fries"
+          ]
+        },
+        {
+          "text": "Ice",
+          "points": 3,
+          "accept": [
+            "crushed ice",
+            "ice chips"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a baby animal",
+      "answers": [
+        {
+          "text": "Puppy",
+          "points": 28,
+          "accept": [
+            "puppies",
+            "pup"
+          ]
+        },
+        {
+          "text": "Kitten",
+          "points": 25,
+          "accept": [
+            "kittens",
+            "kitty"
+          ]
+        },
+        {
+          "text": "Calf",
+          "points": 12,
+          "accept": [
+            "calves",
+            "baby cow"
+          ]
+        },
+        {
+          "text": "Cub",
+          "points": 11,
+          "accept": [
+            "cubs",
+            "bear cub",
+            "lion cub"
+          ]
+        },
+        {
+          "text": "Duckling",
+          "points": 9,
+          "accept": [
+            "ducklings",
+            "baby duck"
+          ]
+        },
+        {
+          "text": "Lamb",
+          "points": 7,
+          "accept": [
+            "lambs",
+            "baby sheep"
+          ]
+        },
+        {
+          "text": "Chick",
+          "points": 5,
+          "accept": [
+            "chicks",
+            "baby chicken"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that keeps new parents up at night",
+      "answers": [
+        {
+          "text": "Crying",
+          "points": 40,
+          "accept": [
+            "baby crying",
+            "cries",
+            "screaming"
+          ]
+        },
+        {
+          "text": "Feeding",
+          "points": 22,
+          "accept": [
+            "feedings",
+            "nursing",
+            "bottle",
+            "breastfeeding"
+          ]
+        },
+        {
+          "text": "Diaper changes",
+          "points": 12,
+          "accept": [
+            "diapers",
+            "changing diapers",
+            "diaper"
+          ]
+        },
+        {
+          "text": "Worrying",
+          "points": 10,
+          "accept": [
+            "worry",
+            "anxiety",
+            "stress"
+          ]
+        },
+        {
+          "text": "Colic",
+          "points": 6,
+          "accept": [
+            "gas",
+            "gassy baby",
+            "tummy ache"
+          ]
+        },
+        {
+          "text": "Teething",
+          "points": 4,
+          "accept": [
+            "teeth",
+            "new teeth"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a piece of furniture in a nursery",
+      "answers": [
+        {
+          "text": "Crib",
+          "points": 42,
+          "accept": [
+            "baby bed",
+            "cradle",
+            "bassinet"
+          ]
+        },
+        {
+          "text": "Changing table",
+          "points": 20,
+          "accept": [
+            "changer",
+            "diaper table",
+            "changing station"
+          ]
+        },
+        {
+          "text": "Rocking chair",
+          "points": 15,
+          "accept": [
+            "rocker",
+            "glider",
+            "chair"
+          ]
+        },
+        {
+          "text": "Dresser",
+          "points": 10,
+          "accept": [
+            "drawers",
+            "chest of drawers"
+          ]
+        },
+        {
+          "text": "Bookshelf",
+          "points": 5,
+          "accept": [
+            "bookcase",
+            "shelf",
+            "shelves"
+          ]
+        },
+        {
+          "text": "Toy chest",
+          "points": 3,
+          "accept": [
+            "toy box",
+            "toy bin"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason a baby cries",
+      "answers": [
+        {
+          "text": "Hungry",
+          "points": 38,
+          "accept": [
+            "hunger",
+            "food",
+            "wants milk",
+            "feeding"
+          ]
+        },
+        {
+          "text": "Wet diaper",
+          "points": 22,
+          "accept": [
+            "dirty diaper",
+            "diaper",
+            "poopy diaper",
+            "needs changing"
+          ]
+        },
+        {
+          "text": "Tired",
+          "points": 15,
+          "accept": [
+            "sleepy",
+            "needs a nap",
+            "sleep"
+          ]
+        },
+        {
+          "text": "Gas",
+          "points": 8,
+          "accept": [
+            "colic",
+            "tummy ache",
+            "burp"
+          ]
+        },
+        {
+          "text": "Teething",
+          "points": 7,
+          "accept": [
+            "teeth",
+            "new tooth"
+          ]
+        },
+        {
+          "text": "Wants to be held",
+          "points": 5,
+          "accept": [
+            "attention",
+            "lonely",
+            "wants mom",
+            "held"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a nursery rhyme",
+      "answers": [
+        {
+          "text": "Twinkle twinkle",
+          "points": 28,
+          "accept": [
+            "twinkle twinkle little star",
+            "twinkle little star",
+            "twinkle"
+          ]
+        },
+        {
+          "text": "Humpty Dumpty",
+          "points": 18,
+          "accept": [
+            "humpty",
+            "humpty dumpty sat on a wall"
+          ]
+        },
+        {
+          "text": "Mary had a little lamb",
+          "points": 15,
+          "accept": [
+            "mary had a lamb",
+            "little lamb",
+            "mary"
+          ]
+        },
+        {
+          "text": "Jack and Jill",
+          "points": 12,
+          "accept": [
+            "jack & jill",
+            "jack and jill went up the hill"
+          ]
+        },
+        {
+          "text": "Itsy bitsy spider",
+          "points": 10,
+          "accept": [
+            "itsy bitsy",
+            "eensy weensy spider",
+            "itsy-bitsy spider"
+          ]
+        },
+        {
+          "text": "Baa baa black sheep",
+          "points": 8,
+          "accept": [
+            "baa baa",
+            "black sheep"
+          ]
+        },
+        {
+          "text": "Hey diddle diddle",
+          "points": 5,
+          "accept": [
+            "cow jumped over the moon",
+            "hey diddle"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people give as a baby shower gift",
+      "answers": [
+        {
+          "text": "Diapers",
+          "points": 30,
+          "accept": [
+            "diaper",
+            "pampers",
+            "diaper cake"
+          ]
+        },
+        {
+          "text": "Clothes",
+          "points": 22,
+          "accept": [
+            "onesies",
+            "onesie",
+            "outfits",
+            "baby clothes"
+          ]
+        },
+        {
+          "text": "Blanket",
+          "points": 12,
+          "accept": [
+            "blankets",
+            "swaddle",
+            "baby blanket"
+          ]
+        },
+        {
+          "text": "Stroller",
+          "points": 10,
+          "accept": [
+            "pram",
+            "jogging stroller"
+          ]
+        },
+        {
+          "text": "Car seat",
+          "points": 8,
+          "accept": [
+            "carseat",
+            "baby seat"
+          ]
+        },
+        {
+          "text": "Books",
+          "points": 7,
+          "accept": [
+            "book",
+            "baby books"
+          ]
+        },
+        {
+          "text": "Bottles",
+          "points": 5,
+          "accept": [
+            "bottle",
+            "baby bottles"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a baby's first word",
+      "answers": [
+        {
+          "text": "Mama",
+          "points": 45,
+          "accept": [
+            "mom",
+            "mommy",
+            "ma"
+          ]
+        },
+        {
+          "text": "Dada",
+          "points": 35,
+          "accept": [
+            "dad",
+            "daddy",
+            "papa"
+          ]
+        },
+        {
+          "text": "No",
+          "points": 6,
+          "accept": [
+            "nope",
+            "no no"
+          ]
+        },
+        {
+          "text": "Bye-bye",
+          "points": 5,
+          "accept": [
+            "bye",
+            "bye bye"
+          ]
+        },
+        {
+          "text": "Ball",
+          "points": 4,
+          "accept": [
+            "balls",
+            "ba"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a baby puts in its mouth",
+      "answers": [
+        {
+          "text": "Fingers",
+          "points": 25,
+          "accept": [
+            "thumb",
+            "hand",
+            "hands",
+            "finger"
+          ]
+        },
+        {
+          "text": "Toys",
+          "points": 20,
+          "accept": [
+            "toy",
+            "rattle",
+            "teething ring"
+          ]
+        },
+        {
+          "text": "Pacifier",
+          "points": 18,
+          "accept": [
+            "binky",
+            "paci",
+            "soother"
+          ]
+        },
+        {
+          "text": "Toes",
+          "points": 12,
+          "accept": [
+            "feet",
+            "foot",
+            "toe"
+          ]
+        },
+        {
+          "text": "Keys",
+          "points": 8,
+          "accept": [
+            "key",
+            "car keys"
+          ]
+        },
+        {
+          "text": "Bottle",
+          "points": 7,
+          "accept": [
+            "bottles",
+            "milk"
+          ]
+        },
+        {
+          "text": "Blanket",
+          "points": 5,
+          "accept": [
+            "blankie",
+            "burp cloth"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you need to baby-proof",
+      "answers": [
+        {
+          "text": "Outlets",
+          "points": 35,
+          "accept": [
+            "outlet",
+            "electrical outlets",
+            "plugs",
+            "sockets"
+          ]
+        },
+        {
+          "text": "Stairs",
+          "points": 20,
+          "accept": [
+            "staircase",
+            "steps",
+            "baby gate"
+          ]
+        },
+        {
+          "text": "Cabinets",
+          "points": 15,
+          "accept": [
+            "cabinet",
+            "cupboards",
+            "drawers"
+          ]
+        },
+        {
+          "text": "Sharp corners",
+          "points": 10,
+          "accept": [
+            "corners",
+            "table corners",
+            "coffee table"
+          ]
+        },
+        {
+          "text": "Toilet",
+          "points": 7,
+          "accept": [
+            "toilet seat",
+            "toilet lid"
+          ]
+        },
+        {
+          "text": "Doors",
+          "points": 5,
+          "accept": [
+            "door",
+            "door knobs"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something new parents never get enough of",
+      "answers": [
+        {
+          "text": "Sleep",
+          "points": 45,
+          "accept": [
+            "rest",
+            "naps",
+            "nap"
+          ]
+        },
+        {
+          "text": "Time",
+          "points": 12,
+          "accept": [
+            "free time",
+            "me time"
+          ]
+        },
+        {
+          "text": "Coffee",
+          "points": 10,
+          "accept": [
+            "caffeine",
+            "espresso"
+          ]
+        },
+        {
+          "text": "Money",
+          "points": 9,
+          "accept": [
+            "cash",
+            "savings"
+          ]
+        },
+        {
+          "text": "Showers",
+          "points": 7,
+          "accept": [
+            "shower",
+            "bath",
+            "hygiene"
+          ]
+        },
+        {
+          "text": "Date nights",
+          "points": 6,
+          "accept": [
+            "date night",
+            "alone time",
+            "romance"
+          ]
+        },
+        {
+          "text": "Quiet",
+          "points": 4,
+          "accept": [
+            "peace and quiet",
+            "silence"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name an early sign of pregnancy",
+      "answers": [
+        {
+          "text": "Missed period",
+          "points": 35,
+          "accept": [
+            "late period",
+            "no period",
+            "period"
+          ]
+        },
+        {
+          "text": "Morning sickness",
+          "points": 25,
+          "accept": [
+            "nausea",
+            "throwing up",
+            "vomiting",
+            "sick"
+          ]
+        },
+        {
+          "text": "Cravings",
+          "points": 12,
+          "accept": [
+            "craving",
+            "food cravings",
+            "hungry"
+          ]
+        },
+        {
+          "text": "Tired",
+          "points": 10,
+          "accept": [
+            "fatigue",
+            "exhausted",
+            "sleepy"
+          ]
+        },
+        {
+          "text": "Mood swings",
+          "points": 7,
+          "accept": [
+            "moody",
+            "emotional",
+            "crying"
+          ]
+        },
+        {
+          "text": "Positive test",
+          "points": 5,
+          "accept": [
+            "pregnancy test",
+            "test",
+            "positive pregnancy test"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a game played at a baby shower",
+      "answers": [
+        {
+          "text": "Bingo",
+          "points": 25,
+          "accept": [
+            "baby bingo",
+            "gift bingo"
+          ]
+        },
+        {
+          "text": "Guess the belly",
+          "points": 20,
+          "accept": [
+            "belly size",
+            "measure the belly",
+            "tummy measure",
+            "belly measuring"
+          ]
+        },
+        {
+          "text": "Baby food tasting",
+          "points": 15,
+          "accept": [
+            "baby food",
+            "guess the baby food",
+            "taste test"
+          ]
+        },
+        {
+          "text": "Dirty diaper",
+          "points": 12,
+          "accept": [
+            "melted candy bar",
+            "candy bar diaper",
+            "diaper game",
+            "diaper candy"
+          ]
+        },
+        {
+          "text": "Don't say baby",
+          "points": 10,
+          "accept": [
+            "clothespin game",
+            "dont say baby",
+            "clothespin"
+          ]
+        },
+        {
+          "text": "Baby photo match",
+          "points": 8,
+          "accept": [
+            "baby pictures",
+            "baby photos",
+            "guess the baby"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a color for a baby's nursery",
+      "answers": [
+        {
+          "text": "Blue",
+          "points": 28,
+          "accept": [
+            "light blue",
+            "baby blue"
+          ]
+        },
+        {
+          "text": "Pink",
+          "points": 24,
+          "accept": [
+            "light pink",
+            "baby pink"
+          ]
+        },
+        {
+          "text": "Yellow",
+          "points": 14,
+          "accept": [
+            "pale yellow",
+            "light yellow"
+          ]
+        },
+        {
+          "text": "Green",
+          "points": 12,
+          "accept": [
+            "sage",
+            "mint",
+            "sage green",
+            "mint green"
+          ]
+        },
+        {
+          "text": "Gray",
+          "points": 10,
+          "accept": [
+            "grey",
+            "light gray"
+          ]
+        },
+        {
+          "text": "White",
+          "points": 6,
+          "accept": [
+            "cream",
+            "off white"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a dad does to get ready for the baby",
+      "answers": [
+        {
+          "text": "Build the crib",
+          "points": 30,
+          "accept": [
+            "assemble crib",
+            "crib",
+            "put together crib"
+          ]
+        },
+        {
+          "text": "Paint the nursery",
+          "points": 22,
+          "accept": [
+            "paint",
+            "painting",
+            "decorate nursery",
+            "nursery"
+          ]
+        },
+        {
+          "text": "Install car seat",
+          "points": 15,
+          "accept": [
+            "car seat",
+            "carseat",
+            "put in car seat"
+          ]
+        },
+        {
+          "text": "Read baby books",
+          "points": 10,
+          "accept": [
+            "books",
+            "read books",
+            "read"
+          ]
+        },
+        {
+          "text": "Pack hospital bag",
+          "points": 8,
+          "accept": [
+            "hospital bag",
+            "pack bag",
+            "go bag"
+          ]
+        },
+        {
+          "text": "Baby-proof the house",
+          "points": 6,
+          "accept": [
+            "baby proof",
+            "babyproof",
+            "childproof"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a mom packs in her hospital bag",
+      "answers": [
+        {
+          "text": "Clothes",
+          "points": 28,
+          "accept": [
+            "change of clothes",
+            "outfit",
+            "pajamas",
+            "robe"
+          ]
+        },
+        {
+          "text": "Toiletries",
+          "points": 20,
+          "accept": [
+            "toothbrush",
+            "toothpaste",
+            "shampoo"
+          ]
+        },
+        {
+          "text": "Baby outfit",
+          "points": 15,
+          "accept": [
+            "going home outfit",
+            "baby clothes",
+            "onesie"
+          ]
+        },
+        {
+          "text": "Phone charger",
+          "points": 10,
+          "accept": [
+            "charger",
+            "phone"
+          ]
+        },
+        {
+          "text": "Snacks",
+          "points": 9,
+          "accept": [
+            "food",
+            "snack"
+          ]
+        },
+        {
+          "text": "Pillow",
+          "points": 7,
+          "accept": [
+            "pillows",
+            "own pillow"
+          ]
+        },
+        {
+          "text": "Slippers",
+          "points": 5,
+          "accept": [
+            "socks",
+            "flip flops"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a sound a baby makes",
+      "answers": [
+        {
+          "text": "Crying",
+          "points": 35,
+          "accept": [
+            "cry",
+            "wah",
+            "waah"
+          ]
+        },
+        {
+          "text": "Cooing",
+          "points": 20,
+          "accept": [
+            "coo",
+            "goo goo",
+            "gaga"
+          ]
+        },
+        {
+          "text": "Laughing",
+          "points": 15,
+          "accept": [
+            "laugh",
+            "giggle",
+            "giggling"
+          ]
+        },
+        {
+          "text": "Babbling",
+          "points": 10,
+          "accept": [
+            "babble",
+            "gibberish"
+          ]
+        },
+        {
+          "text": "Burping",
+          "points": 8,
+          "accept": [
+            "burp",
+            "burps"
+          ]
+        },
+        {
+          "text": "Sneezing",
+          "points": 4,
+          "accept": [
+            "sneeze",
+            "achoo"
+          ]
+        },
+        {
+          "text": "Hiccups",
+          "points": 3,
+          "accept": [
+            "hiccup",
+            "hiccupping"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that goes in a baby's bath",
+      "answers": [
+        {
+          "text": "Rubber duck",
+          "points": 35,
+          "accept": [
+            "duck",
+            "ducky",
+            "rubber ducky"
+          ]
+        },
+        {
+          "text": "Soap",
+          "points": 20,
+          "accept": [
+            "baby soap",
+            "baby wash",
+            "body wash"
+          ]
+        },
+        {
+          "text": "Shampoo",
+          "points": 15,
+          "accept": [
+            "baby shampoo",
+            "johnson's",
+            "no more tears"
+          ]
+        },
+        {
+          "text": "Washcloth",
+          "points": 12,
+          "accept": [
+            "wash cloth",
+            "rag",
+            "sponge"
+          ]
+        },
+        {
+          "text": "Toys",
+          "points": 8,
+          "accept": [
+            "bath toys",
+            "toy"
+          ]
+        },
+        {
+          "text": "Water",
+          "points": 5,
+          "accept": [
+            "warm water",
+            "bath water"
+          ]
+        }
+      ]
+    }
+  ],
+  "lightning": []
+}

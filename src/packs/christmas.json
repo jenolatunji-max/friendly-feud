@@ -1,0 +1,2002 @@
+{
+  "id": "christmas",
+  "name": "Christmas",
+  "audience": "Families and holiday parties",
+  "region": "US",
+  "source": "estimate",
+  "rounds": [
+    {
+      "q": "Name something people do on Christmas morning",
+      "answers": [
+        {
+          "text": "Open presents",
+          "points": 42,
+          "accept": [
+            "presents",
+            "open gifts",
+            "unwrap gifts",
+            "gifts",
+            "unwrap presents"
+          ]
+        },
+        {
+          "text": "Eat breakfast",
+          "points": 15,
+          "accept": [
+            "breakfast",
+            "big breakfast",
+            "cinnamon rolls",
+            "pancakes"
+          ]
+        },
+        {
+          "text": "Open stockings",
+          "points": 11,
+          "accept": [
+            "stockings",
+            "stocking",
+            "empty stockings",
+            "check stockings"
+          ]
+        },
+        {
+          "text": "Go to church",
+          "points": 8,
+          "accept": [
+            "church",
+            "mass",
+            "attend church",
+            "worship"
+          ]
+        },
+        {
+          "text": "Drink coffee",
+          "points": 6,
+          "accept": [
+            "coffee",
+            "make coffee",
+            "have coffee"
+          ]
+        },
+        {
+          "text": "Take pictures",
+          "points": 5,
+          "accept": [
+            "pictures",
+            "photos",
+            "take photos",
+            "record video"
+          ]
+        },
+        {
+          "text": "Call family",
+          "points": 4,
+          "accept": [
+            "call relatives",
+            "phone family",
+            "video call",
+            "facetime family"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people put on a Christmas tree",
+      "answers": [
+        {
+          "text": "Ornaments",
+          "points": 38,
+          "accept": [
+            "ornament",
+            "balls",
+            "baubles",
+            "decorations"
+          ]
+        },
+        {
+          "text": "Lights",
+          "points": 27,
+          "accept": [
+            "christmas lights",
+            "string lights",
+            "light",
+            "twinkle lights"
+          ]
+        },
+        {
+          "text": "Star",
+          "points": 12,
+          "accept": [
+            "tree topper",
+            "star on top",
+            "topper"
+          ]
+        },
+        {
+          "text": "Tinsel",
+          "points": 8,
+          "accept": [
+            "icicles",
+            "silver tinsel"
+          ]
+        },
+        {
+          "text": "Garland",
+          "points": 6,
+          "accept": [
+            "beads",
+            "bead garland",
+            "popcorn garland"
+          ]
+        },
+        {
+          "text": "Angel",
+          "points": 4,
+          "accept": [
+            "angel topper",
+            "angel on top"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something kids leave out for Santa",
+      "answers": [
+        {
+          "text": "Cookies",
+          "points": 45,
+          "accept": [
+            "cookie",
+            "christmas cookies",
+            "sugar cookies",
+            "milk and cookies"
+          ]
+        },
+        {
+          "text": "Milk",
+          "points": 30,
+          "accept": [
+            "glass of milk",
+            "cup of milk",
+            "chocolate milk"
+          ]
+        },
+        {
+          "text": "Carrots",
+          "points": 9,
+          "accept": [
+            "carrot",
+            "carrots for reindeer",
+            "reindeer food"
+          ]
+        },
+        {
+          "text": "Letter",
+          "points": 5,
+          "accept": [
+            "note",
+            "letter to santa",
+            "a note",
+            "wish list"
+          ]
+        },
+        {
+          "text": "Candy canes",
+          "points": 3,
+          "accept": [
+            "candy cane",
+            "candy",
+            "treats"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a popular Christmas movie",
+      "answers": [
+        {
+          "text": "Home Alone",
+          "points": 30,
+          "accept": [
+            "home alone 2",
+            "home alone two"
+          ]
+        },
+        {
+          "text": "Elf",
+          "points": 18,
+          "accept": [
+            "buddy the elf",
+            "the movie elf"
+          ]
+        },
+        {
+          "text": "A Christmas Story",
+          "points": 14,
+          "accept": [
+            "christmas story",
+            "ralphie",
+            "you'll shoot your eye out"
+          ]
+        },
+        {
+          "text": "The Grinch",
+          "points": 10,
+          "accept": [
+            "grinch",
+            "how the grinch stole christmas",
+            "the grinch movie"
+          ]
+        },
+        {
+          "text": "It's a Wonderful Life",
+          "points": 8,
+          "accept": [
+            "its a wonderful life",
+            "wonderful life",
+            "george bailey"
+          ]
+        },
+        {
+          "text": "Miracle on 34th Street",
+          "points": 6,
+          "accept": [
+            "miracle on thirty-fourth street",
+            "miracle"
+          ]
+        },
+        {
+          "text": "The Polar Express",
+          "points": 5,
+          "accept": [
+            "the polar express",
+            "polar express"
+          ]
+        },
+        {
+          "text": "Christmas Vacation",
+          "points": 4,
+          "accept": [
+            "national lampoon's christmas vacation",
+            "national lampoons christmas vacation",
+            "griswolds"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name one of Santa's reindeer",
+      "answers": [
+        {
+          "text": "Rudolph",
+          "points": 35,
+          "accept": [
+            "rudolf",
+            "rudolph the red-nosed reindeer",
+            "red-nosed reindeer"
+          ]
+        },
+        {
+          "text": "Dasher",
+          "points": 14,
+          "accept": [
+            "dasher",
+            "dash"
+          ]
+        },
+        {
+          "text": "Dancer",
+          "points": 10,
+          "accept": [
+            "dancer",
+            "dance"
+          ]
+        },
+        {
+          "text": "Prancer",
+          "points": 9,
+          "accept": [
+            "prancer",
+            "prance"
+          ]
+        },
+        {
+          "text": "Comet",
+          "points": 8,
+          "accept": [
+            "comet",
+            "commet"
+          ]
+        },
+        {
+          "text": "Blitzen",
+          "points": 7,
+          "accept": [
+            "blitzen",
+            "blitz"
+          ]
+        },
+        {
+          "text": "Donner",
+          "points": 6,
+          "accept": [
+            "donder",
+            "donna"
+          ]
+        },
+        {
+          "text": "Cupid",
+          "points": 5,
+          "accept": [
+            "cupid",
+            "kupid"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a food served at Christmas dinner",
+      "answers": [
+        {
+          "text": "Ham",
+          "points": 33,
+          "accept": [
+            "honey ham",
+            "glazed ham",
+            "spiral ham",
+            "christmas ham"
+          ]
+        },
+        {
+          "text": "Turkey",
+          "points": 22,
+          "accept": [
+            "roast turkey",
+            "turkey breast"
+          ]
+        },
+        {
+          "text": "Mashed potatoes",
+          "points": 12,
+          "accept": [
+            "potatoes",
+            "mashed potato",
+            "mash"
+          ]
+        },
+        {
+          "text": "Prime rib",
+          "points": 8,
+          "accept": [
+            "roast beef",
+            "rib roast",
+            "beef",
+            "standing rib roast"
+          ]
+        },
+        {
+          "text": "Stuffing",
+          "points": 6,
+          "accept": [
+            "dressing",
+            "stuffing and dressing"
+          ]
+        },
+        {
+          "text": "Green bean casserole",
+          "points": 5,
+          "accept": [
+            "green beans",
+            "bean casserole",
+            "green bean"
+          ]
+        },
+        {
+          "text": "Rolls",
+          "points": 4,
+          "accept": [
+            "dinner rolls",
+            "bread",
+            "biscuits"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a Christmas song everyone knows",
+      "answers": [
+        {
+          "text": "Jingle Bells",
+          "points": 30,
+          "accept": [
+            "jingle bells",
+            "dashing through the snow"
+          ]
+        },
+        {
+          "text": "Silent Night",
+          "points": 14,
+          "accept": [
+            "silent night",
+            "silent night holy night"
+          ]
+        },
+        {
+          "text": "All I Want for Xmas",
+          "points": 12,
+          "accept": [
+            "all i want for christmas is you",
+            "all i want for christmas",
+            "mariah carey",
+            "mariah carey song"
+          ]
+        },
+        {
+          "text": "White Christmas",
+          "points": 10,
+          "accept": [
+            "white christmas",
+            "i'm dreaming of a white christmas"
+          ]
+        },
+        {
+          "text": "Rudolph",
+          "points": 9,
+          "accept": [
+            "rudolph the red-nosed reindeer",
+            "rudolph the red nosed reindeer",
+            "rudolf"
+          ]
+        },
+        {
+          "text": "Frosty the Snowman",
+          "points": 8,
+          "accept": [
+            "frosty",
+            "frosty the snow man"
+          ]
+        },
+        {
+          "text": "Deck the Halls",
+          "points": 6,
+          "accept": [
+            "deck the halls with boughs of holly",
+            "fa la la"
+          ]
+        },
+        {
+          "text": "Jingle Bell Rock",
+          "points": 5,
+          "accept": [
+            "jingle bell rock song",
+            "bell rock"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people hang on their front door at Christmas",
+      "answers": [
+        {
+          "text": "Wreath",
+          "points": 45,
+          "accept": [
+            "wreaths",
+            "christmas wreath",
+            "evergreen wreath"
+          ]
+        },
+        {
+          "text": "Bow",
+          "points": 12,
+          "accept": [
+            "bows",
+            "red bow",
+            "ribbon"
+          ]
+        },
+        {
+          "text": "Mistletoe",
+          "points": 10,
+          "accept": [
+            "misteltoe",
+            "holly"
+          ]
+        },
+        {
+          "text": "Lights",
+          "points": 9,
+          "accept": [
+            "christmas lights",
+            "string lights"
+          ]
+        },
+        {
+          "text": "Garland",
+          "points": 8,
+          "accept": [
+            "evergreen garland",
+            "greenery"
+          ]
+        },
+        {
+          "text": "Bells",
+          "points": 6,
+          "accept": [
+            "bell",
+            "jingle bells",
+            "sleigh bells"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something that can go wrong when putting up Christmas lights",
+      "answers": [
+        {
+          "text": "Bulbs burn out",
+          "points": 30,
+          "accept": [
+            "burned out bulbs",
+            "bulb goes out",
+            "lights don't work",
+            "dead bulbs",
+            "half the strand is out"
+          ]
+        },
+        {
+          "text": "Lights get tangled",
+          "points": 24,
+          "accept": [
+            "tangled",
+            "tangles",
+            "knots",
+            "tangled lights"
+          ]
+        },
+        {
+          "text": "Fall off ladder",
+          "points": 15,
+          "accept": [
+            "fall",
+            "fall off the roof",
+            "fall off a ladder",
+            "ladder falls"
+          ]
+        },
+        {
+          "text": "Blow a fuse",
+          "points": 10,
+          "accept": [
+            "trip a breaker",
+            "blown fuse",
+            "power goes out",
+            "short circuit"
+          ]
+        },
+        {
+          "text": "Too short",
+          "points": 7,
+          "accept": [
+            "not long enough",
+            "run out of lights",
+            "strand too short"
+          ]
+        },
+        {
+          "text": "Get shocked",
+          "points": 5,
+          "accept": [
+            "electrocuted",
+            "shock",
+            "get electrocuted"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you find inside a Christmas stocking",
+      "answers": [
+        {
+          "text": "Candy",
+          "points": 40,
+          "accept": [
+            "chocolate",
+            "sweets",
+            "candy canes",
+            "treats"
+          ]
+        },
+        {
+          "text": "Small toys",
+          "points": 15,
+          "accept": [
+            "toys",
+            "toy",
+            "little toys",
+            "trinkets"
+          ]
+        },
+        {
+          "text": "Oranges",
+          "points": 11,
+          "accept": [
+            "orange",
+            "fruit",
+            "clementine",
+            "tangerine"
+          ]
+        },
+        {
+          "text": "Gift cards",
+          "points": 9,
+          "accept": [
+            "gift card",
+            "giftcard",
+            "cards"
+          ]
+        },
+        {
+          "text": "Socks",
+          "points": 7,
+          "accept": [
+            "sock",
+            "fuzzy socks"
+          ]
+        },
+        {
+          "text": "Coal",
+          "points": 6,
+          "accept": [
+            "lump of coal",
+            "a lump of coal"
+          ]
+        },
+        {
+          "text": "Money",
+          "points": 5,
+          "accept": [
+            "cash",
+            "dollars",
+            "coins"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a Christmas character besides Santa",
+      "answers": [
+        {
+          "text": "The Grinch",
+          "points": 28,
+          "accept": [
+            "grinch",
+            "mr. grinch"
+          ]
+        },
+        {
+          "text": "Rudolph",
+          "points": 22,
+          "accept": [
+            "rudolf",
+            "red-nosed reindeer"
+          ]
+        },
+        {
+          "text": "Frosty",
+          "points": 15,
+          "accept": [
+            "frosty the snowman",
+            "snowman"
+          ]
+        },
+        {
+          "text": "Elves",
+          "points": 10,
+          "accept": [
+            "elf",
+            "santa's elves",
+            "buddy the elf",
+            "elf on the shelf"
+          ]
+        },
+        {
+          "text": "Mrs. Claus",
+          "points": 9,
+          "accept": [
+            "mrs claus",
+            "mrs. santa",
+            "santa's wife"
+          ]
+        },
+        {
+          "text": "Scrooge",
+          "points": 6,
+          "accept": [
+            "ebenezer scrooge",
+            "ebenezer"
+          ]
+        },
+        {
+          "text": "Jack Frost",
+          "points": 4,
+          "accept": [
+            "jack frost",
+            "jack"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people bake at Christmastime",
+      "answers": [
+        {
+          "text": "Cookies",
+          "points": 40,
+          "accept": [
+            "cookie",
+            "sugar cookies",
+            "christmas cookies"
+          ]
+        },
+        {
+          "text": "Pie",
+          "points": 15,
+          "accept": [
+            "pies",
+            "pecan pie",
+            "apple pie",
+            "pumpkin pie"
+          ]
+        },
+        {
+          "text": "Gingerbread",
+          "points": 12,
+          "accept": [
+            "gingerbread house",
+            "gingerbread men",
+            "gingerbread man"
+          ]
+        },
+        {
+          "text": "Fruitcake",
+          "points": 10,
+          "accept": [
+            "fruitcake",
+            "fruit cake"
+          ]
+        },
+        {
+          "text": "Bread",
+          "points": 6,
+          "accept": [
+            "banana bread",
+            "sweet bread",
+            "pumpkin bread"
+          ]
+        },
+        {
+          "text": "Cake",
+          "points": 5,
+          "accept": [
+            "cakes",
+            "yule log",
+            "bundt cake"
+          ]
+        },
+        {
+          "text": "Fudge",
+          "points": 4,
+          "accept": [
+            "chocolate fudge",
+            "candy"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a type of cookie people make for Christmas",
+      "answers": [
+        {
+          "text": "Sugar cookies",
+          "points": 35,
+          "accept": [
+            "sugar cookie",
+            "cut-out cookies",
+            "frosted cookies",
+            "cutout cookies"
+          ]
+        },
+        {
+          "text": "Gingerbread",
+          "points": 20,
+          "accept": [
+            "gingerbread men",
+            "gingerbread man",
+            "ginger snaps",
+            "gingersnaps"
+          ]
+        },
+        {
+          "text": "Chocolate chip",
+          "points": 12,
+          "accept": [
+            "chocolate chip cookies",
+            "chocolate chips"
+          ]
+        },
+        {
+          "text": "Snickerdoodles",
+          "points": 9,
+          "accept": [
+            "snickerdoodle",
+            "cinnamon cookies"
+          ]
+        },
+        {
+          "text": "Peanut butter",
+          "points": 7,
+          "accept": [
+            "peanut butter blossoms",
+            "blossoms",
+            "peanut butter cookies"
+          ]
+        },
+        {
+          "text": "Shortbread",
+          "points": 6,
+          "accept": [
+            "butter cookies",
+            "shortbread cookies"
+          ]
+        },
+        {
+          "text": "Thumbprint",
+          "points": 4,
+          "accept": [
+            "thumbprints",
+            "jam thumbprints",
+            "thumbprint cookies"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people drink at Christmas parties",
+      "answers": [
+        {
+          "text": "Eggnog",
+          "points": 35,
+          "accept": [
+            "egg nog",
+            "nog",
+            "spiked eggnog"
+          ]
+        },
+        {
+          "text": "Hot chocolate",
+          "points": 18,
+          "accept": [
+            "hot cocoa",
+            "cocoa",
+            "hot chocolate with marshmallows"
+          ]
+        },
+        {
+          "text": "Wine",
+          "points": 14,
+          "accept": [
+            "red wine",
+            "mulled wine",
+            "white wine"
+          ]
+        },
+        {
+          "text": "Hot cider",
+          "points": 9,
+          "accept": [
+            "cider",
+            "apple cider",
+            "wassail"
+          ]
+        },
+        {
+          "text": "Punch",
+          "points": 7,
+          "accept": [
+            "holiday punch",
+            "fruit punch"
+          ]
+        },
+        {
+          "text": "Coffee",
+          "points": 5,
+          "accept": [
+            "peppermint mocha",
+            "latte"
+          ]
+        },
+        {
+          "text": "Beer",
+          "points": 4,
+          "accept": [
+            "beers",
+            "winter ale"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you see in a Nativity scene",
+      "answers": [
+        {
+          "text": "Baby Jesus",
+          "points": 35,
+          "accept": [
+            "jesus",
+            "the baby",
+            "christ child",
+            "infant jesus"
+          ]
+        },
+        {
+          "text": "Mary",
+          "points": 18,
+          "accept": [
+            "virgin mary",
+            "mother mary"
+          ]
+        },
+        {
+          "text": "Joseph",
+          "points": 13,
+          "accept": [
+            "saint joseph",
+            "st. joseph"
+          ]
+        },
+        {
+          "text": "Wise men",
+          "points": 10,
+          "accept": [
+            "three wise men",
+            "three kings",
+            "magi",
+            "kings"
+          ]
+        },
+        {
+          "text": "Sheep",
+          "points": 7,
+          "accept": [
+            "animals",
+            "lambs",
+            "lamb",
+            "cows",
+            "donkey"
+          ]
+        },
+        {
+          "text": "Angel",
+          "points": 6,
+          "accept": [
+            "angel",
+            "angels"
+          ]
+        },
+        {
+          "text": "Manger",
+          "points": 5,
+          "accept": [
+            "crib",
+            "stable",
+            "hay"
+          ]
+        },
+        {
+          "text": "Shepherds",
+          "points": 4,
+          "accept": [
+            "shepherds",
+            "shepherd"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people send at Christmastime",
+      "answers": [
+        {
+          "text": "Cards",
+          "points": 45,
+          "accept": [
+            "christmas cards",
+            "holiday cards",
+            "greeting cards",
+            "card"
+          ]
+        },
+        {
+          "text": "Gifts",
+          "points": 20,
+          "accept": [
+            "presents",
+            "packages",
+            "gift"
+          ]
+        },
+        {
+          "text": "Cookies",
+          "points": 9,
+          "accept": [
+            "baked goods",
+            "treats",
+            "cookie tins"
+          ]
+        },
+        {
+          "text": "Photos",
+          "points": 8,
+          "accept": [
+            "family photos",
+            "pictures",
+            "photo cards"
+          ]
+        },
+        {
+          "text": "Letters",
+          "points": 6,
+          "accept": [
+            "letter",
+            "newsletter",
+            "holiday letter"
+          ]
+        },
+        {
+          "text": "Money",
+          "points": 5,
+          "accept": [
+            "cash",
+            "checks",
+            "gift cards"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something about Christmas that stresses people out",
+      "answers": [
+        {
+          "text": "Shopping",
+          "points": 30,
+          "accept": [
+            "buying gifts",
+            "crowds",
+            "gift shopping",
+            "malls"
+          ]
+        },
+        {
+          "text": "Money",
+          "points": 22,
+          "accept": [
+            "bills",
+            "spending",
+            "cost",
+            "budget"
+          ]
+        },
+        {
+          "text": "Family",
+          "points": 14,
+          "accept": [
+            "relatives",
+            "in-laws",
+            "family drama"
+          ]
+        },
+        {
+          "text": "Cooking",
+          "points": 9,
+          "accept": [
+            "making dinner",
+            "hosting",
+            "baking"
+          ]
+        },
+        {
+          "text": "Travel",
+          "points": 8,
+          "accept": [
+            "traveling",
+            "airports",
+            "flights",
+            "driving"
+          ]
+        },
+        {
+          "text": "Wrapping gifts",
+          "points": 6,
+          "accept": [
+            "wrapping",
+            "wrapping presents"
+          ]
+        },
+        {
+          "text": "Decorating",
+          "points": 5,
+          "accept": [
+            "decorations",
+            "putting up lights",
+            "putting up the tree"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a popular gift for kids at Christmas",
+      "answers": [
+        {
+          "text": "Video games",
+          "points": 25,
+          "accept": [
+            "games",
+            "video game",
+            "game console",
+            "nintendo",
+            "xbox",
+            "playstation"
+          ]
+        },
+        {
+          "text": "Bike",
+          "points": 18,
+          "accept": [
+            "bicycle",
+            "bikes",
+            "scooter"
+          ]
+        },
+        {
+          "text": "Dolls",
+          "points": 14,
+          "accept": [
+            "doll",
+            "barbie",
+            "barbies"
+          ]
+        },
+        {
+          "text": "Legos",
+          "points": 12,
+          "accept": [
+            "lego",
+            "lego set",
+            "building blocks"
+          ]
+        },
+        {
+          "text": "Clothes",
+          "points": 8,
+          "accept": [
+            "clothing",
+            "pajamas",
+            "shoes"
+          ]
+        },
+        {
+          "text": "Tablet",
+          "points": 7,
+          "accept": [
+            "ipad",
+            "phone",
+            "electronics"
+          ]
+        },
+        {
+          "text": "Stuffed animals",
+          "points": 6,
+          "accept": [
+            "stuffed animal",
+            "teddy bear",
+            "plush",
+            "plushie"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a gift that's easy to buy for someone you don't know well",
+      "answers": [
+        {
+          "text": "Gift card",
+          "points": 38,
+          "accept": [
+            "gift cards",
+            "giftcard",
+            "starbucks card",
+            "visa gift card"
+          ]
+        },
+        {
+          "text": "Candle",
+          "points": 15,
+          "accept": [
+            "candles",
+            "scented candle"
+          ]
+        },
+        {
+          "text": "Chocolate",
+          "points": 13,
+          "accept": [
+            "candy",
+            "chocolates",
+            "box of chocolates"
+          ]
+        },
+        {
+          "text": "Mug",
+          "points": 9,
+          "accept": [
+            "coffee mug",
+            "cup",
+            "mugs"
+          ]
+        },
+        {
+          "text": "Wine",
+          "points": 8,
+          "accept": [
+            "bottle of wine",
+            "champagne"
+          ]
+        },
+        {
+          "text": "Socks",
+          "points": 6,
+          "accept": [
+            "fuzzy socks",
+            "funny socks"
+          ]
+        },
+        {
+          "text": "Lotion",
+          "points": 4,
+          "accept": [
+            "bath set",
+            "soap",
+            "hand cream"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do with their Christmas tree after the holidays",
+      "answers": [
+        {
+          "text": "Throw it out",
+          "points": 35,
+          "accept": [
+            "throw it away",
+            "trash it",
+            "put it on the curb",
+            "curb it",
+            "toss it"
+          ]
+        },
+        {
+          "text": "Recycle it",
+          "points": 18,
+          "accept": [
+            "recycle",
+            "tree recycling",
+            "city pickup"
+          ]
+        },
+        {
+          "text": "Pack it away",
+          "points": 15,
+          "accept": [
+            "put it in the box",
+            "store it",
+            "put it in the attic",
+            "box it up"
+          ]
+        },
+        {
+          "text": "Mulch it",
+          "points": 9,
+          "accept": [
+            "mulch",
+            "chip it",
+            "wood chips"
+          ]
+        },
+        {
+          "text": "Burn it",
+          "points": 7,
+          "accept": [
+            "burn",
+            "firewood",
+            "bonfire"
+          ]
+        },
+        {
+          "text": "Leave it up",
+          "points": 6,
+          "accept": [
+            "keep it up",
+            "keep it",
+            "leave it standing"
+          ]
+        },
+        {
+          "text": "Plant it",
+          "points": 3,
+          "accept": [
+            "replant it",
+            "plant",
+            "put it in the yard"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people use to wrap gifts",
+      "answers": [
+        {
+          "text": "Wrapping paper",
+          "points": 40,
+          "accept": [
+            "paper",
+            "gift wrap",
+            "wrap"
+          ]
+        },
+        {
+          "text": "Tape",
+          "points": 18,
+          "accept": [
+            "scotch tape",
+            "scissors"
+          ]
+        },
+        {
+          "text": "Bows",
+          "points": 13,
+          "accept": [
+            "bows",
+            "bow"
+          ]
+        },
+        {
+          "text": "Ribbon",
+          "points": 10,
+          "accept": [
+            "ribbons",
+            "curling ribbon",
+            "string"
+          ]
+        },
+        {
+          "text": "Gift bags",
+          "points": 8,
+          "accept": [
+            "gift bag",
+            "bags",
+            "bag"
+          ]
+        },
+        {
+          "text": "Tissue paper",
+          "points": 6,
+          "accept": [
+            "tissue paper",
+            "tissue"
+          ]
+        },
+        {
+          "text": "Newspaper",
+          "points": 3,
+          "accept": [
+            "comics",
+            "newspapers",
+            "funny pages"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something Santa does on Christmas Eve",
+      "answers": [
+        {
+          "text": "Delivers presents",
+          "points": 35,
+          "accept": [
+            "delivers gifts",
+            "brings presents",
+            "drops off toys",
+            "gives gifts"
+          ]
+        },
+        {
+          "text": "Goes down chimney",
+          "points": 18,
+          "accept": [
+            "comes down the chimney",
+            "chimney",
+            "slides down the chimney"
+          ]
+        },
+        {
+          "text": "Eats cookies",
+          "points": 15,
+          "accept": [
+            "eats the cookies",
+            "drinks milk",
+            "eats snacks"
+          ]
+        },
+        {
+          "text": "Flies his sleigh",
+          "points": 12,
+          "accept": [
+            "rides sleigh",
+            "sleigh",
+            "flies",
+            "flies around the world"
+          ]
+        },
+        {
+          "text": "Says ho ho ho",
+          "points": 8,
+          "accept": [
+            "ho ho ho",
+            "laughs",
+            "says merry christmas"
+          ]
+        },
+        {
+          "text": "Checks his list",
+          "points": 5,
+          "accept": [
+            "checks list",
+            "checks it twice",
+            "naughty or nice"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something associated with the North Pole",
+      "answers": [
+        {
+          "text": "Santa",
+          "points": 35,
+          "accept": [
+            "santa claus",
+            "saint nick",
+            "st. nick"
+          ]
+        },
+        {
+          "text": "Snow",
+          "points": 18,
+          "accept": [
+            "ice",
+            "snowflakes",
+            "cold"
+          ]
+        },
+        {
+          "text": "Elves",
+          "points": 14,
+          "accept": [
+            "elf",
+            "santa's elves"
+          ]
+        },
+        {
+          "text": "Polar bears",
+          "points": 10,
+          "accept": [
+            "polar bear",
+            "bears"
+          ]
+        },
+        {
+          "text": "Workshop",
+          "points": 8,
+          "accept": [
+            "santa's workshop",
+            "toy factory"
+          ]
+        },
+        {
+          "text": "Reindeer",
+          "points": 7,
+          "accept": [
+            "rudolph",
+            "deer"
+          ]
+        },
+        {
+          "text": "Penguins",
+          "points": 4,
+          "accept": [
+            "penguins",
+            "penguin"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a winter activity families do over Christmas break",
+      "answers": [
+        {
+          "text": "Sledding",
+          "points": 28,
+          "accept": [
+            "sled",
+            "sledding hill",
+            "tubing",
+            "toboggan"
+          ]
+        },
+        {
+          "text": "Build a snowman",
+          "points": 20,
+          "accept": [
+            "snowman",
+            "make a snowman",
+            "building snowmen"
+          ]
+        },
+        {
+          "text": "Ice skating",
+          "points": 15,
+          "accept": [
+            "skating",
+            "skate",
+            "ice skate"
+          ]
+        },
+        {
+          "text": "Watch movies",
+          "points": 12,
+          "accept": [
+            "movies",
+            "watch christmas movies",
+            "movie night"
+          ]
+        },
+        {
+          "text": "Snowball fight",
+          "points": 8,
+          "accept": [
+            "snowballs",
+            "throw snowballs"
+          ]
+        },
+        {
+          "text": "Skiing",
+          "points": 6,
+          "accept": [
+            "ski",
+            "snowboarding",
+            "snowboard"
+          ]
+        },
+        {
+          "text": "Board games",
+          "points": 4,
+          "accept": [
+            "games",
+            "puzzles",
+            "play games"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason people return a Christmas gift",
+      "answers": [
+        {
+          "text": "Wrong size",
+          "points": 38,
+          "accept": [
+            "doesn't fit",
+            "too small",
+            "too big",
+            "didn't fit"
+          ]
+        },
+        {
+          "text": "Didn't like it",
+          "points": 22,
+          "accept": [
+            "don't like it",
+            "ugly",
+            "not my style",
+            "hated it"
+          ]
+        },
+        {
+          "text": "Already have it",
+          "points": 14,
+          "accept": [
+            "duplicate",
+            "got two",
+            "have one already"
+          ]
+        },
+        {
+          "text": "Wrong color",
+          "points": 9,
+          "accept": [
+            "bad color",
+            "color"
+          ]
+        },
+        {
+          "text": "Defective",
+          "points": 7,
+          "accept": [
+            "broken",
+            "doesn't work",
+            "damaged"
+          ]
+        },
+        {
+          "text": "Want cash instead",
+          "points": 4,
+          "accept": [
+            "want the money",
+            "store credit",
+            "money back",
+            "refund"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you'd find at an office holiday party",
+      "answers": [
+        {
+          "text": "Food",
+          "points": 30,
+          "accept": [
+            "snacks",
+            "appetizers",
+            "buffet",
+            "catering"
+          ]
+        },
+        {
+          "text": "Drinks",
+          "points": 20,
+          "accept": [
+            "alcohol",
+            "punch",
+            "cocktails",
+            "open bar"
+          ]
+        },
+        {
+          "text": "Secret Santa",
+          "points": 15,
+          "accept": [
+            "white elephant",
+            "gift exchange",
+            "yankee swap"
+          ]
+        },
+        {
+          "text": "Ugly sweaters",
+          "points": 9,
+          "accept": [
+            "ugly sweater",
+            "ugly sweater contest",
+            "sweaters"
+          ]
+        },
+        {
+          "text": "Music",
+          "points": 8,
+          "accept": [
+            "dj",
+            "karaoke",
+            "christmas music"
+          ]
+        },
+        {
+          "text": "Games",
+          "points": 6,
+          "accept": [
+            "party games",
+            "raffle",
+            "prizes"
+          ]
+        },
+        {
+          "text": "Dancing",
+          "points": 5,
+          "accept": [
+            "dance",
+            "dance floor"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a Christmas decoration people put in their yard",
+      "answers": [
+        {
+          "text": "Lights",
+          "points": 40,
+          "accept": [
+            "christmas lights",
+            "light displays",
+            "string lights"
+          ]
+        },
+        {
+          "text": "Inflatables",
+          "points": 15,
+          "accept": [
+            "blow-ups",
+            "inflatable",
+            "blow up santa",
+            "inflatable snowman"
+          ]
+        },
+        {
+          "text": "Reindeer",
+          "points": 12,
+          "accept": [
+            "light-up reindeer",
+            "deer",
+            "lighted deer"
+          ]
+        },
+        {
+          "text": "Nativity scene",
+          "points": 9,
+          "accept": [
+            "nativity",
+            "manger scene",
+            "creche"
+          ]
+        },
+        {
+          "text": "Santa",
+          "points": 7,
+          "accept": [
+            "santa claus",
+            "santa statue"
+          ]
+        },
+        {
+          "text": "Candy canes",
+          "points": 5,
+          "accept": [
+            "candy cane",
+            "candy cane lights"
+          ]
+        },
+        {
+          "text": "Snowman",
+          "points": 4,
+          "accept": [
+            "snowmen",
+            "frosty"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a word that comes after the word \"Christmas\"",
+      "answers": [
+        {
+          "text": "Tree",
+          "points": 35,
+          "accept": [
+            "christmas tree",
+            "trees"
+          ]
+        },
+        {
+          "text": "Eve",
+          "points": 18,
+          "accept": [
+            "eve",
+            "christmas eve"
+          ]
+        },
+        {
+          "text": "Day",
+          "points": 12,
+          "accept": [
+            "day",
+            "christmas day"
+          ]
+        },
+        {
+          "text": "Carol",
+          "points": 9,
+          "accept": [
+            "carols",
+            "carolers",
+            "christmas carol"
+          ]
+        },
+        {
+          "text": "Lights",
+          "points": 7,
+          "accept": [
+            "light",
+            "christmas lights"
+          ]
+        },
+        {
+          "text": "Cookies",
+          "points": 5,
+          "accept": [
+            "cookie",
+            "christmas cookies"
+          ]
+        },
+        {
+          "text": "Card",
+          "points": 4,
+          "accept": [
+            "cards",
+            "christmas card"
+          ]
+        },
+        {
+          "text": "Spirit",
+          "points": 3,
+          "accept": [
+            "christmas spirit",
+            "cheer"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something kids do to try to catch a glimpse of Santa",
+      "answers": [
+        {
+          "text": "Stay up late",
+          "points": 38,
+          "accept": [
+            "stay awake",
+            "stay up",
+            "don't sleep",
+            "stay up all night"
+          ]
+        },
+        {
+          "text": "Hide by the tree",
+          "points": 18,
+          "accept": [
+            "hide",
+            "hide in the living room",
+            "sleep by the tree",
+            "camp out"
+          ]
+        },
+        {
+          "text": "Peek down the stairs",
+          "points": 12,
+          "accept": [
+            "sneak downstairs",
+            "peek",
+            "sneak a peek",
+            "peek around the corner"
+          ]
+        },
+        {
+          "text": "Set a trap",
+          "points": 9,
+          "accept": [
+            "trap",
+            "santa trap",
+            "booby trap"
+          ]
+        },
+        {
+          "text": "Track him online",
+          "points": 8,
+          "accept": [
+            "norad",
+            "santa tracker",
+            "track santa",
+            "norad tracker"
+          ]
+        },
+        {
+          "text": "Look out the window",
+          "points": 7,
+          "accept": [
+            "watch the sky",
+            "look outside",
+            "look for the sleigh"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason a kid might end up on the naughty list",
+      "answers": [
+        {
+          "text": "Fighting",
+          "points": 30,
+          "accept": [
+            "fighting with siblings",
+            "hitting",
+            "picking on siblings",
+            "fights"
+          ]
+        },
+        {
+          "text": "Lying",
+          "points": 20,
+          "accept": [
+            "lies",
+            "telling lies",
+            "fibbing"
+          ]
+        },
+        {
+          "text": "Not listening",
+          "points": 15,
+          "accept": [
+            "disobeying",
+            "talking back",
+            "not obeying"
+          ]
+        },
+        {
+          "text": "Being rude",
+          "points": 10,
+          "accept": [
+            "rude",
+            "bad manners",
+            "being mean",
+            "mean"
+          ]
+        },
+        {
+          "text": "Not sharing",
+          "points": 8,
+          "accept": [
+            "selfish",
+            "being selfish",
+            "won't share"
+          ]
+        },
+        {
+          "text": "Stealing",
+          "points": 6,
+          "accept": [
+            "taking things",
+            "theft"
+          ]
+        },
+        {
+          "text": "Bad grades",
+          "points": 4,
+          "accept": [
+            "bad report card",
+            "failing",
+            "grades"
+          ]
+        }
+      ]
+    }
+  ],
+  "lightning": []
+}

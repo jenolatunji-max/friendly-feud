@@ -1,0 +1,2538 @@
+{
+  "id": "family-game-night",
+  "name": "Family Game Night",
+  "audience": "All ages",
+  "region": "US",
+  "source": "estimate",
+  "rounds": [
+    {
+      "q": "Name something you find in a kitchen junk drawer",
+      "answers": [
+        {
+          "text": "Batteries",
+          "points": 30,
+          "accept": [
+            "battery",
+            "aa batteries",
+            "double a batteries"
+          ]
+        },
+        {
+          "text": "Rubber bands",
+          "points": 18,
+          "accept": [
+            "rubber band",
+            "hair ties",
+            "elastic bands"
+          ]
+        },
+        {
+          "text": "Pens",
+          "points": 14,
+          "accept": [
+            "pen",
+            "pencils",
+            "pencil",
+            "markers"
+          ]
+        },
+        {
+          "text": "Scissors",
+          "points": 11,
+          "accept": [
+            "scissor",
+            "shears"
+          ]
+        },
+        {
+          "text": "Tape",
+          "points": 9,
+          "accept": [
+            "scotch tape",
+            "duct tape",
+            "masking tape"
+          ]
+        },
+        {
+          "text": "Takeout menus",
+          "points": 7,
+          "accept": [
+            "menus",
+            "menu",
+            "takeout menu"
+          ]
+        },
+        {
+          "text": "Keys",
+          "points": 5,
+          "accept": [
+            "key",
+            "spare keys",
+            "spare key"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a pizza topping",
+      "answers": [
+        {
+          "text": "Pepperoni",
+          "points": 38,
+          "accept": [
+            "pepperonis",
+            "pepperoni slices"
+          ]
+        },
+        {
+          "text": "Sausage",
+          "points": 18,
+          "accept": [
+            "italian sausage",
+            "sausages"
+          ]
+        },
+        {
+          "text": "Mushrooms",
+          "points": 13,
+          "accept": [
+            "mushroom",
+            "shrooms"
+          ]
+        },
+        {
+          "text": "Extra cheese",
+          "points": 9,
+          "accept": [
+            "cheese",
+            "mozzarella",
+            "more cheese"
+          ]
+        },
+        {
+          "text": "Onions",
+          "points": 7,
+          "accept": [
+            "onion",
+            "red onions"
+          ]
+        },
+        {
+          "text": "Peppers",
+          "points": 6,
+          "accept": [
+            "green peppers",
+            "bell peppers",
+            "pepper"
+          ]
+        },
+        {
+          "text": "Olives",
+          "points": 5,
+          "accept": [
+            "black olives",
+            "olive"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do while waiting at a red light",
+      "answers": [
+        {
+          "text": "Check phone",
+          "points": 32,
+          "accept": [
+            "phone",
+            "text",
+            "texting",
+            "look at phone",
+            "use phone"
+          ]
+        },
+        {
+          "text": "Sing",
+          "points": 16,
+          "accept": [
+            "sing along",
+            "singing"
+          ]
+        },
+        {
+          "text": "Change the radio",
+          "points": 15,
+          "accept": [
+            "radio",
+            "change station",
+            "music",
+            "change song"
+          ]
+        },
+        {
+          "text": "Look in the mirror",
+          "points": 10,
+          "accept": [
+            "mirror",
+            "fix hair",
+            "check mirror",
+            "makeup"
+          ]
+        },
+        {
+          "text": "Pick nose",
+          "points": 8,
+          "accept": [
+            "nose picking",
+            "pick their nose",
+            "picking nose"
+          ]
+        },
+        {
+          "text": "Eat",
+          "points": 6,
+          "accept": [
+            "snack",
+            "eating",
+            "drink"
+          ]
+        },
+        {
+          "text": "Daydream",
+          "points": 5,
+          "accept": [
+            "zone out",
+            "think",
+            "thinking"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a chore kids try to get out of",
+      "answers": [
+        {
+          "text": "Dishes",
+          "points": 30,
+          "accept": [
+            "washing dishes",
+            "do the dishes",
+            "dishwasher",
+            "wash dishes"
+          ]
+        },
+        {
+          "text": "Cleaning room",
+          "points": 24,
+          "accept": [
+            "clean room",
+            "clean their room",
+            "tidy room",
+            "bedroom"
+          ]
+        },
+        {
+          "text": "Taking out trash",
+          "points": 16,
+          "accept": [
+            "trash",
+            "garbage",
+            "take out trash",
+            "take out garbage"
+          ]
+        },
+        {
+          "text": "Laundry",
+          "points": 10,
+          "accept": [
+            "folding laundry",
+            "fold clothes",
+            "wash clothes"
+          ]
+        },
+        {
+          "text": "Vacuuming",
+          "points": 7,
+          "accept": [
+            "vacuum",
+            "sweeping",
+            "sweep"
+          ]
+        },
+        {
+          "text": "Mowing the lawn",
+          "points": 5,
+          "accept": [
+            "mow",
+            "mow lawn",
+            "cut grass",
+            "yard work"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason a dog might bark",
+      "answers": [
+        {
+          "text": "Stranger",
+          "points": 28,
+          "accept": [
+            "strangers",
+            "someone at door",
+            "intruder",
+            "visitor"
+          ]
+        },
+        {
+          "text": "Doorbell",
+          "points": 20,
+          "accept": [
+            "door bell",
+            "knock",
+            "knocking",
+            "door"
+          ]
+        },
+        {
+          "text": "Hungry",
+          "points": 14,
+          "accept": [
+            "food",
+            "wants food",
+            "hunger"
+          ]
+        },
+        {
+          "text": "Another dog",
+          "points": 12,
+          "accept": [
+            "other dogs",
+            "dog",
+            "dogs"
+          ]
+        },
+        {
+          "text": "Wants to go out",
+          "points": 10,
+          "accept": [
+            "go outside",
+            "potty",
+            "bathroom",
+            "wants out"
+          ]
+        },
+        {
+          "text": "Mail carrier",
+          "points": 7,
+          "accept": [
+            "mailman",
+            "mail man",
+            "postman",
+            "delivery"
+          ]
+        },
+        {
+          "text": "Squirrel",
+          "points": 5,
+          "accept": [
+            "squirrels",
+            "cat",
+            "animal",
+            "critter"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people lose all the time",
+      "answers": [
+        {
+          "text": "Keys",
+          "points": 35,
+          "accept": [
+            "key",
+            "car keys",
+            "house keys"
+          ]
+        },
+        {
+          "text": "Phone",
+          "points": 20,
+          "accept": [
+            "cell phone",
+            "cellphone",
+            "iphone",
+            "smartphone"
+          ]
+        },
+        {
+          "text": "Remote",
+          "points": 14,
+          "accept": [
+            "tv remote",
+            "remote control",
+            "clicker"
+          ]
+        },
+        {
+          "text": "Glasses",
+          "points": 10,
+          "accept": [
+            "eyeglasses",
+            "sunglasses",
+            "reading glasses"
+          ]
+        },
+        {
+          "text": "Wallet",
+          "points": 8,
+          "accept": [
+            "purse",
+            "billfold"
+          ]
+        },
+        {
+          "text": "Socks",
+          "points": 6,
+          "accept": [
+            "sock",
+            "missing sock"
+          ]
+        },
+        {
+          "text": "Pens",
+          "points": 4,
+          "accept": [
+            "pen",
+            "pencil"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a fast food chain",
+      "answers": [
+        {
+          "text": "McDonald's",
+          "points": 40,
+          "accept": [
+            "mcdonalds",
+            "mcdonald",
+            "mickey d's",
+            "mickey ds"
+          ]
+        },
+        {
+          "text": "Burger King",
+          "points": 16,
+          "accept": [
+            "bk",
+            "burger kings"
+          ]
+        },
+        {
+          "text": "Wendy's",
+          "points": 13,
+          "accept": [
+            "wendys",
+            "wendy"
+          ]
+        },
+        {
+          "text": "Taco Bell",
+          "points": 10,
+          "accept": [
+            "tacobell",
+            "taco"
+          ]
+        },
+        {
+          "text": "Chick-fil-A",
+          "points": 7,
+          "accept": [
+            "chick fil a",
+            "chickfila"
+          ]
+        },
+        {
+          "text": "KFC",
+          "points": 5,
+          "accept": [
+            "kentucky fried chicken",
+            "kentucky fried"
+          ]
+        },
+        {
+          "text": "Subway",
+          "points": 4,
+          "accept": [
+            "subways",
+            "subway sandwiches"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you take to the beach",
+      "answers": [
+        {
+          "text": "Towel",
+          "points": 33,
+          "accept": [
+            "towels",
+            "beach towel"
+          ]
+        },
+        {
+          "text": "Sunscreen",
+          "points": 25,
+          "accept": [
+            "sunblock",
+            "suntan lotion",
+            "lotion",
+            "spf"
+          ]
+        },
+        {
+          "text": "Umbrella",
+          "points": 12,
+          "accept": [
+            "beach umbrella",
+            "umbrellas",
+            "shade"
+          ]
+        },
+        {
+          "text": "Cooler",
+          "points": 9,
+          "accept": [
+            "drinks",
+            "ice chest",
+            "snacks"
+          ]
+        },
+        {
+          "text": "Chair",
+          "points": 8,
+          "accept": [
+            "beach chair",
+            "chairs",
+            "lawn chair"
+          ]
+        },
+        {
+          "text": "Sunglasses",
+          "points": 6,
+          "accept": [
+            "shades",
+            "glasses"
+          ]
+        },
+        {
+          "text": "Bucket and shovel",
+          "points": 4,
+          "accept": [
+            "pail",
+            "bucket",
+            "shovel",
+            "sand toys"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a sport you watch on TV",
+      "answers": [
+        {
+          "text": "Football",
+          "points": 42,
+          "accept": [
+            "nfl",
+            "college football",
+            "pro football"
+          ]
+        },
+        {
+          "text": "Basketball",
+          "points": 20,
+          "accept": [
+            "nba",
+            "hoops",
+            "college basketball"
+          ]
+        },
+        {
+          "text": "Baseball",
+          "points": 16,
+          "accept": [
+            "mlb",
+            "world series"
+          ]
+        },
+        {
+          "text": "Hockey",
+          "points": 7,
+          "accept": [
+            "nhl",
+            "ice hockey"
+          ]
+        },
+        {
+          "text": "Golf",
+          "points": 5,
+          "accept": [
+            "pga",
+            "the masters"
+          ]
+        },
+        {
+          "text": "Soccer",
+          "points": 4,
+          "accept": [
+            "futbol",
+            "mls",
+            "world cup"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do on a Saturday morning",
+      "answers": [
+        {
+          "text": "Sleep in",
+          "points": 34,
+          "accept": [
+            "sleep",
+            "sleeping in",
+            "sleep late",
+            "stay in bed"
+          ]
+        },
+        {
+          "text": "Eat breakfast",
+          "points": 18,
+          "accept": [
+            "breakfast",
+            "make breakfast",
+            "pancakes",
+            "brunch"
+          ]
+        },
+        {
+          "text": "Clean house",
+          "points": 14,
+          "accept": [
+            "clean",
+            "cleaning",
+            "chores",
+            "housework"
+          ]
+        },
+        {
+          "text": "Watch cartoons",
+          "points": 10,
+          "accept": [
+            "cartoons",
+            "watch tv",
+            "tv"
+          ]
+        },
+        {
+          "text": "Yard work",
+          "points": 8,
+          "accept": [
+            "mow lawn",
+            "mow the lawn",
+            "gardening"
+          ]
+        },
+        {
+          "text": "Go shopping",
+          "points": 6,
+          "accept": [
+            "shopping",
+            "errands",
+            "grocery shopping"
+          ]
+        },
+        {
+          "text": "Exercise",
+          "points": 5,
+          "accept": [
+            "work out",
+            "go for a run",
+            "gym",
+            "run"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you put on a hot dog",
+      "answers": [
+        {
+          "text": "Ketchup",
+          "points": 30,
+          "accept": [
+            "catsup",
+            "tomato ketchup"
+          ]
+        },
+        {
+          "text": "Mustard",
+          "points": 28,
+          "accept": [
+            "yellow mustard",
+            "spicy mustard"
+          ]
+        },
+        {
+          "text": "Relish",
+          "points": 14,
+          "accept": [
+            "pickle relish",
+            "sweet relish"
+          ]
+        },
+        {
+          "text": "Onions",
+          "points": 10,
+          "accept": [
+            "onion",
+            "chopped onions"
+          ]
+        },
+        {
+          "text": "Chili",
+          "points": 8,
+          "accept": [
+            "chili sauce",
+            "chili cheese"
+          ]
+        },
+        {
+          "text": "Sauerkraut",
+          "points": 5,
+          "accept": [
+            "kraut",
+            "sour kraut"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a room in the house where families spend the most time",
+      "answers": [
+        {
+          "text": "Living room",
+          "points": 35,
+          "accept": [
+            "family room",
+            "den",
+            "lounge",
+            "tv room"
+          ]
+        },
+        {
+          "text": "Bedroom",
+          "points": 25,
+          "accept": [
+            "master bedroom",
+            "bed room"
+          ]
+        },
+        {
+          "text": "Kitchen",
+          "points": 22,
+          "accept": [
+            "the kitchen",
+            "dining room"
+          ]
+        },
+        {
+          "text": "Bathroom",
+          "points": 8,
+          "accept": [
+            "restroom",
+            "bath room",
+            "toilet"
+          ]
+        },
+        {
+          "text": "Office",
+          "points": 5,
+          "accept": [
+            "home office",
+            "study"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do right before going to bed",
+      "answers": [
+        {
+          "text": "Brush teeth",
+          "points": 38,
+          "accept": [
+            "brush their teeth",
+            "brushing teeth",
+            "teeth",
+            "floss"
+          ]
+        },
+        {
+          "text": "Take a shower",
+          "points": 14,
+          "accept": [
+            "shower",
+            "bath",
+            "take a bath",
+            "bathe"
+          ]
+        },
+        {
+          "text": "Read",
+          "points": 12,
+          "accept": [
+            "read a book",
+            "reading",
+            "book"
+          ]
+        },
+        {
+          "text": "Lock the doors",
+          "points": 10,
+          "accept": [
+            "lock doors",
+            "lock up",
+            "check locks",
+            "lock door"
+          ]
+        },
+        {
+          "text": "Check phone",
+          "points": 8,
+          "accept": [
+            "phone",
+            "scroll phone",
+            "social media"
+          ]
+        },
+        {
+          "text": "Pray",
+          "points": 7,
+          "accept": [
+            "say prayers",
+            "prayers",
+            "praying"
+          ]
+        },
+        {
+          "text": "Set alarm",
+          "points": 5,
+          "accept": [
+            "alarm",
+            "set alarm clock",
+            "alarm clock"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a pet that lives in a cage or a tank",
+      "answers": [
+        {
+          "text": "Hamster",
+          "points": 30,
+          "accept": [
+            "hamsters",
+            "gerbil",
+            "gerbils"
+          ]
+        },
+        {
+          "text": "Fish",
+          "points": 25,
+          "accept": [
+            "goldfish",
+            "fishes",
+            "betta"
+          ]
+        },
+        {
+          "text": "Bird",
+          "points": 16,
+          "accept": [
+            "parakeet",
+            "parrot",
+            "birds",
+            "budgie"
+          ]
+        },
+        {
+          "text": "Guinea pig",
+          "points": 10,
+          "accept": [
+            "guinea pigs",
+            "cavy"
+          ]
+        },
+        {
+          "text": "Rabbit",
+          "points": 7,
+          "accept": [
+            "bunny",
+            "rabbits",
+            "bunnies"
+          ]
+        },
+        {
+          "text": "Snake",
+          "points": 5,
+          "accept": [
+            "snakes",
+            "python"
+          ]
+        },
+        {
+          "text": "Lizard",
+          "points": 4,
+          "accept": [
+            "gecko",
+            "iguana",
+            "bearded dragon"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something a car needs to keep running",
+      "answers": [
+        {
+          "text": "Gas",
+          "points": 45,
+          "accept": [
+            "gasoline",
+            "fuel",
+            "petrol",
+            "diesel"
+          ]
+        },
+        {
+          "text": "Oil",
+          "points": 25,
+          "accept": [
+            "oil change",
+            "motor oil"
+          ]
+        },
+        {
+          "text": "Tires",
+          "points": 9,
+          "accept": [
+            "tire",
+            "air in tires",
+            "wheels"
+          ]
+        },
+        {
+          "text": "Battery",
+          "points": 8,
+          "accept": [
+            "car battery",
+            "batteries"
+          ]
+        },
+        {
+          "text": "Coolant",
+          "points": 5,
+          "accept": [
+            "water",
+            "antifreeze",
+            "radiator fluid"
+          ]
+        },
+        {
+          "text": "Engine",
+          "points": 4,
+          "accept": [
+            "motor",
+            "working engine"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a type of TV show families watch together",
+      "answers": [
+        {
+          "text": "Game shows",
+          "points": 28,
+          "accept": [
+            "game show",
+            "quiz show",
+            "quiz shows"
+          ]
+        },
+        {
+          "text": "Cartoons",
+          "points": 20,
+          "accept": [
+            "cartoon",
+            "animated",
+            "animation"
+          ]
+        },
+        {
+          "text": "Sitcoms",
+          "points": 17,
+          "accept": [
+            "sitcom",
+            "comedy",
+            "comedies"
+          ]
+        },
+        {
+          "text": "Reality shows",
+          "points": 12,
+          "accept": [
+            "reality tv",
+            "reality",
+            "reality show"
+          ]
+        },
+        {
+          "text": "Cooking shows",
+          "points": 9,
+          "accept": [
+            "cooking show",
+            "cooking",
+            "baking shows"
+          ]
+        },
+        {
+          "text": "Sports",
+          "points": 7,
+          "accept": [
+            "games",
+            "football",
+            "sports games"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something students carry in their backpack",
+      "answers": [
+        {
+          "text": "Books",
+          "points": 30,
+          "accept": [
+            "book",
+            "textbooks",
+            "textbook"
+          ]
+        },
+        {
+          "text": "Pencils",
+          "points": 20,
+          "accept": [
+            "pencil",
+            "pens",
+            "pen",
+            "pencil case"
+          ]
+        },
+        {
+          "text": "Notebook",
+          "points": 15,
+          "accept": [
+            "notebooks",
+            "paper",
+            "binder"
+          ]
+        },
+        {
+          "text": "Lunch",
+          "points": 12,
+          "accept": [
+            "lunchbox",
+            "lunch box",
+            "snack",
+            "snacks"
+          ]
+        },
+        {
+          "text": "Laptop",
+          "points": 9,
+          "accept": [
+            "computer",
+            "chromebook",
+            "tablet",
+            "ipad"
+          ]
+        },
+        {
+          "text": "Water bottle",
+          "points": 6,
+          "accept": [
+            "water",
+            "drink",
+            "bottle"
+          ]
+        },
+        {
+          "text": "Homework",
+          "points": 4,
+          "accept": [
+            "assignments",
+            "folder"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a subject in school",
+      "answers": [
+        {
+          "text": "Math",
+          "points": 36,
+          "accept": [
+            "mathematics",
+            "algebra",
+            "arithmetic"
+          ]
+        },
+        {
+          "text": "English",
+          "points": 20,
+          "accept": [
+            "reading",
+            "language arts",
+            "writing"
+          ]
+        },
+        {
+          "text": "Science",
+          "points": 17,
+          "accept": [
+            "biology",
+            "chemistry"
+          ]
+        },
+        {
+          "text": "History",
+          "points": 12,
+          "accept": [
+            "social studies",
+            "american history"
+          ]
+        },
+        {
+          "text": "Gym",
+          "points": 7,
+          "accept": [
+            "pe",
+            "p.e.",
+            "physical education"
+          ]
+        },
+        {
+          "text": "Art",
+          "points": 4,
+          "accept": [
+            "art class",
+            "drawing"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a job where you wear a uniform",
+      "answers": [
+        {
+          "text": "Police officer",
+          "points": 30,
+          "accept": [
+            "police",
+            "cop",
+            "policeman",
+            "officer"
+          ]
+        },
+        {
+          "text": "Nurse",
+          "points": 18,
+          "accept": [
+            "nurses",
+            "doctor",
+            "scrubs"
+          ]
+        },
+        {
+          "text": "Firefighter",
+          "points": 15,
+          "accept": [
+            "fireman",
+            "firemen",
+            "fire fighter"
+          ]
+        },
+        {
+          "text": "Military",
+          "points": 12,
+          "accept": [
+            "soldier",
+            "army",
+            "marine",
+            "navy"
+          ]
+        },
+        {
+          "text": "Mail carrier",
+          "points": 8,
+          "accept": [
+            "mailman",
+            "postal worker",
+            "postman"
+          ]
+        },
+        {
+          "text": "Fast food worker",
+          "points": 6,
+          "accept": [
+            "fast food",
+            "cashier",
+            "restaurant worker"
+          ]
+        },
+        {
+          "text": "Pilot",
+          "points": 4,
+          "accept": [
+            "flight attendant",
+            "airline pilot"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason someone might be late for work",
+      "answers": [
+        {
+          "text": "Traffic",
+          "points": 42,
+          "accept": [
+            "bad traffic",
+            "traffic jam",
+            "accident"
+          ]
+        },
+        {
+          "text": "Overslept",
+          "points": 25,
+          "accept": [
+            "slept in",
+            "alarm",
+            "alarm didn't go off",
+            "sleep"
+          ]
+        },
+        {
+          "text": "Car trouble",
+          "points": 12,
+          "accept": [
+            "car broke down",
+            "flat tire",
+            "car wouldn't start"
+          ]
+        },
+        {
+          "text": "Kids",
+          "points": 8,
+          "accept": [
+            "children",
+            "dropping off kids",
+            "school drop off"
+          ]
+        },
+        {
+          "text": "Weather",
+          "points": 5,
+          "accept": [
+            "snow",
+            "rain",
+            "storm"
+          ]
+        },
+        {
+          "text": "Couldn't find keys",
+          "points": 4,
+          "accept": [
+            "lost keys",
+            "keys",
+            "couldnt find keys"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a breakfast food",
+      "answers": [
+        {
+          "text": "Eggs",
+          "points": 30,
+          "accept": [
+            "egg",
+            "scrambled eggs",
+            "omelet"
+          ]
+        },
+        {
+          "text": "Pancakes",
+          "points": 20,
+          "accept": [
+            "pancake",
+            "flapjacks",
+            "hotcakes"
+          ]
+        },
+        {
+          "text": "Bacon",
+          "points": 15,
+          "accept": [
+            "bacon strips",
+            "strips of bacon"
+          ]
+        },
+        {
+          "text": "Cereal",
+          "points": 12,
+          "accept": [
+            "corn flakes",
+            "cheerios",
+            "frosted flakes"
+          ]
+        },
+        {
+          "text": "Waffles",
+          "points": 8,
+          "accept": [
+            "waffle",
+            "eggo"
+          ]
+        },
+        {
+          "text": "Toast",
+          "points": 6,
+          "accept": [
+            "bread",
+            "french toast"
+          ]
+        },
+        {
+          "text": "Oatmeal",
+          "points": 4,
+          "accept": [
+            "oats",
+            "porridge",
+            "grits"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you see at a baseball game",
+      "answers": [
+        {
+          "text": "Hot dogs",
+          "points": 26,
+          "accept": [
+            "hot dog",
+            "food",
+            "hotdog"
+          ]
+        },
+        {
+          "text": "Players",
+          "points": 18,
+          "accept": [
+            "baseball players",
+            "pitcher",
+            "batter"
+          ]
+        },
+        {
+          "text": "Bats",
+          "points": 13,
+          "accept": [
+            "bat",
+            "baseball bat",
+            "baseballs"
+          ]
+        },
+        {
+          "text": "Peanuts",
+          "points": 10,
+          "accept": [
+            "cracker jack",
+            "popcorn",
+            "snacks"
+          ]
+        },
+        {
+          "text": "Umpire",
+          "points": 9,
+          "accept": [
+            "umpires",
+            "ump",
+            "referee"
+          ]
+        },
+        {
+          "text": "Fans",
+          "points": 8,
+          "accept": [
+            "crowd",
+            "people",
+            "spectators"
+          ]
+        },
+        {
+          "text": "Mascot",
+          "points": 6,
+          "accept": [
+            "team mascot",
+            "mascots"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a vegetable kids refuse to eat",
+      "answers": [
+        {
+          "text": "Broccoli",
+          "points": 35,
+          "accept": [
+            "broccoli florets",
+            "trees"
+          ]
+        },
+        {
+          "text": "Brussels sprouts",
+          "points": 20,
+          "accept": [
+            "brussel sprouts",
+            "sprouts",
+            "brussels"
+          ]
+        },
+        {
+          "text": "Spinach",
+          "points": 12,
+          "accept": [
+            "greens",
+            "leafy greens"
+          ]
+        },
+        {
+          "text": "Peas",
+          "points": 10,
+          "accept": [
+            "green peas",
+            "pea"
+          ]
+        },
+        {
+          "text": "Asparagus",
+          "points": 7,
+          "accept": [
+            "asparagus spears",
+            "spears"
+          ]
+        },
+        {
+          "text": "Cauliflower",
+          "points": 6,
+          "accept": [
+            "cauliflower florets",
+            "white broccoli"
+          ]
+        },
+        {
+          "text": "Green beans",
+          "points": 5,
+          "accept": [
+            "string beans",
+            "beans"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you need to bake a cake",
+      "answers": [
+        {
+          "text": "Flour",
+          "points": 30,
+          "accept": [
+            "cake flour",
+            "all purpose flour"
+          ]
+        },
+        {
+          "text": "Eggs",
+          "points": 25,
+          "accept": [
+            "egg",
+            "egg whites"
+          ]
+        },
+        {
+          "text": "Sugar",
+          "points": 17,
+          "accept": [
+            "sweetener",
+            "brown sugar"
+          ]
+        },
+        {
+          "text": "Oven",
+          "points": 10,
+          "accept": [
+            "stove",
+            "heat"
+          ]
+        },
+        {
+          "text": "Butter",
+          "points": 7,
+          "accept": [
+            "oil",
+            "margarine"
+          ]
+        },
+        {
+          "text": "Cake mix",
+          "points": 5,
+          "accept": [
+            "box mix",
+            "mix",
+            "boxed mix"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a household item that always needs replacing",
+      "answers": [
+        {
+          "text": "Toilet paper",
+          "points": 33,
+          "accept": [
+            "tp",
+            "bathroom tissue",
+            "toilet tissue"
+          ]
+        },
+        {
+          "text": "Light bulbs",
+          "points": 20,
+          "accept": [
+            "light bulb",
+            "bulbs",
+            "bulb"
+          ]
+        },
+        {
+          "text": "Batteries",
+          "points": 13,
+          "accept": [
+            "battery",
+            "aa batteries"
+          ]
+        },
+        {
+          "text": "Paper towels",
+          "points": 12,
+          "accept": [
+            "paper towel",
+            "bounty"
+          ]
+        },
+        {
+          "text": "Trash bags",
+          "points": 8,
+          "accept": [
+            "garbage bags",
+            "trash bag",
+            "garbage bag"
+          ]
+        },
+        {
+          "text": "Sponges",
+          "points": 6,
+          "accept": [
+            "sponge",
+            "dish sponge",
+            "scrubber"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a board game",
+      "answers": [
+        {
+          "text": "Monopoly",
+          "points": 38,
+          "accept": [
+            "monopoly game",
+            "monopoly board"
+          ]
+        },
+        {
+          "text": "Scrabble",
+          "points": 15,
+          "accept": [
+            "scrabble game",
+            "words game"
+          ]
+        },
+        {
+          "text": "Clue",
+          "points": 12,
+          "accept": [
+            "cluedo",
+            "clue game"
+          ]
+        },
+        {
+          "text": "Sorry",
+          "points": 10,
+          "accept": [
+            "sorry!",
+            "sorry game"
+          ]
+        },
+        {
+          "text": "Candy Land",
+          "points": 8,
+          "accept": [
+            "candyland",
+            "candy land game"
+          ]
+        },
+        {
+          "text": "Chess",
+          "points": 7,
+          "accept": [
+            "chess game",
+            "chessboard"
+          ]
+        },
+        {
+          "text": "Life",
+          "points": 5,
+          "accept": [
+            "game of life",
+            "the game of life"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something parents yell at their kids to do",
+      "answers": [
+        {
+          "text": "Clean your room",
+          "points": 30,
+          "accept": [
+            "clean room",
+            "clean up",
+            "pick up",
+            "clean up your room"
+          ]
+        },
+        {
+          "text": "Do homework",
+          "points": 20,
+          "accept": [
+            "homework",
+            "do your homework",
+            "study"
+          ]
+        },
+        {
+          "text": "Go to bed",
+          "points": 16,
+          "accept": [
+            "bedtime",
+            "go to sleep",
+            "bed"
+          ]
+        },
+        {
+          "text": "Be quiet",
+          "points": 12,
+          "accept": [
+            "quiet",
+            "stop yelling",
+            "hush",
+            "settle down"
+          ]
+        },
+        {
+          "text": "Hurry up",
+          "points": 9,
+          "accept": [
+            "hurry",
+            "get ready",
+            "get dressed"
+          ]
+        },
+        {
+          "text": "Brush teeth",
+          "points": 7,
+          "accept": [
+            "brush your teeth",
+            "teeth"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason to call a plumber",
+      "answers": [
+        {
+          "text": "Clogged toilet",
+          "points": 35,
+          "accept": [
+            "toilet",
+            "toilet clog",
+            "clog",
+            "overflowing toilet"
+          ]
+        },
+        {
+          "text": "Leaky faucet",
+          "points": 20,
+          "accept": [
+            "leak",
+            "faucet",
+            "dripping faucet",
+            "drip"
+          ]
+        },
+        {
+          "text": "Clogged drain",
+          "points": 15,
+          "accept": [
+            "drain",
+            "slow drain",
+            "clogged sink",
+            "sink"
+          ]
+        },
+        {
+          "text": "Burst pipe",
+          "points": 12,
+          "accept": [
+            "broken pipe",
+            "pipe",
+            "pipes",
+            "frozen pipe"
+          ]
+        },
+        {
+          "text": "No hot water",
+          "points": 8,
+          "accept": [
+            "water heater",
+            "hot water heater",
+            "hot water"
+          ]
+        },
+        {
+          "text": "Flooding",
+          "points": 5,
+          "accept": [
+            "flood",
+            "water damage",
+            "basement flood"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name an animal you see on a farm",
+      "answers": [
+        {
+          "text": "Cow",
+          "points": 35,
+          "accept": [
+            "cows",
+            "cattle",
+            "bull"
+          ]
+        },
+        {
+          "text": "Pig",
+          "points": 20,
+          "accept": [
+            "pigs",
+            "hog",
+            "hogs"
+          ]
+        },
+        {
+          "text": "Chicken",
+          "points": 15,
+          "accept": [
+            "chickens",
+            "hen",
+            "rooster"
+          ]
+        },
+        {
+          "text": "Horse",
+          "points": 12,
+          "accept": [
+            "horses",
+            "pony"
+          ]
+        },
+        {
+          "text": "Sheep",
+          "points": 8,
+          "accept": [
+            "lamb",
+            "lambs"
+          ]
+        },
+        {
+          "text": "Goat",
+          "points": 5,
+          "accept": [
+            "goats",
+            "billy goat"
+          ]
+        },
+        {
+          "text": "Duck",
+          "points": 3,
+          "accept": [
+            "ducks",
+            "geese"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you buy at a gas station besides gas",
+      "answers": [
+        {
+          "text": "Snacks",
+          "points": 30,
+          "accept": [
+            "snack",
+            "chips",
+            "junk food"
+          ]
+        },
+        {
+          "text": "Drinks",
+          "points": 24,
+          "accept": [
+            "soda",
+            "pop",
+            "soft drink",
+            "water"
+          ]
+        },
+        {
+          "text": "Coffee",
+          "points": 13,
+          "accept": [
+            "cup of coffee",
+            "hot coffee"
+          ]
+        },
+        {
+          "text": "Lottery tickets",
+          "points": 10,
+          "accept": [
+            "lottery",
+            "scratchers",
+            "lotto",
+            "scratch offs"
+          ]
+        },
+        {
+          "text": "Candy",
+          "points": 8,
+          "accept": [
+            "candy bar",
+            "gum",
+            "chocolate"
+          ]
+        },
+        {
+          "text": "Beef jerky",
+          "points": 7,
+          "accept": [
+            "jerky",
+            "slim jim",
+            "meat stick"
+          ]
+        },
+        {
+          "text": "Ice",
+          "points": 4,
+          "accept": [
+            "bag of ice",
+            "ice bag"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a famous cartoon character",
+      "answers": [
+        {
+          "text": "Mickey Mouse",
+          "points": 35,
+          "accept": [
+            "mickey",
+            "minnie mouse"
+          ]
+        },
+        {
+          "text": "Bugs Bunny",
+          "points": 20,
+          "accept": [
+            "bugs",
+            "bugs the bunny"
+          ]
+        },
+        {
+          "text": "SpongeBob",
+          "points": 15,
+          "accept": [
+            "spongebob squarepants",
+            "sponge bob"
+          ]
+        },
+        {
+          "text": "Scooby-Doo",
+          "points": 10,
+          "accept": [
+            "scooby doo",
+            "scooby"
+          ]
+        },
+        {
+          "text": "Homer Simpson",
+          "points": 7,
+          "accept": [
+            "homer",
+            "bart simpson",
+            "the simpsons",
+            "simpsons"
+          ]
+        },
+        {
+          "text": "Snoopy",
+          "points": 5,
+          "accept": [
+            "charlie brown",
+            "peanuts"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people forget to pack for a family vacation",
+      "answers": [
+        {
+          "text": "Toothbrush",
+          "points": 30,
+          "accept": [
+            "toothpaste",
+            "tooth brush"
+          ]
+        },
+        {
+          "text": "Phone charger",
+          "points": 25,
+          "accept": [
+            "charger",
+            "chargers",
+            "cell charger"
+          ]
+        },
+        {
+          "text": "Underwear",
+          "points": 12,
+          "accept": [
+            "undies",
+            "underpants",
+            "socks"
+          ]
+        },
+        {
+          "text": "Medicine",
+          "points": 10,
+          "accept": [
+            "medication",
+            "pills",
+            "meds"
+          ]
+        },
+        {
+          "text": "Swimsuit",
+          "points": 8,
+          "accept": [
+            "bathing suit",
+            "swim suit",
+            "trunks"
+          ]
+        },
+        {
+          "text": "Sunscreen",
+          "points": 6,
+          "accept": [
+            "sunblock",
+            "lotion"
+          ]
+        },
+        {
+          "text": "Pillow",
+          "points": 4,
+          "accept": [
+            "pillows",
+            "travel pillow"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you would find in a garage",
+      "answers": [
+        {
+          "text": "Car",
+          "points": 33,
+          "accept": [
+            "cars",
+            "vehicle",
+            "truck"
+          ]
+        },
+        {
+          "text": "Tools",
+          "points": 25,
+          "accept": [
+            "tool",
+            "toolbox",
+            "hammer",
+            "wrench"
+          ]
+        },
+        {
+          "text": "Bikes",
+          "points": 11,
+          "accept": [
+            "bike",
+            "bicycle",
+            "bicycles"
+          ]
+        },
+        {
+          "text": "Lawn mower",
+          "points": 10,
+          "accept": [
+            "mower",
+            "lawnmower"
+          ]
+        },
+        {
+          "text": "Boxes",
+          "points": 7,
+          "accept": [
+            "box",
+            "storage",
+            "junk"
+          ]
+        },
+        {
+          "text": "Paint",
+          "points": 5,
+          "accept": [
+            "paint cans",
+            "paint can"
+          ]
+        },
+        {
+          "text": "Shovel",
+          "points": 4,
+          "accept": [
+            "shovels",
+            "rake"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a reason people go to the doctor",
+      "answers": [
+        {
+          "text": "Sick",
+          "points": 30,
+          "accept": [
+            "illness",
+            "flu",
+            "cold",
+            "fever"
+          ]
+        },
+        {
+          "text": "Checkup",
+          "points": 28,
+          "accept": [
+            "physical",
+            "check up",
+            "annual physical",
+            "wellness visit"
+          ]
+        },
+        {
+          "text": "Injury",
+          "points": 11,
+          "accept": [
+            "hurt",
+            "broken bone",
+            "cut",
+            "sprain"
+          ]
+        },
+        {
+          "text": "Shots",
+          "points": 10,
+          "accept": [
+            "vaccine",
+            "flu shot",
+            "shot",
+            "vaccination"
+          ]
+        },
+        {
+          "text": "Prescription",
+          "points": 8,
+          "accept": [
+            "medicine",
+            "refill",
+            "medication"
+          ]
+        },
+        {
+          "text": "Pain",
+          "points": 6,
+          "accept": [
+            "back pain",
+            "headache",
+            "aches"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people collect",
+      "answers": [
+        {
+          "text": "Stamps",
+          "points": 28,
+          "accept": [
+            "stamp",
+            "postage stamps"
+          ]
+        },
+        {
+          "text": "Coins",
+          "points": 25,
+          "accept": [
+            "coin",
+            "money",
+            "quarters"
+          ]
+        },
+        {
+          "text": "Baseball cards",
+          "points": 15,
+          "accept": [
+            "cards",
+            "trading cards",
+            "sports cards"
+          ]
+        },
+        {
+          "text": "Comic books",
+          "points": 9,
+          "accept": [
+            "comics",
+            "comic"
+          ]
+        },
+        {
+          "text": "Rocks",
+          "points": 7,
+          "accept": [
+            "rock",
+            "crystals",
+            "stones"
+          ]
+        },
+        {
+          "text": "Dolls",
+          "points": 6,
+          "accept": [
+            "doll",
+            "barbies",
+            "action figures"
+          ]
+        },
+        {
+          "text": "Shells",
+          "points": 5,
+          "accept": [
+            "seashells",
+            "sea shells"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a popular dog breed",
+      "answers": [
+        {
+          "text": "Labrador",
+          "points": 32,
+          "accept": [
+            "lab",
+            "labrador retriever",
+            "labs"
+          ]
+        },
+        {
+          "text": "German shepherd",
+          "points": 20,
+          "accept": [
+            "shepherd",
+            "german shepherds"
+          ]
+        },
+        {
+          "text": "Golden retriever",
+          "points": 16,
+          "accept": [
+            "golden",
+            "retriever"
+          ]
+        },
+        {
+          "text": "Poodle",
+          "points": 10,
+          "accept": [
+            "poodles",
+            "toy poodle"
+          ]
+        },
+        {
+          "text": "Bulldog",
+          "points": 8,
+          "accept": [
+            "bulldogs",
+            "french bulldog",
+            "frenchie"
+          ]
+        },
+        {
+          "text": "Beagle",
+          "points": 6,
+          "accept": [
+            "beagles",
+            "beagle puppy"
+          ]
+        },
+        {
+          "text": "Chihuahua",
+          "points": 4,
+          "accept": [
+            "chihuahuas",
+            "teacup chihuahua"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something people do while watching TV",
+      "answers": [
+        {
+          "text": "Eat",
+          "points": 38,
+          "accept": [
+            "snack",
+            "eating",
+            "eat snacks",
+            "snacking"
+          ]
+        },
+        {
+          "text": "Fall asleep",
+          "points": 17,
+          "accept": [
+            "sleep",
+            "nap",
+            "doze off"
+          ]
+        },
+        {
+          "text": "Play on phone",
+          "points": 14,
+          "accept": [
+            "phone",
+            "check phone",
+            "text",
+            "scroll"
+          ]
+        },
+        {
+          "text": "Talk",
+          "points": 10,
+          "accept": [
+            "chat",
+            "talking",
+            "conversation"
+          ]
+        },
+        {
+          "text": "Fold laundry",
+          "points": 8,
+          "accept": [
+            "laundry",
+            "folding clothes",
+            "fold clothes"
+          ]
+        },
+        {
+          "text": "Drink",
+          "points": 6,
+          "accept": [
+            "drinking",
+            "soda",
+            "beverage"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name something you check before leaving the house",
+      "answers": [
+        {
+          "text": "Keys",
+          "points": 25,
+          "accept": [
+            "car keys",
+            "house keys"
+          ]
+        },
+        {
+          "text": "Stove",
+          "points": 20,
+          "accept": [
+            "oven",
+            "stove off",
+            "burners"
+          ]
+        },
+        {
+          "text": "Phone",
+          "points": 18,
+          "accept": [
+            "cell phone",
+            "cellphone"
+          ]
+        },
+        {
+          "text": "Wallet",
+          "points": 12,
+          "accept": [
+            "purse",
+            "money"
+          ]
+        },
+        {
+          "text": "Doors locked",
+          "points": 10,
+          "accept": [
+            "lock",
+            "locks",
+            "door",
+            "lock door"
+          ]
+        },
+        {
+          "text": "Lights",
+          "points": 7,
+          "accept": [
+            "lights off",
+            "light"
+          ]
+        },
+        {
+          "text": "Mirror",
+          "points": 4,
+          "accept": [
+            "hair",
+            "how you look",
+            "appearance"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a sound that wakes you up at night",
+      "answers": [
+        {
+          "text": "Dog barking",
+          "points": 26,
+          "accept": [
+            "dog",
+            "barking",
+            "dogs"
+          ]
+        },
+        {
+          "text": "Snoring",
+          "points": 22,
+          "accept": [
+            "snore",
+            "spouse snoring",
+            "partner snoring"
+          ]
+        },
+        {
+          "text": "Baby crying",
+          "points": 15,
+          "accept": [
+            "baby",
+            "crying",
+            "kids",
+            "child"
+          ]
+        },
+        {
+          "text": "Thunder",
+          "points": 12,
+          "accept": [
+            "storm",
+            "thunderstorm",
+            "lightning"
+          ]
+        },
+        {
+          "text": "Alarm",
+          "points": 8,
+          "accept": [
+            "smoke alarm",
+            "smoke detector",
+            "car alarm",
+            "alarm clock"
+          ]
+        },
+        {
+          "text": "Phone",
+          "points": 7,
+          "accept": [
+            "phone ringing",
+            "text",
+            "notification"
+          ]
+        },
+        {
+          "text": "Siren",
+          "points": 4,
+          "accept": [
+            "sirens",
+            "ambulance",
+            "police siren"
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Name a fruit you put in a smoothie",
+      "answers": [
+        {
+          "text": "Strawberries",
+          "points": 33,
+          "accept": [
+            "strawberry",
+            "berries"
+          ]
+        },
+        {
+          "text": "Bananas",
+          "points": 30,
+          "accept": [
+            "banana",
+            "frozen banana"
+          ]
+        },
+        {
+          "text": "Blueberries",
+          "points": 13,
+          "accept": [
+            "blueberry",
+            "blue berries"
+          ]
+        },
+        {
+          "text": "Mango",
+          "points": 8,
+          "accept": [
+            "mangoes",
+            "mangos"
+          ]
+        },
+        {
+          "text": "Pineapple",
+          "points": 6,
+          "accept": [
+            "pineapples",
+            "pineapple chunks"
+          ]
+        },
+        {
+          "text": "Peaches",
+          "points": 4,
+          "accept": [
+            "peach",
+            "frozen peaches"
+          ]
+        },
+        {
+          "text": "Raspberries",
+          "points": 3,
+          "accept": [
+            "raspberry",
+            "frozen raspberries"
+          ]
+        }
+      ]
+    }
+  ],
+  "lightning": []
+}

@@ -1,0 +1,10 @@
+# Local tools and dependencies (reinstall with npm install)
+.tools/
+.tmp/
+node_modules/
+
+# Build output except the files you ship
+dist/friendly-feud/
+
+# macOS
+.DS_Store
