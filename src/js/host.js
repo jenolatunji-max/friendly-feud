@@ -246,8 +246,8 @@ function phaseHTML() {
       }
       if (fo.step === 'first' || fo.step === 'second') {
         const who = fo.step === 'first' ? fo.first : other(fo.first);
-        const prev = fo.step === 'second' ? (fo.firstRank >= 0 ? `<p class="hint">${tn(fo.first)} found answer #${fo.firstRank + 1}. ${tn(who)} needs a higher one.</p>` : `<p class="hint">${tn(fo.first)} missed. Any answer on the board wins it for ${tn(who)}.</p>`) : '';
-        return `<h3>${tn(who)} answers</h3>${say(fo.step === 'first' ? 'What do you say? ... Let\'s see the board!' : 'Can you beat it? Let\'s see the board!')}<p>Click their answer on the left. Not there?</p>
+        const prev = fo.step === 'second' ? (fo.firstRank >= 0 ? `<p class="hint">${tn(fo.first)} found answer #${fo.firstRank + 1}. To win, ${tn(who)} must name a higher answer.</p>` : `<p class="hint">${tn(fo.first)} missed. Any answer on the board wins it for ${tn(who)}.</p>`) : '';
+        return `<h3>Answering: ${tn(who)}</h3>${say(fo.step === 'first' ? 'What do you say? ... Let\'s see the board!' : 'Can you beat it? Let\'s see the board!')}<p>Click their answer on the left. Not there?</p>
           <div class="btn-row"><button type="button" class="btn btn-red btn-big" data-act="miss">Not on the board <kbd>X</kbd></button></div>${prev}${pot}`;
       }
       if (fo.step === 'hostpick') {
@@ -256,30 +256,30 @@ function phaseHTML() {
           <div class="btn-row">${teamBtn(0, 'fowin', tn(0) + ' plays')}${teamBtn(1, 'fowin', tn(1) + ' plays')}</div>`;
       }
       if (fo.step === 'playpass') {
-        return `<h3>${tn(fo.winner)} wins the face-off!</h3>${say(tn(fo.winner) + ', do you want to play or pass?')}<p>Did they choose to play or pass?</p>
+        return `<h3>Face-off winner: ${tn(fo.winner)}</h3>${say(tn(fo.winner) + ', do you want to play or pass?')}<p>Did they choose to play or pass?</p>
           <div class="btn-row"><button type="button" class="btn btn-gold btn-big" data-act="play">Play</button><button type="button" class="btn btn-big" data-act="pass">Pass to ${tn(other(fo.winner))}</button></div>${pot}`;
       }
       return '';
     }
     case 'play':
-      return `<h3>${tn(r.control)} is playing</h3>${say(r.strikes === 2 ? 'Careful, one more strike and they can steal!' : 'Next player, give me an answer!')}<p>Click each right answer. Wrong answer? Strike it.</p>
+      return `<h3>Playing: ${tn(r.control)}</h3>${say(r.strikes === 2 ? 'Careful, one more strike and they can steal!' : 'Next player, give me an answer!')}<p>Click each right answer. Wrong answer? Strike it.</p>
         <div class="btn-row"><button type="button" class="btn btn-red btn-big" data-act="miss">Strike <kbd>X</kbd></button></div>
         ${strikes}${pot}
         <div class="btn-row small"><button type="button" class="btn btn-ghost btn-sm" data-act="switch">Switch team</button><button type="button" class="btn btn-ghost btn-sm" data-act="awardnow" data-team="${r.control}">Give pot to ${tn(r.control)} now</button></div>`;
     case 'steal':
-      return `<h3>Three strikes!</h3>${say(tn(r.stealer) + ', huddle up. One answer to steal it all.')}<p>${tn(r.stealer)} gets one guess to steal the pot. Talk it over, then click their answer if it's on the board.</p>
+      return `<h3>Three strikes!</h3>${say(tn(r.stealer) + ', huddle up. One answer to steal it all.')}<p>Chance to steal for ${tn(r.stealer)}: one guess takes the whole pot. Talk it over, then click their answer if it's on the board.</p>
         <div class="btn-row"><button type="button" class="btn btn-red btn-big" data-act="miss">Steal failed <kbd>X</kbd></button></div>${strikes}${pot}`;
     case 'roundEnd': {
       const aw = r.awarded;
       const left = r.revealed.some((x) => !x);
       const ends = gameWillEnd();
-      return `<h3>${tn(aw.team)} ${aw.why === 'steal' ? 'steals' : 'wins'} ${aw.pts} points!</h3>${say(left ? 'Let\'s see the rest of the top answers!' : 'Give it up for ' + tn(aw.team) + '!')}
+      return `<h3>${aw.why === 'steal' ? 'Stolen! ' : ''}${aw.pts} points to ${tn(aw.team)}</h3>${say(left ? 'Let\'s see the rest of the top answers!' : 'Give it up for ' + tn(aw.team) + '!')}
         <p>${aw.why === 'cleared' ? 'They cleared the board.' : aw.why === 'stealfail' ? 'The steal missed, so the pot stays.' : r.mult > 1 ? `Pot of ${r.pot} times ${r.mult}.` : 'Nice round.'}</p>
         <div class="btn-row">${left ? '<button type="button" class="btn btn-ghost btn-big" data-act="rest">Show the rest</button>' : ''}<button type="button" class="btn btn-gold btn-big" data-act="next">${ends ? 'See the winner' : 'Next round'} <kbd>N</kbd></button></div>`;
     }
     case 'gameOver': {
       const w = G.winner;
-      return `<h3>${w >= 0 ? tn(w) + ' wins the game!' : "It's a tie!"}</h3>${say(w >= 0 ? 'Congratulations, ' + tn(w) + '! Who is ready for the Lightning Round?' : 'What a game!')}
+      return `<h3>${w >= 0 ? 'Winner: ' + tn(w) : "It's a tie!"}</h3>${say(w >= 0 ? 'Congratulations, ' + tn(w) + '! Who is ready for the Lightning Round?' : 'What a game!')}
         <p>${tn(0)} ${G.teams[0].score}, ${tn(1)} ${G.teams[1].score}.</p>
         <div class="btn-row"><button type="button" class="btn btn-gold btn-big" data-act="lightning">Play the Lightning Round${w >= 0 ? ' for ' + tn(w) : ''}</button></div>
         <div class="btn-row"><button type="button" class="btn" data-act="rematch">Rematch</button><button type="button" class="btn btn-ghost" data-act="newgame">New game</button><button type="button" class="btn btn-ghost" data-act="home">Home</button></div>`;

@@ -4,12 +4,26 @@
    ========================================================= */
 const X_SVG = '<svg viewBox="0 0 100 100" aria-hidden="true"><path d="M20,6 L50,36 L80,6 L94,20 L64,50 L94,80 L80,94 L50,64 L20,94 L6,80 L36,50 L6,20 Z" fill="#E63946" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round"/></svg>';
 
+/**
+ * Make text fit its box without ever cutting it off:
+ * shrink on one line first; if that would get too small, wrap to two lines and shrink until it fits.
+ */
 function fitText(n) {
   n.style.fontSize = '';
-  if (!n.clientWidth) return;
-  let fs = parseFloat(getComputedStyle(n).fontSize);
-  const min = fs * 0.5;
-  while (n.scrollWidth > n.clientWidth + 1 && fs > min) { fs -= 1; n.style.fontSize = fs + 'px'; }
+  n.classList.remove('two');
+  if (!n.clientWidth || !n.textContent) return;
+  const base = parseFloat(getComputedStyle(n).fontSize);
+  const over = () => n.scrollWidth > n.clientWidth + 1 || n.scrollHeight > n.clientHeight + 1;
+  let fs = base;
+  const oneLineMin = base * 0.62;
+  while (over() && fs > oneLineMin) { fs -= 1; n.style.fontSize = fs + 'px'; }
+  if (!over()) return;
+  // Two lines: start a little smaller than the base, then shrink until both lines fit.
+  n.classList.add('two');
+  fs = Math.min(base * 0.82, fs + 4);
+  n.style.fontSize = fs + 'px';
+  const min = Math.max(8, base * 0.3);
+  while (over() && fs > min) { fs -= 1; n.style.fontSize = fs + 'px'; }
 }
 
 function createBoard(el, opts) {
@@ -84,6 +98,15 @@ function createBoard(el, opts) {
 
   function fitAll() { $$('.tile-back .ans, .lr-a', el).forEach(fitText); }
   window.addEventListener('resize', debounce(fitAll, 150));
+  // Refit whenever the board changes size (window moved to the TV, full screen, one-screen mode shown).
+  let lastSize = '';
+  if (typeof ResizeObserver === 'function') {
+    new ResizeObserver(debounce(() => {
+      const s = el.clientWidth + 'x' + el.clientHeight;
+      if (s !== lastSize && el.clientWidth) { lastSize = s; fitAll(); }
+    }, 60)).observe(el);
+  }
+  document.addEventListener('fullscreenchange', () => setTimeout(fitAll, 120));
 
   function showStrikes(n, reduced) {
     const s = q('.bd-strikes');
@@ -119,17 +142,17 @@ function createBoard(el, opts) {
       case 'faceoff': {
         const fo = r.fo;
         if (fo.step === 'buzz') return S.tiebreak ? 'Tiebreaker face-off!' : 'Face-off!';
-        if (fo.step === 'first') return tn(fo.first) + ' buzzed in!';
-        if (fo.step === 'second') return tn(other(fo.first)) + ', can you beat it?';
+        if (fo.step === 'first') return 'Buzzed in: ' + tn(fo.first);
+        if (fo.step === 'second') return 'Your turn to beat it: ' + tn(other(fo.first));
         if (fo.step === 'hostpick') return 'Nobody found it!';
-        if (fo.step === 'playpass') return tn(fo.winner) + ' wins the face-off! Play or pass?';
+        if (fo.step === 'playpass') return 'Face-off winner: ' + tn(fo.winner) + '. Play or pass?';
         return '';
       }
-      case 'play': return tn(r.control) + ' is playing';
-      case 'steal': return tn(r.stealer) + ' can steal!';
+      case 'play': return 'Playing: ' + tn(r.control);
+      case 'steal': return 'Chance to steal: ' + tn(r.stealer);
       case 'roundEnd':
         if (!r.awarded) return '';
-        return tn(r.awarded.team) + (r.awarded.why === 'steal' ? ' steals ' : ' takes ') + r.awarded.pts + ' points!';
+        return (r.awarded.why === 'steal' ? 'Stolen! ' : '') + r.awarded.pts + ' points to ' + tn(r.awarded.team) + '!';
       default: return '';
     }
   }
@@ -223,7 +246,6 @@ function createBoard(el, opts) {
 
     // Tiles
     if (r.key !== roundKey) { roundKey = r.key; buildTiles(r); } else {
-      if (!fitAll.done && el.clientWidth) { fitAll.done = true; fitAll(); }
       $$('.tile[data-i]', q('.bd-grid')).forEach((tile) => {
         const i = +tile.dataset.i;
         tile.classList.toggle('revealed', !!r.revealed[i]);
@@ -231,6 +253,7 @@ function createBoard(el, opts) {
       });
     }
     banner(phaseBanner(S));
+    if (!render.tipGone && (r.revealed.some(Boolean) || S.roundNo > 1 || S.phase === 'gameOver' || S.phase === 'lightning')) { render.tipGone = true; hint('', 0); }
     const ck = q('.bd-clock');
     const c = S.clock;
     ck.classList.toggle('on', !!c && S.phase !== 'gameOver' && S.phase !== 'lightning');
@@ -256,7 +279,7 @@ function createBoard(el, opts) {
       const w = S.winner;
       const n = q('.bd-win-n');
       if (w >= 0) {
-        n.textContent = S.teams[w].name + ' wins!';
+        n.textContent = S.teams[w].name;
         n.style.color = colorHex(S.teams[w].color);
         q('.bd-win-s').textContent = S.teams[w].score + ' points';
         setText('.bd-win-k', 'Winner');
@@ -311,7 +334,7 @@ function startBoardWindow() {
   });
   const status = () => BoardLink.send({ type: 'status', fullscreen: isFullscreen(), w: window.innerWidth, h: window.innerHeight });
   document.addEventListener('fullscreenchange', () => { status(); if (isFullscreen()) board.hint('', 0); });
-  document.addEventListener('webkitfullscreenchange', status);
+  document.addEventListener('webkitfullscreenchange', () => { status(); if (isFullscreen()) board.hint('', 0); });
   window.addEventListener('resize', debounce(status, 200));
   setTimeout(status, 500);
   document.addEventListener('keydown', (e) => {

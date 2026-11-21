@@ -450,9 +450,12 @@ html.hc .bd { background-image: none; }
 .tile-front { justify-content: center; background: linear-gradient(180deg, #3159D4, #1C3FAA 55%, #15338F); border: calc(var(--u) * 0.25) solid #4A72EA; box-shadow: inset 0 calc(var(--u) * 0.3) 0 rgba(255, 255, 255, 0.12); }
 .num { display: grid; place-items: center; width: min(calc(var(--u) * 5.4), 82cqh); height: min(calc(var(--u) * 5.4), 82cqh); border-radius: 50%; background: radial-gradient(circle at 35% 30%, #FFE29A, var(--gold) 60%, #D9961C); color: var(--navy); font-size: min(calc(var(--u) * 3.4), 52cqh); box-shadow: 0 0 0 calc(var(--u) * 0.3) rgba(10, 18, 56, 0.35), 0 calc(var(--u) * 0.4) calc(var(--u) * 1) rgba(0, 0, 0, 0.35); }
 .tile-back { background: linear-gradient(180deg, #2A55D8, #1C3FAA 60%, #1735A0); border: calc(var(--u) * 0.25) solid #FFD06B; padding-left: calc(var(--u) * 1.6); justify-content: space-between; overflow: hidden; }
-.tile-back .ans { flex: 1; min-width: 0; font-size: min(calc(var(--u) * 3.3 * var(--tscale)), 62cqh); text-transform: uppercase; letter-spacing: 0.03em; color: var(--cream); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-shadow: 0 calc(var(--u) * 0.2) 0 rgba(0, 0, 0, 0.35); }
+.tile-back .ans { flex: 1; min-width: 0; align-self: stretch; display: flex; align-items: center; padding-right: calc(var(--u) * 0.8); font-size: min(calc(var(--u) * 3.3 * var(--tscale)), 62cqh); text-transform: uppercase; letter-spacing: 0.03em; color: var(--cream); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-shadow: 0 calc(var(--u) * 0.2) 0 rgba(0, 0, 0, 0.35); }
 .tile-back .ans.sm { font-size: min(calc(var(--u) * 2.7 * var(--tscale)), 56cqh); }
 .tile-back .ans.xs { font-size: min(calc(var(--u) * 2.25 * var(--tscale)), 50cqh); }
+/* Never truncate an answer: fitText() shrinks it, then wraps to two lines if needed. */
+.tile-back .ans, .lr-a { text-overflow: clip !important; }
+.tile-back .ans.two, .lr-a.two { white-space: normal; line-height: 1.02; overflow-wrap: break-word; word-break: normal; padding-top: calc(var(--u) * 0.2); padding-bottom: calc(var(--u) * 0.2); }
 .tile-back .pts { align-self: stretch; display: grid; place-items: center; min-width: calc(var(--u) * 7.5); background: linear-gradient(180deg, #FFD06B, var(--gold)); color: var(--navy); font-size: min(calc(var(--u) * 3.8), 66cqh); border-left: calc(var(--u) * 0.25) solid var(--gold-d); }
 .tile.free .tile-back { background: linear-gradient(180deg, #23408F, #172E73); }
 .tile.free .pts { background: #8F99C2; border-left-color: #6C76A0; }

@@ -41,7 +41,7 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function shot(page, name) {
   if (!wantShots) return;
-  await sleep(450);
+  await sleep(1100);
   const vp = page.viewportSize();
   await page.screenshot({ path: path.join(SHOTS, `${name}-${vp.width}x${vp.height}.png`) });
 }
@@ -109,6 +109,9 @@ async function runEngine(name) {
   await page.keyboard.press('1');
   await sleep(300);
   check(await board.$eval('.tile[data-i="0"]', (t) => t.classList.contains('revealed')), 'board flips the revealed tile');
+  check(!(await board.$eval('.bd-hint', (h) => h.classList.contains('show'))), 'TV tip hides after the first reveal');
+  check(/^Playing: /.test(await board.textContent('.bd-banner')), 'banner wording works for any team name (Playing: ...)');
+  check(await board.$$eval('.tile-back .ans', (ns) => ns.every((n) => n.scrollWidth <= n.clientWidth + 1 && n.scrollHeight <= n.clientHeight + 1)), 'no answer is cut off on the board');
   // Duplicate guard
   await page.keyboard.press('1');
   check(await page.$eval('#toasts', (t) => /already on the board/i.test(t.textContent)), 'duplicate answer warning');

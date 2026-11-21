@@ -461,9 +461,12 @@ html.hc .bd { background-image: none; }
 .tile-front { justify-content: center; background: linear-gradient(180deg, #3159D4, #1C3FAA 55%, #15338F); border: calc(var(--u) * 0.25) solid #4A72EA; box-shadow: inset 0 calc(var(--u) * 0.3) 0 rgba(255, 255, 255, 0.12); }
 .num { display: grid; place-items: center; width: min(calc(var(--u) * 5.4), 82cqh); height: min(calc(var(--u) * 5.4), 82cqh); border-radius: 50%; background: radial-gradient(circle at 35% 30%, #FFE29A, var(--gold) 60%, #D9961C); color: var(--navy); font-size: min(calc(var(--u) * 3.4), 52cqh); box-shadow: 0 0 0 calc(var(--u) * 0.3) rgba(10, 18, 56, 0.35), 0 calc(var(--u) * 0.4) calc(var(--u) * 1) rgba(0, 0, 0, 0.35); }
 .tile-back { background: linear-gradient(180deg, #2A55D8, #1C3FAA 60%, #1735A0); border: calc(var(--u) * 0.25) solid #FFD06B; padding-left: calc(var(--u) * 1.6); justify-content: space-between; overflow: hidden; }
-.tile-back .ans { flex: 1; min-width: 0; font-size: min(calc(var(--u) * 3.3 * var(--tscale)), 62cqh); text-transform: uppercase; letter-spacing: 0.03em; color: var(--cream); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-shadow: 0 calc(var(--u) * 0.2) 0 rgba(0, 0, 0, 0.35); }
+.tile-back .ans { flex: 1; min-width: 0; align-self: stretch; display: flex; align-items: center; padding-right: calc(var(--u) * 0.8); font-size: min(calc(var(--u) * 3.3 * var(--tscale)), 62cqh); text-transform: uppercase; letter-spacing: 0.03em; color: var(--cream); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-shadow: 0 calc(var(--u) * 0.2) 0 rgba(0, 0, 0, 0.35); }
 .tile-back .ans.sm { font-size: min(calc(var(--u) * 2.7 * var(--tscale)), 56cqh); }
 .tile-back .ans.xs { font-size: min(calc(var(--u) * 2.25 * var(--tscale)), 50cqh); }
+/* Never truncate an answer: fitText() shrinks it, then wraps to two lines if needed. */
+.tile-back .ans, .lr-a { text-overflow: clip !important; }
+.tile-back .ans.two, .lr-a.two { white-space: normal; line-height: 1.02; overflow-wrap: break-word; word-break: normal; padding-top: calc(var(--u) * 0.2); padding-bottom: calc(var(--u) * 0.2); }
 .tile-back .pts { align-self: stretch; display: grid; place-items: center; min-width: calc(var(--u) * 7.5); background: linear-gradient(180deg, #FFD06B, var(--gold)); color: var(--navy); font-size: min(calc(var(--u) * 3.8), 66cqh); border-left: calc(var(--u) * 0.25) solid var(--gold-d); }
 .tile.free .tile-back { background: linear-gradient(180deg, #23408F, #172E73); }
 .tile.free .pts { background: #8F99C2; border-left-color: #6C76A0; }
@@ -1964,12 +1967,26 @@ const BoardLink = {
    ========================================================= */
 const X_SVG = '<svg viewBox="0 0 100 100" aria-hidden="true"><path d="M20,6 L50,36 L80,6 L94,20 L64,50 L94,80 L80,94 L50,64 L20,94 L6,80 L36,50 L6,20 Z" fill="#E63946" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round"/></svg>';
 
+/**
+ * Make text fit its box without ever cutting it off:
+ * shrink on one line first; if that would get too small, wrap to two lines and shrink until it fits.
+ */
 function fitText(n) {
   n.style.fontSize = '';
-  if (!n.clientWidth) return;
-  let fs = parseFloat(getComputedStyle(n).fontSize);
-  const min = fs * 0.5;
-  while (n.scrollWidth > n.clientWidth + 1 && fs > min) { fs -= 1; n.style.fontSize = fs + 'px'; }
+  n.classList.remove('two');
+  if (!n.clientWidth || !n.textContent) return;
+  const base = parseFloat(getComputedStyle(n).fontSize);
+  const over = () => n.scrollWidth > n.clientWidth + 1 || n.scrollHeight > n.clientHeight + 1;
+  let fs = base;
+  const oneLineMin = base * 0.62;
+  while (over() && fs > oneLineMin) { fs -= 1; n.style.fontSize = fs + 'px'; }
+  if (!over()) return;
+  // Two lines: start a little smaller than the base, then shrink until both lines fit.
+  n.classList.add('two');
+  fs = Math.min(base * 0.82, fs + 4);
+  n.style.fontSize = fs + 'px';
+  const min = Math.max(8, base * 0.3);
+  while (over() && fs > min) { fs -= 1; n.style.fontSize = fs + 'px'; }
 }
 
 function createBoard(el, opts) {
@@ -2044,6 +2061,15 @@ function createBoard(el, opts) {
 
   function fitAll() { $$('.tile-back .ans, .lr-a', el).forEach(fitText); }
   window.addEventListener('resize', debounce(fitAll, 150));
+  // Refit whenever the board changes size (window moved to the TV, full screen, one-screen mode shown).
+  let lastSize = '';
+  if (typeof ResizeObserver === 'function') {
+    new ResizeObserver(debounce(() => {
+      const s = el.clientWidth + 'x' + el.clientHeight;
+      if (s !== lastSize && el.clientWidth) { lastSize = s; fitAll(); }
+    }, 60)).observe(el);
+  }
+  document.addEventListener('fullscreenchange', () => setTimeout(fitAll, 120));
 
   function showStrikes(n, reduced) {
     const s = q('.bd-strikes');
@@ -2079,17 +2105,17 @@ function createBoard(el, opts) {
       case 'faceoff': {
         const fo = r.fo;
         if (fo.step === 'buzz') return S.tiebreak ? 'Tiebreaker face-off!' : 'Face-off!';
-        if (fo.step === 'first') return tn(fo.first) + ' buzzed in!';
-        if (fo.step === 'second') return tn(other(fo.first)) + ', can you beat it?';
+        if (fo.step === 'first') return 'Buzzed in: ' + tn(fo.first);
+        if (fo.step === 'second') return 'Your turn to beat it: ' + tn(other(fo.first));
         if (fo.step === 'hostpick') return 'Nobody found it!';
-        if (fo.step === 'playpass') return tn(fo.winner) + ' wins the face-off! Play or pass?';
+        if (fo.step === 'playpass') return 'Face-off winner: ' + tn(fo.winner) + '. Play or pass?';
         return '';
       }
-      case 'play': return tn(r.control) + ' is playing';
-      case 'steal': return tn(r.stealer) + ' can steal!';
+      case 'play': return 'Playing: ' + tn(r.control);
+      case 'steal': return 'Chance to steal: ' + tn(r.stealer);
       case 'roundEnd':
         if (!r.awarded) return '';
-        return tn(r.awarded.team) + (r.awarded.why === 'steal' ? ' steals ' : ' takes ') + r.awarded.pts + ' points!';
+        return (r.awarded.why === 'steal' ? 'Stolen! ' : '') + r.awarded.pts + ' points to ' + tn(r.awarded.team) + '!';
       default: return '';
     }
   }
@@ -2183,7 +2209,6 @@ function createBoard(el, opts) {
 
     // Tiles
     if (r.key !== roundKey) { roundKey = r.key; buildTiles(r); } else {
-      if (!fitAll.done && el.clientWidth) { fitAll.done = true; fitAll(); }
       $$('.tile[data-i]', q('.bd-grid')).forEach((tile) => {
         const i = +tile.dataset.i;
         tile.classList.toggle('revealed', !!r.revealed[i]);
@@ -2191,6 +2216,7 @@ function createBoard(el, opts) {
       });
     }
     banner(phaseBanner(S));
+    if (!render.tipGone && (r.revealed.some(Boolean) || S.roundNo > 1 || S.phase === 'gameOver' || S.phase === 'lightning')) { render.tipGone = true; hint('', 0); }
     const ck = q('.bd-clock');
     const c = S.clock;
     ck.classList.toggle('on', !!c && S.phase !== 'gameOver' && S.phase !== 'lightning');
@@ -2216,7 +2242,7 @@ function createBoard(el, opts) {
       const w = S.winner;
       const n = q('.bd-win-n');
       if (w >= 0) {
-        n.textContent = S.teams[w].name + ' wins!';
+        n.textContent = S.teams[w].name;
         n.style.color = colorHex(S.teams[w].color);
         q('.bd-win-s').textContent = S.teams[w].score + ' points';
         setText('.bd-win-k', 'Winner');
@@ -2271,7 +2297,7 @@ function startBoardWindow() {
   });
   const status = () => BoardLink.send({ type: 'status', fullscreen: isFullscreen(), w: window.innerWidth, h: window.innerHeight });
   document.addEventListener('fullscreenchange', () => { status(); if (isFullscreen()) board.hint('', 0); });
-  document.addEventListener('webkitfullscreenchange', status);
+  document.addEventListener('webkitfullscreenchange', () => { status(); if (isFullscreen()) board.hint('', 0); });
   window.addEventListener('resize', debounce(status, 200));
   setTimeout(status, 500);
   document.addEventListener('keydown', (e) => {
@@ -2592,8 +2618,8 @@ function phaseHTML() {
       }
       if (fo.step === 'first' || fo.step === 'second') {
         const who = fo.step === 'first' ? fo.first : other(fo.first);
-        const prev = fo.step === 'second' ? (fo.firstRank >= 0 ? `<p class="hint">${tn(fo.first)} found answer #${fo.firstRank + 1}. ${tn(who)} needs a higher one.</p>` : `<p class="hint">${tn(fo.first)} missed. Any answer on the board wins it for ${tn(who)}.</p>`) : '';
-        return `<h3>${tn(who)} answers</h3>${say(fo.step === 'first' ? 'What do you say? ... Let\'s see the board!' : 'Can you beat it? Let\'s see the board!')}<p>Click their answer on the left. Not there?</p>
+        const prev = fo.step === 'second' ? (fo.firstRank >= 0 ? `<p class="hint">${tn(fo.first)} found answer #${fo.firstRank + 1}. To win, ${tn(who)} must name a higher answer.</p>` : `<p class="hint">${tn(fo.first)} missed. Any answer on the board wins it for ${tn(who)}.</p>`) : '';
+        return `<h3>Answering: ${tn(who)}</h3>${say(fo.step === 'first' ? 'What do you say? ... Let\'s see the board!' : 'Can you beat it? Let\'s see the board!')}<p>Click their answer on the left. Not there?</p>
           <div class="btn-row"><button type="button" class="btn btn-red btn-big" data-act="miss">Not on the board <kbd>X</kbd></button></div>${prev}${pot}`;
       }
       if (fo.step === 'hostpick') {
@@ -2602,30 +2628,30 @@ function phaseHTML() {
           <div class="btn-row">${teamBtn(0, 'fowin', tn(0) + ' plays')}${teamBtn(1, 'fowin', tn(1) + ' plays')}</div>`;
       }
       if (fo.step === 'playpass') {
-        return `<h3>${tn(fo.winner)} wins the face-off!</h3>${say(tn(fo.winner) + ', do you want to play or pass?')}<p>Did they choose to play or pass?</p>
+        return `<h3>Face-off winner: ${tn(fo.winner)}</h3>${say(tn(fo.winner) + ', do you want to play or pass?')}<p>Did they choose to play or pass?</p>
           <div class="btn-row"><button type="button" class="btn btn-gold btn-big" data-act="play">Play</button><button type="button" class="btn btn-big" data-act="pass">Pass to ${tn(other(fo.winner))}</button></div>${pot}`;
       }
       return '';
     }
     case 'play':
-      return `<h3>${tn(r.control)} is playing</h3>${say(r.strikes === 2 ? 'Careful, one more strike and they can steal!' : 'Next player, give me an answer!')}<p>Click each right answer. Wrong answer? Strike it.</p>
+      return `<h3>Playing: ${tn(r.control)}</h3>${say(r.strikes === 2 ? 'Careful, one more strike and they can steal!' : 'Next player, give me an answer!')}<p>Click each right answer. Wrong answer? Strike it.</p>
         <div class="btn-row"><button type="button" class="btn btn-red btn-big" data-act="miss">Strike <kbd>X</kbd></button></div>
         ${strikes}${pot}
         <div class="btn-row small"><button type="button" class="btn btn-ghost btn-sm" data-act="switch">Switch team</button><button type="button" class="btn btn-ghost btn-sm" data-act="awardnow" data-team="${r.control}">Give pot to ${tn(r.control)} now</button></div>`;
     case 'steal':
-      return `<h3>Three strikes!</h3>${say(tn(r.stealer) + ', huddle up. One answer to steal it all.')}<p>${tn(r.stealer)} gets one guess to steal the pot. Talk it over, then click their answer if it's on the board.</p>
+      return `<h3>Three strikes!</h3>${say(tn(r.stealer) + ', huddle up. One answer to steal it all.')}<p>Chance to steal for ${tn(r.stealer)}: one guess takes the whole pot. Talk it over, then click their answer if it's on the board.</p>
         <div class="btn-row"><button type="button" class="btn btn-red btn-big" data-act="miss">Steal failed <kbd>X</kbd></button></div>${strikes}${pot}`;
     case 'roundEnd': {
       const aw = r.awarded;
       const left = r.revealed.some((x) => !x);
       const ends = gameWillEnd();
-      return `<h3>${tn(aw.team)} ${aw.why === 'steal' ? 'steals' : 'wins'} ${aw.pts} points!</h3>${say(left ? 'Let\'s see the rest of the top answers!' : 'Give it up for ' + tn(aw.team) + '!')}
+      return `<h3>${aw.why === 'steal' ? 'Stolen! ' : ''}${aw.pts} points to ${tn(aw.team)}</h3>${say(left ? 'Let\'s see the rest of the top answers!' : 'Give it up for ' + tn(aw.team) + '!')}
         <p>${aw.why === 'cleared' ? 'They cleared the board.' : aw.why === 'stealfail' ? 'The steal missed, so the pot stays.' : r.mult > 1 ? `Pot of ${r.pot} times ${r.mult}.` : 'Nice round.'}</p>
         <div class="btn-row">${left ? '<button type="button" class="btn btn-ghost btn-big" data-act="rest">Show the rest</button>' : ''}<button type="button" class="btn btn-gold btn-big" data-act="next">${ends ? 'See the winner' : 'Next round'} <kbd>N</kbd></button></div>`;
     }
     case 'gameOver': {
       const w = G.winner;
-      return `<h3>${w >= 0 ? tn(w) + ' wins the game!' : "It's a tie!"}</h3>${say(w >= 0 ? 'Congratulations, ' + tn(w) + '! Who is ready for the Lightning Round?' : 'What a game!')}
+      return `<h3>${w >= 0 ? 'Winner: ' + tn(w) : "It's a tie!"}</h3>${say(w >= 0 ? 'Congratulations, ' + tn(w) + '! Who is ready for the Lightning Round?' : 'What a game!')}
         <p>${tn(0)} ${G.teams[0].score}, ${tn(1)} ${G.teams[1].score}.</p>
         <div class="btn-row"><button type="button" class="btn btn-gold btn-big" data-act="lightning">Play the Lightning Round${w >= 0 ? ' for ' + tn(w) : ''}</button></div>
         <div class="btn-row"><button type="button" class="btn" data-act="rematch">Rematch</button><button type="button" class="btn btn-ghost" data-act="newgame">New game</button><button type="button" class="btn btn-ghost" data-act="home">Home</button></div>`;
