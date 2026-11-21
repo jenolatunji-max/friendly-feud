@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{BRAND}} - Start Here</title>
+<style>
+/*@FONT*/
+@page { size: letter; margin: 0; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #0A1238; background: #FFF6E0; }
+.page { width: 8.5in; height: 11in; position: relative; overflow: hidden; break-after: page; page-break-after: always; display: flex; flex-direction: column; }
+.page:last-child { break-after: auto; page-break-after: auto; }
+.disp { font-family: Anton, Impact, 'Arial Narrow Bold', sans-serif; font-weight: 400; letter-spacing: .03em; text-transform: uppercase; }
+header { background: #0A1238; background-image: radial-gradient(ellipse 70% 100% at 50% -20%, rgba(47,107,255,.6), transparent 70%); color: #FFF6E0; text-align: center; padding: .25in .5in .22in; }
+header .logo { width: 3in; margin: 0 auto; }
+header .logo svg { width: 100%; height: auto; display: block; }
+header h1 { font-size: 30pt; color: #F6B93B; margin: .08in 0 0; line-height: 1; }
+header p { margin: .08in 0 0; font-size: 12pt; }
+main { padding: .24in .55in .12in; flex: 1; min-height: 0; }
+h2 { font-size: 19pt; color: #1C3FAA; margin: 0 0 .1in; line-height: 1.1; }
+.ways { display: grid; grid-template-columns: 1fr 1fr; gap: .2in; margin-bottom: .18in; }
+.way { background: #fff; border: 3px solid #1C3FAA; border-radius: 16px; padding: .16in .2in .18in; display: flex; flex-direction: column; }
+.way.alt { border-color: #F6B93B; }
+.tag { align-self: flex-start; font-size: 8.5pt; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; background: #1C3FAA; color: #fff; padding: 3px 8px; border-radius: 99px; }
+.way.alt .tag { background: #F6B93B; color: #0A1238; }
+.way h3 { font-size: 17pt; margin: .07in 0 .04in; line-height: 1.05; }
+.way p { font-size: 10.5pt; line-height: 1.4; margin: 0 0 .1in; flex: 1; }
+.btn { display: block; text-align: center; text-decoration: none; background: #F6B93B; color: #0A1238; border-radius: 12px; padding: .1in .1in; font-size: 15pt; }
+.way.alt .btn { background: #1C3FAA; color: #FFF6E0; }
+.url { display: block; text-align: center; font-size: 8.5pt; color: #3A4470; margin-top: 5px; word-break: break-all; text-decoration: none; }
+ol.steps { list-style: none; counter-reset: s; padding: 0; margin: 0; display: grid; gap: .08in; }
+ol.steps li { counter-increment: s; display: flex; gap: .12in; align-items: flex-start; background: #fff; border-radius: 12px; padding: .07in .14in; font-size: 10.2pt; line-height: 1.34; border: 1px solid #E3D8BC; }
+ol.steps li::before { content: counter(s); flex: none; display: grid; place-items: center; width: .34in; height: .34in; border-radius: 50%; background: #F6B93B; font-family: Anton, Impact, sans-serif; font-size: 15pt; }
+ol.steps b { display: block; font-size: 11.5pt; }
+kbd { border: 1px solid #0A1238; border-bottom-width: 2px; border-radius: 4px; padding: 0 5px; font: 700 9.5pt system-ui, sans-serif; background: #fff; }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: .22in; }
+.box { background: #fff; border-radius: 14px; padding: .13in .18in; border: 1px solid #E3D8BC; font-size: 10pt; line-height: 1.42; }
+.box ul { margin: 0; padding-left: 1.05em; }
+.box li { margin-bottom: 4px; }
+dl { margin: 0; }
+dt { font-weight: 800; margin-top: .07in; font-size: 10.5pt; }
+dt:first-child { margin-top: 0; }
+dd { margin: 2px 0 0; font-size: 10pt; line-height: 1.38; }
+.need { display: flex; gap: .14in; flex-wrap: wrap; margin: 0 0 .2in; }
+.need span { background: #0A1238; color: #FFF6E0; border-radius: 99px; padding: 5px 12px; font-size: 9.5pt; font-weight: 700; }
+.need span.no { background: #fff; color: #0A1238; border: 2px solid #0A1238; }
+.help { margin-top: .2in; background: #0A1238; color: #FFF6E0; border-radius: 16px; padding: .16in .22in; display: flex; gap: .2in; align-items: center; }
+.help h3 { color: #F6B93B; font-size: 16pt; margin: 0; white-space: nowrap; }
+.help p { margin: 0; font-size: 10.5pt; line-height: 1.4; }
+footer { flex: none; gap: .3in; padding: .12in .55in .22in; font-size: 8.5pt; color: #3A4470; display: flex; justify-content: space-between; border-top: 2px dashed #D9C79A; }
+</style>
+</head>
+<body>
+<!-- Page 1 -->
+<section class="page">
+  <header>
+    <div class="logo">{{LOGO}}</div>
+    <h1 class="disp">Thank you! Start here</h1>
+    <p>Your game show is ready. No PowerPoint, no macros, no sign up. Pick how you want to play.</p>
+  </header>
+  <main>
+    <div class="ways">
+      <div class="way">
+        <span class="tag">Fastest</span>
+        <h3 class="disp">Play online now</h3>
+        <p>Click the button and the game opens in your web browser. Nothing to download. Bookmark the page so it's ready on game night.</p>
+        <a class="btn disp" href="{{PLAY_URL}}">Open the game</a>
+        <a class="url" href="{{PLAY_URL}}">{{PLAY_URL}}</a>
+      </div>
+      <div class="way alt">
+        <span class="tag">Works with no internet</span>
+        <h3 class="disp">Download it</h3>
+        <p>Keep your own copy on your computer. Perfect for a party with weak Wi-Fi, or a work laptop. Download the zip, unzip it, double-click <b>index.html</b>.</p>
+        <a class="btn disp" href="{{ZIP_URL}}">Download the game</a>
+        <a class="url" href="{{ZIP_URL}}">{{ZIP_URL}}</a>
+      </div>
+    </div>
+    <h2 class="disp">Your first game in 5 steps</h2>
+    <ol class="steps">
+      <li><div><b>Use a laptop or desktop</b>Windows, Mac or Chromebook, in Chrome, Edge, Firefox or Safari.</div></li>
+      <li><div><b>Connect your TV</b>Plug your laptop into the TV with an HDMI cable, or cast/AirPlay the screen. Set the display to <strong>Extend</strong> (Windows: <kbd>Windows</kbd>+<kbd>P</kbd>. Mac: System Settings, Displays, turn off mirroring).</div></li>
+      <li><div><b>Click Quick Play</b>Pick a question pack and click Start game. A second window opens: that's the TV board.</div></li>
+      <li><div><b>Drag the TV board onto your TV</b>Click it and press <kbd>F</kbd> for full screen. Your laptop keeps the answers. The room only sees the board.</div></li>
+      <li><div><b>Play!</b>Click an answer to flip it, press <kbd>X</kbd> for a strike, and <kbd>U</kbd> to undo. The "Say" lines tell you what to say next.</div></li>
+    </ol>
+  </main>
+  <footer><span>Tip: run <b>Setup Check</b> on the home screen before guests arrive. It tests your TV, sound and buzzers in a minute.</span><span style="white-space:nowrap">Page 1 of 2</span></footer>
+</section>
+
+<!-- Page 2 -->
+<section class="page">
+  <main style="padding-top:.45in">
+    <h2 class="disp">What's inside</h2>
+    <div class="need">
+      <span>205 questions in 8 packs</span><span>Lightning Round included</span><span>Your Crowd survey builder</span><span>Printable host cards</span><span>Rules card and score sheet</span><span>Sound you control</span>
+    </div>
+    <div class="cols">
+      <div>
+        <h2 class="disp">Good to know</h2>
+        <div class="box"><ul>
+          <li><b>Your Crowd:</b> text your questions to guests before the party, paste their replies back in, and the board fills with their real answers.</li>
+          <li><b>One screen?</b> Choose One screen in Custom Game. Hold <kbd>H</kbd> for the host panel, and print host cards.</li>
+          <li><b>Sound:</b> click <b>Sound on</b> at the top of the host screen (or press <kbd>M</kbd>) to mute. Turn off single sounds in Settings.</li>
+          <li><b>Buzzers:</b> USB buzzers that type a key work. Set them in Settings.</li>
+          <li><b>Zoom, Teams or Meet:</b> share just the TV board window, with "share sound" on.</li>
+          <li><b>Your own questions:</b> Home, Edit Questions. Duplicate any pack to change it.</li>
+          <li><b>Saved automatically:</b> your packs and surveys stay in the browser you use. Use Settings, Export backup to move them.</li>
+        </ul></div>
+      </div>
+      <div>
+        <h2 class="disp">Troubleshooting</h2>
+        <div class="box"><dl>
+          <dt>The TV window didn't open.</dt><dd>Your browser blocked the pop-up. Click the blocked pop-up icon in the address bar, choose Always allow, then try again.</dd>
+          <dt>The TV shows the same as my laptop.</dt><dd>Switch your display to Extend instead of Mirror (see step 2).</dd>
+          <dt>No sound from the TV.</dt><dd>Pick the TV as your sound output, and check the game isn't muted.</dd>
+          <dt>The page refreshed mid-game.</dt><dd>Open it again and choose Pick up where you left off.</dd>
+          <dt>The download opened in the wrong app.</dt><dd>Unzip it first. Then right-click index.html, choose Open with, and pick your browser.</dd>
+          <dt>Can I use an iPad or phone?</dt><dd>Please use a laptop or desktop computer.</dd>
+        </dl></div>
+      </div>
+    </div>
+    <div class="help">
+      <h3 class="disp">Need a hand?</h3>
+      <p>Message me through Etsy and I'll help you get set up, usually within a day. If you had fun, a quick review means the world to a small shop. Have an amazing game night!</p>
+    </div>
+  </main>
+  <footer><span>{{BRAND}} is an independent party game. Not affiliated with any TV show. For personal use. Please don't share or resell.</span><span style="white-space:nowrap">Page 2 of 2</span></footer>
+</section>
+</body>
+</html>

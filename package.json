@@ -6,7 +6,8 @@
   "scripts": {
     "build": "node tools/build.js",
     "package": "node tools/build.js && node tools/package.js",
-    "test": "node tools/build.js && node tests/run.js"
+    "test": "node tools/build.js && node tests/run.js",
+    "pdf": "node tools/make-pdf.js"
   },
   "devDependencies": {
     "@fontsource/anton": "^5.1.0",
